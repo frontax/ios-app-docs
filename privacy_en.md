@@ -136,3 +136,4 @@ Data exported as backup files must be manually deleted by the user from the File
 This Privacy Policy may be changed without prior notice.
 Changes become effective upon publication on this page.
 
+**Last updated: **July 28, 2026
