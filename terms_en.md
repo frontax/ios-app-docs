@@ -138,4 +138,4 @@ Revised Terms become effective upon publication on this page.
 
 These Terms shall be governed by and construed in accordance with the laws of Japan.
 
-**Last updated: **July 28, 2026
+**Last updated: **July 30, 2026
