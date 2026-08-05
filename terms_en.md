@@ -1,141 +1,125 @@
 # Terms of Use
 
-## Article 1 (Scope)
+## Article 1 (Applicability)
 
-These Terms of Use (hereinafter "these Terms") set forth the conditions for using the iOS app "Tozan Kiroku" (Mountain Climbing Record, hereinafter "the App"). By using the App, you are deemed to have agreed to these Terms.
+These Terms of Use (the "Terms") set forth the conditions for using the iOS app "Hiking Record" (the "App"). By using the App, you agree to these Terms.
 
 ## Article 2 (App Features)
 
 The App provides the following features:
 
 - GPS-based hiking route recording
-- Multi-summit (traverse) recording (recording multiple summits in a single hike)
-- Course time planning (setting estimated times and rest stops for each checkpoint)
-- Course time tracking (comparison with plans)
-- Management, viewing, and manual entry of hiking records
-- Auto-detection and registration of past hiking records via photo scanning
-- Hiking statistics dashboard (monthly/yearly charts, summit completion rates for all mountain categories, prefecture distribution, personal records)
-- Automatic generation of highlight cards and social media sharing (including AI post generation, request input, photo/route map display options, and Famous Mountains summit rate display)
+- Multi-summit (traverse) recording (multiple summits per hike)
+- Course time plan creation (estimated time and rest time per checkpoint)
+- Course time actual recording (comparison with plan)
+- Hiking record management, viewing, and manual entry
+- Auto-detection and registration of past hikes via photo scan
+- Hiking statistics dashboard (monthly/yearly graphs, summit rates for all mountain categories, prefecture distribution, personal bests)
+- Highlight card auto-generation and social sharing (including AI caption generation, custom prompts, photo/route map display options, summit rate display)
 - Voice memo recording and transcription
 - Backup creation and restoration of hiking records and image data
-- Offline maps (using GSI tiles, with mountain name search download support)
-- GPX file import and export
-- CSV format hiking record export and import
-- Famous Mountains checklist (supporting all 12 lists including Japan's 100, 200, and 300 Famous Mountains, and regional lists)
+- Offline maps (using GSI tiles, with mountain name search download)
+- GPX file import/export
+- CSV format hiking record export/import
+- Famous mountain checklist (12 lists: Hyakumeizan, Nihyakumeizan, Sanbyakumeizan, and 9 regional lists)
 - Mountain weather forecast display
 - Trail search (including approach road retrieval)
-- Display of estimated times between trail checkpoints
+- Display of estimated time between trail checkpoints
 - Trail elevation profile display
-- Hiking record photo viewing
-- Live display of hiking information on Lock Screen and Dynamic Island
-- Estimated descent time calculation and sunset alerts
+- Hiking record photo viewer
+- Lock Screen and Dynamic Island live hiking information display
+- Estimated return time calculation and sunset alerts
 - Route deviation detection and audio warnings
-- Automatic backup of hiking records and crash recovery
-- Step-by-step banner guide for operations
-- Limited-time in-app events (expanded free version record limits, challenge badges, etc.)
+- Automatic backup and crash recovery for hiking records
+- Step banner guide for operation procedures
+- Limited-time in-app events (expanded free tier limits, challenge badges, etc.)
+- Map cache management (usage display and one-tap clearing)
 - Multilingual display in Japanese and English
 
 ## Article 3 (Multilingual Support)
 
-The App supports display in both Japanese and English.
-The display language switches automatically based on your device's system settings.
-Translation data for mountain names, prefecture names, and other terms is included within the app. While every effort has been made to ensure translation accuracy, complete accuracy is not guaranteed.
-Mountain names displayed in languages other than Japanese are based on romanization and commonly used English names, which may differ from official English designations.
+The App supports Japanese and English display. Display language switches automatically based on device system settings. Translation data for mountain names, prefecture names, etc. is included within the app. While we strive for translation accuracy, complete accuracy is not guaranteed. Mountain names displayed in non-Japanese languages are based on romanized and common English spellings and may differ from official English names.
 
 ## Article 4 (In-App Events)
 
-The App may host limited-time in-app events.
-During event periods, free version feature restrictions (such as the hiking record storage limit) may be temporarily relaxed.
-Hiking records saved during event periods remain viewable and editable after the event ends.
-Event content, duration, and benefits may be changed or terminated without prior notice.
-Events may also be announced on the App Store's in-app events page.
+The App may hold limited-time in-app events. During events, free tier limitations (such as record storage limits) may be temporarily relaxed. Hiking records saved during events remain viewable and editable after the event ends. Event content, duration, and benefits may be changed or terminated without notice. Events may also be announced on the App Store in-app events page.
 
 ## Article 5 (Disclaimer)
 
-The App does not guarantee hiking safety.
-GPS accuracy varies by environment, and recorded data is for reference only.
-Elevation data is a reference value obtained from the GSI API and may differ from actual elevations.
-Weather forecasts are information obtained from external services and may differ from actual weather conditions in mountainous areas.
+The App does not guarantee hiking safety. GPS accuracy varies by environment; recorded data is for reference only. Elevation data is a reference value obtained from the GSI API and may differ from actual elevation. Weather forecasts are obtained from external services and may differ from actual mountain weather conditions.
 
-Course time plans are reference values calculated from trail distance and elevation gain, and actual times may differ due to the user's fitness, weather, trail conditions, etc. Regardless of course time plan content, users should make appropriate decisions based on their own fitness, experience, and conditions on the day.
+Course time plans are reference values calculated from trail distance and elevation gain; actual times may differ based on physical fitness, weather, trail conditions, etc. Regardless of course time plans, users should make appropriate decisions based on their own fitness, experience, and conditions on the day.
 
-Statistics (monthly/yearly charts, cumulative elevation, walking distance, personal records, summit rates, etc.) are reference values calculated from GPS data in hiking records and may differ from actual values due to GPS accuracy and recording conditions.
+Statistics (monthly/yearly graphs, cumulative elevation, distance, personal bests, summit rates, etc.) are reference values calculated from GPS data and may differ from actual values due to GPS accuracy and recording conditions.
 
-AI-generated text (highlight card posts, etc.) is automatically generated by Apple Intelligence, and the accuracy and appropriateness of content is not guaranteed. Users should review text content before sharing and share at their own responsibility. Template-based text is generated on devices that do not support Apple Intelligence.
+AI-generated text (highlight card captions, etc.) is auto-generated by Apple Intelligence; accuracy and appropriateness are not guaranteed. Users should review text content before sharing and share at their own responsibility. Template-based text is generated on devices without Apple Intelligence support.
 
-Voice memo transcription is automatic conversion using speech recognition technology, and the accuracy of conversion results is not guaranteed. Please verify and correct important content yourself.
+Voice memo transcription is automatic conversion using speech recognition technology; accuracy is not guaranteed. Please verify and correct important content yourself.
 
-The backup and restore feature assists in preserving hiking records and image data, but restoration may not be possible due to backup file corruption, device status, storage capacity, etc. Users are responsible for storing backup files.
+Backup and restore features assist in preserving hiking records and image data, but restoration may fail due to file corruption, device conditions, storage capacity, etc. Users are responsible for backup file management.
 
-The photo scan feature auto-detects hiking records based on photo location data and capture times, and the accuracy of detection results is not guaranteed. Due to photo location accuracy and matching errors with mountain coordinate data, results may differ from actual hikes or hikes may not be detected. Please review detection results before registration.
+Photo scan detects hiking records based on photo location and timestamp; detection accuracy is not guaranteed. Results may differ from actual hikes or hikes may go undetected due to location accuracy and coordinate matching tolerances. Please verify detection results before registration.
 
-The sunset alert estimates descent time from walking pace and route information and provides warnings by comparison with sunset time. Sunset times are estimates obtained from external services and may differ from actual brightness due to terrain, weather, and season. Please descend with ample time regardless of this feature's warnings.
+Sunset alerts estimate return time from pace and route information and compare with sunset time for warnings. Sunset times are estimates from external services and may differ from actual daylight conditions. Descend with adequate time margin regardless of alerts.
 
-Route deviation alerts are reference information based on GPS position and set route distance, and may not detect accurately due to GPS accuracy, terrain, signal conditions, etc. Please always carry paper maps, compass, and other alternative means regardless of this feature's warnings.
+Route deviation alerts are reference information based on GPS position and set route distance; accurate detection may not be possible due to GPS accuracy, terrain, or signal conditions. Always carry paper maps, compasses, and other backup navigation regardless of alerts.
 
-The automatic backup feature reduces the risk of hiking record loss, but recovery may not be possible due to device status or storage capacity, etc. We recommend saving important records using the export or backup features.
+Auto-backup reduces the risk of record loss but may not recover data due to device conditions or storage capacity. We recommend saving important records using the export or backup features.
 
-Lock Screen and Dynamic Island displays use iOS Live Activity functionality and may not be displayed or may experience update delays due to OS version, device status, or system constraints.
+Lock Screen and Dynamic Island display uses iOS Live Activity and may not appear or may update with delay depending on OS version, device conditions, or system constraints.
 
 Mountain and place name translations in multilingual display are for reference and may differ from official English names designated by public authorities.
 
-When hiking, always check the latest weather information from multiple sources and carry appropriate gear and maps.
+Cache clearing is intended to improve map display performance, but maps may load slower temporarily after clearing as tiles need to be re-downloaded.
 
-The developer assumes no responsibility for any direct or indirect damages arising from the use of the App.
+Always check the latest weather information from multiple sources and bring appropriate equipment and maps when hiking.
 
-Records may be lost due to battery depletion, device failure, app issues, etc. We recommend saving important records using the export or backup features.
+The developer assumes no liability for any direct or indirect damages arising from the use of the App.
 
-## Article 6 (Social Media Sharing Precautions)
+Records may be lost due to battery depletion, device failure, or app malfunction. We recommend saving important records using the export or backup features.
 
-Social media sharing of highlight cards and posts should be done at the user's own judgment and responsibility.
-Users can choose to show/hide photos and route maps in highlight cards. Please verify that no unintended information is included before sharing.
-Please exercise caution regarding information contained in shared content (photos, location data, hiking data, AI-generated text).
-The handling of content on destination social media services is governed by each service's terms of use and privacy policy.
+## Article 6 (Social Media Sharing)
+
+Sharing of highlight cards and captions to social media is performed at the user's own judgment and responsibility. Users can select whether to include photos and route maps in highlight cards. Please verify that no unintended information is included before sharing. Please exercise caution regarding information contained in shared content (photos, location data, hiking data, AI-generated text). Content handling on destination social media services is governed by their respective terms of use and privacy policies.
 
 ## Article 7 (Prohibited Actions)
 
-Users must not engage in the following:
+Users must not:
 
-- Decompilation or reverse engineering of the App
-- Illegal activities using the App
-- Tampering with or unauthorized use of the App
+- Decompile or reverse engineer the App
+- Use the App for illegal activities
+- Tamper with or misuse the App
 
 ## Article 8 (In-App Purchases)
 
-Pro version purchases are made through Apple's in-app purchase system.
-Refunds are subject to Apple's policies.
-Pro version features may be changed without prior notice.
+Pro version purchase is processed through Apple's in-app purchase system. Refunds are subject to Apple's policies. Pro version features may be changed without notice.
 
 ## Article 9 (External Services)
 
-The App uses the following external services.
-Each service's terms of use apply to its use.
+The App uses the following external services. Each service's terms of use apply.
 
-- Geospatial Information Authority of Japan (GSI) Tiles (map data display and download)
+- GSI Tile Server (map data display and download)
 - GSI Elevation API (elevation profile retrieval)
 - Open-Meteo API (weather forecast data and sunset time retrieval)
-- Overpass API / OpenStreetMap (hiking trail and approach road data search)
-- Apple Intelligence / FoundationModels (social media post generation, compatible devices only)
+- Overpass API / OpenStreetMap (trail and approach road data search)
+- Apple Intelligence / FoundationModels (social media caption generation, supported devices only)
 - Apple Speech Framework (voice memo transcription)
 - Apple StoreKit (review request dialog display)
 
-## Article 10 (Intellectual Property Rights)
+## Article 10 (Intellectual Property)
 
-Copyright and other intellectual property rights related to the App belong to the developer.
-Hiking record data created by users (including course time plans and actuals) belongs to the users.
-The ownership of copyright for text generated by AI features is subject to Apple's terms of use.
+Copyright and other intellectual property rights related to the App belong to the developer. Hiking record data created by users (including course time plans and actuals) belongs to the user. Copyright of AI-generated text is subject to Apple's terms of use.
 
-## Article 11 (Changes to or Termination of Service)
+## Article 11 (Service Changes and Termination)
 
-The developer may change features, suspend, or terminate the App without prior notice.
+The developer may change, suspend, or terminate the App's features without prior notice.
 
-## Article 12 (Changes to These Terms)
+## Article 12 (Changes to Terms)
 
-These Terms may be changed without prior notice.
-Revised Terms become effective upon publication on this page.
+These Terms may be changed without notice. Revised Terms take effect upon publication on this page.
 
 ## Article 13 (Governing Law and Jurisdiction)
 
 These Terms shall be governed by and construed in accordance with the laws of Japan.
 
-**Last updated: **July 30, 2026
+**Last updated: **August 5, 2026
