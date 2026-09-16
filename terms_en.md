@@ -1,186 +1,204 @@
-# Terms of Service
+# Terms of Use
 
 ## Before You Start
 
-"Mountain Log Japan" was built to track your climbs with GPS and to keep planning, recording and looking back in a single app.
-No account is required, all of your data stays on your device, and there is no subscription.
-Please read these Terms before using the App so that you can enjoy it safely.
+Mountain Log Japan was created to record your hikes with GPS and bring everything from planning to looking back together in one app.
+No account is required, and your data is stored on your device (if you turn on iCloud Sync in the Pro version, it is also stored in your own iCloud). There is no subscription.
+To use the App safely and comfortably, please read these Terms before you start.
 
 ## Article 1 (Application)
 
-These Terms of Service (the "Terms") set out the conditions for using the iOS app "Mountain Log Japan" (the "App"). By using the App, you are deemed to have agreed to these Terms.
+These Terms of Use (the "Terms") set out the conditions for using the iOS app "Mountain Log Japan" (the "App"). By using the App, you are deemed to have agreed to these Terms.
 
-## Article 2 (Contents of the App)
+## Article 2 (Features of the App)
 
-The App provides the following features.
+The App provides the following features:
 
-- Recording climbing routes with GPS
-- Recording traverses (multiple summits in a single climb)
-- Generating time-lapse videos (creating, saving and sharing videos that animate your GPS track on a map)
-- Searching by mountain name to display the map and move to that mountain area
-- Setting the starting point of a route (walking direction)
-- Creating course time plans (setting walking and rest times per checkpoint, specifying a departure date and time, and route suggestions via shortest-route search)
-- Calculating the estimated arrival time at each checkpoint and the estimated descent time from your departure date and time
-- Recording course time actuals (comparison against the plan, real-time reflection of actual times)
-- Sharing a course time plan as an image
-- Automatic walking pace settings based on your past climbs
-- Starting a climb by reusing the route of a past climb record ("Climb the Same Route Again")
-- Sharing your current location (latitude, longitude, elevation and a map link)
-- Managing, viewing and manually entering climb records
-- Reordering photos in a climb record (drag and drop)
-- Automatic detection and registration of past climbs via photo scan
-- Climbing statistics dashboard (monthly and yearly graphs, summit rates for all famous-mountain lists, summit distribution by prefecture, personal bests)
-- Automatic generation of highlight cards and sharing to social media (including AI caption generation, request input, choosing whether to show photos and the route map, and displaying your 100 Famous Mountains summit rate)
+- Recording hiking routes with GPS
+- Recording multi-peak hikes (recording several summits in one hike)
+- Generating timelapse videos (creating, saving and sharing videos that animate your GPS track on a map)
+- Displaying the map and moving to a mountain area by mountain name search
+- Specifying the starting point (walking direction) of a route
+- Creating course time plans (setting time required and rest time for each checkpoint, specifying the departure date and time, and suggesting routes by shortest-route search)
+- Estimating arrival times at each checkpoint and the finish time based on the departure date and time
+- Recording actual course times (comparison with the plan, real-time updates of actual times)
+- Sharing course time plans as images
+- Automatic walking pace setting based on past hikes
+- Starting a hike by reusing the route of a past hiking record (Climb Same Route)
+- Sharing current location information (latitude, longitude, elevation and map link)
+- Managing, viewing and manually entering hiking records
+- Reordering photos in hiking records (drag and drop)
+- Automatically detecting and registering past hikes with Photo Scan
+- Hiking statistics dashboard (monthly and yearly charts, completion rates for all mountain lists, summits by prefecture, personal records)
+- Automatic generation and social sharing of highlight cards (including AI post generation, request input, choosing whether to show photos and route maps, and display of the 100 Famous Mountains completion rate)
 - Recording and transcribing voice memos
-- Creating and restoring backups of climb records and image data
-- Offline maps (using GSI tiles, with downloads by mountain name)
-- Toggling the dashboard on and off during a climb (swipe gesture)
+- Creating and restoring backups of hiking records and image data
+- Offline maps (using GSI tiles, with download by mountain name search)
+- Showing and hiding the dashboard during a hike (swipe gesture)
 - Importing and exporting GPX files
-- Exporting and importing climb records in CSV format
-- Famous mountain checklists (Japan's 100, 200 and 300 Famous Mountains plus regional lists, 12 lists in all, with Wikipedia links)
-- Displaying mountain weather forecasts
-- Searching for trails (including retrieving approach roads)
-- Displaying estimated times between checkpoints on a trail
-- Displaying the elevation profile of a trail
-- Viewing photos in a climb record
-- Live display of climbing information on the Lock Screen and in the Dynamic Island
-- Calculating the estimated descent time and issuing sunset alerts
-- Detecting off-route movement and issuing spoken warnings
-- Automatic backup of climb records and crash recovery
-- Guidance through step banners that show the operating sequence
-- Limited-time in-app events (raising the free version's record limit, awarding challenge badges, and similar)
-- Managing the map cache (checking usage and clearing it at once)
+- Exporting and importing hiking records in CSV format
+- Mountain checklists (all 12 lists, including Japan's 100, 200 and 300 Famous Mountains and regional lists, with Wikipedia links)
+- Mountain weather forecasts
+- Trail search (including approach roads)
+- Displaying time required between checkpoints on trails
+- Trail elevation profiles
+- Viewing photos in hiking records
+- Live display of hiking information on the Lock Screen and Dynamic Island
+- Recording summits and descents from the Lock Screen and Dynamic Island
+- Estimated finish time and sunset alerts (including spoken alerts)
+- Route deviation detection and spoken warnings
+- Automatic backup of hiking records and crash recovery
+- Step-by-step guidance with step banners
+- Limited-time in-app events (such as raised free record limits and challenge badges)
+- Map cache management (checking usage and clearing all)
+- iCloud Sync (Pro; syncing hiking records and photos across devices with the same Apple ID and deleting data in iCloud)
+- Switching the GPS accuracy mode (High Accuracy (Standard) or Power Saving, with automatic switching during Low Power Mode)
+- Switching display units (metric or imperial)
+- Support for the device's text size setting (Dynamic Type)
+- Guidance to Settings when location access is not allowed
 - Multilingual display in Japanese and English
 
-## Article 3 (Multiple Languages)
+## Article 3 (Multilingual Support)
 
-The App supports display in Japanese and English.
+The App supports Japanese and English.
 The display language switches automatically based on your device's system settings.
-Translation data for mountain names, prefecture names and similar terms is bundled inside the App. We make every effort to ensure translation accuracy, but we do not guarantee that it is complete.
-Mountain names displayed in languages other than Japanese are based on romanization and common English usage, and may differ from official English names.
+Translation data for mountain names, prefecture names and other terms is included in the App. We do our best to provide accurate translations but do not guarantee complete accuracy.
+Mountain names displayed in languages other than Japanese are based on romanization and common English names and may differ from official English names.
 
 ## Article 4 (In-App Events)
 
 The App may hold limited-time in-app events.
-During an event, the limits of the free version (such as the maximum number of saved climb records) may be temporarily relaxed.
-Climb records saved during an event remain viewable and editable after the event ends.
-The content, period and benefits of an event may be changed or discontinued without prior notice.
-Events may also be announced on the in-app events page of the App Store.
+During an event, restrictions of the free version (such as the maximum number of saved hiking records) may be temporarily relaxed.
+Hiking records saved during an event can still be viewed and edited after the event ends.
+Event content, periods and benefits may be changed or ended without notice.
+Events may also be announced on the App Store in-app events page.
 
 ## Article 5 (Disclaimer)
 
-The App does not guarantee your safety while climbing.
-GPS accuracy varies with your environment, and the recorded data is for reference only.
-Elevation data is a reference value retrieved from the GSI API and may differ from actual elevation.
-Weather forecasts are information retrieved from an external service and may differ from actual conditions in mountainous areas.
+The App does not guarantee your safety while hiking.
+GPS accuracy varies depending on the environment, and recorded data is for reference only.
+Elevation data is a reference value obtained from the GSI API and may differ from the actual elevation.
+Weather forecasts are obtained from external services and may differ from actual weather conditions in mountain areas.
 
-Course time plans are reference values calculated from trail distance and elevation gain, and actual times may differ depending on your fitness, the weather, trail conditions and other factors. Route suggestions from shortest-route search are also reference information and do not guarantee that a trail is actually passable. Regardless of what a course time plan says, you must make appropriate decisions based on your own fitness, experience and the conditions on the day.
+Course time plans are reference values calculated from trail distance and elevation change, and the actual time required may differ depending on your fitness, the weather, trail conditions and other factors. Routes suggested by shortest-route search are also for reference only and do not guarantee that trails are passable. Regardless of your course time plan, make appropriate decisions based on your own fitness, experience and the conditions on the day.
 
-The estimated arrival times at each checkpoint and the estimated descent time shown when you specify a departure date and time are estimates based on your course time plan. Actual times may differ due to a delayed departure, longer or shorter breaks, weather, trail conditions, congestion and other factors. Please treat these estimates as a planning guide only, and allow yourself plenty of margin based on conditions on the day.
+Estimated arrival times at each checkpoint and finish times shown when you specify a departure date and time are estimates based on your course time plan. Actual passing times may differ due to a late start, more or less rest, the weather, trail conditions, congestion and other factors. Use estimated times only as a planning guide, and leave plenty of margin depending on the conditions on the day.
 
-Mountain name search results are reference information based on the famous-mountain data bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. A location shown in the search results does not necessarily indicate a trailhead or a parking area.
+Mountain name search results are reference information based on mountain data bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. Locations shown in search results do not necessarily indicate trailheads or parking areas.
 
-Setting the starting point (walking direction) is a feature for determining the order of your route. It does not guarantee that entry from that point is possible or that travel in that direction is permitted. Always confirm entry points and passability using the latest trail information, on-site signage, and official information from local authorities or mountain huts.
+Specifying the starting point (walking direction) only determines the order of the route and does not guarantee that you can enter the mountains from that point or that travel in that direction is permitted. Always check entry points and whether trails are passable using the latest trail information, signs on site, and official information from local governments, mountain huts and other sources.
 
-The "Climb the Same Route Again" feature reuses route data saved in a past climb record. It does not guarantee that the route is still safe or passable. Trail conditions change due to disasters, landslides, snow, construction, seasonal closures and other factors. Even when reusing a past route, always check the latest trail and weather information beforehand. In addition, the times recorded in a past climb reflect the conditions at that time and do not guarantee how long the same climb will take now.
+Climb Same Route reuses route data saved in a past hiking record and does not guarantee that the route is still safe to travel. Trail conditions change due to disasters, collapses, snow, construction, seasonal closures and other factors. Even when reusing a past route, always check the latest trail information and weather forecasts in advance. The time taken in a past record reflects the conditions at that time and does not guarantee the time required for your next hike.
 
-Automatic walking pace settings are estimates based on your past climbs, and your actual pace may differ depending on your condition, the weather, the weight of your pack, trail conditions and other factors.
+Automatic walking pace settings are estimates based on past hikes and may differ from your actual pace depending on your physical condition, the weather, pack weight, trail conditions and other factors.
 
-Time-lapse videos are generated from GPS track data, and the display may differ from the actual route because of GPS accuracy.
+Timelapse videos are generated from GPS track data and may differ from your actual route due to GPS accuracy.
 
-Statistics (monthly and yearly graphs, elevation gain, distance, personal bests, summit rates and similar figures) are reference values calculated from the GPS data in your climb records, and may differ from actual values depending on GPS accuracy and how the climb was recorded.
+Statistics (monthly and yearly charts, total ascent, distance walked, personal records, completion rates, etc.) are reference values calculated from the GPS data in your hiking records and may differ from actual values depending on GPS accuracy and recording conditions.
 
-AI-generated text (such as highlight card captions) is generated automatically by Apple Intelligence, and we do not guarantee that the content is accurate or appropriate. Please review the text before sharing it, and share it at your own responsibility. On devices that do not support Apple Intelligence, template-based text is generated instead.
+AI-generated text (such as highlight card posts) is generated automatically by Apple Intelligence, and its accuracy and appropriateness are not guaranteed. Review the text before sharing and share it at your own responsibility. On devices that do not support Apple Intelligence, template-based text is generated.
 
-Voice memo transcription is an automatic conversion by speech recognition technology, and we do not guarantee the accuracy of the result. Please check and correct anything important yourself.
+Voice memo transcription is automatic conversion by speech recognition technology, and the accuracy of the results is not guaranteed. Please check and correct important content yourself.
 
-The backup and restore feature helps protect your climb records and image data, but restoration may fail due to a corrupted backup file, the state of your device, insufficient storage or other factors. You are responsible for storing your backup files.
+Backup and restore helps preserve hiking records and image data, but restoration may not be possible due to backup file corruption, device status, storage capacity and other factors. You are responsible for storing backup files.
 
-The photo scan feature detects climbs automatically from photo location data and timestamps, and we do not guarantee the accuracy of the results. Because of the accuracy of photo location data and matching errors against mountain coordinate data, results may differ from your actual climbs, or a climb may not be detected at all. Please review the detection results before registering them.
+iCloud Sync uses Apple's iCloud to sync hiking records and photos between devices. Sync may be delayed or fail, or data may not be reflected as intended, due to iCloud outages, network conditions, available iCloud storage, Apple ID sign-in status and other factors. Some data, such as course time plans, actual times and offline maps, is not synced. Photos may take time to sync depending on the number of photos and network conditions, and may not appear on other devices until syncing is complete. If you delete a hiking record or photo while iCloud Sync is on, it is also deleted from your other synced devices. Data deleted with "Delete iCloud Data" cannot be recovered. iCloud Sync is not a substitute for backups, so please save important records using the backup feature.
 
-Location sharing is reference information based on GPS data and may differ from your actual position depending on GPS accuracy, signal conditions and other factors. Do not rely on this feature alone as a means of communicating your position in an emergency.
+Downloaded offline maps are not included in device backups. If you restore your device from a backup or change devices, offline maps will not be restored. Before entering mountain areas without signal, always download the offline maps you need again and confirm that they display correctly.
 
-The sunset alert estimates your descent time from your walking pace and route information and compares it with the sunset time to warn you.
-The sunset time is an estimate retrieved from an external service and may differ from actual light conditions given the terrain, weather and season.
-Whether or not this feature issues a warning, please descend with plenty of time to spare.
+Photo Scan detects hiking records automatically based on photo location and date taken, and the accuracy of the results is not guaranteed. Results that differ from your actual hikes may be detected, or hikes may not be detected, due to the accuracy of photo location data, matching errors with mountain coordinate data and other factors. Please review the results before registering them.
 
-The off-route alert is reference information based on the distance between your GPS position and the route you set, and it may fail to detect deviations accurately depending on GPS accuracy, terrain, signal conditions and other factors.
-Whether or not this feature issues a warning, always carry alternative means such as a paper map and a compass.
+Location sharing is reference information based on GPS location and may differ from your actual position due to GPS accuracy, signal conditions and other factors. Do not rely solely on this feature to communicate your location in an emergency.
 
-The automatic backup feature reduces the risk of losing climb records, but recovery may not be possible depending on the state of your device, available storage and other factors.
-We recommend saving important records using the export or backup features.
+The sunset alert estimates your finish time from your walking pace and route information and warns you by comparing it with the sunset time.
+Sunset times are estimates obtained from an external service and may differ from actual daylight depending on terrain, weather and season.
+Spoken alerts may not be audible depending on your device volume, connected audio devices such as earphones, wind, rain, surrounding noise and other factors.
+Regardless of whether the alert is triggered, descend with plenty of time to spare.
 
-The Lock Screen and Dynamic Island display uses the iOS Live Activity feature, and it may not appear, or updates may be delayed, depending on your OS version, the state of your device and system constraints.
+The route deviation alert is reference information based on the distance between your GPS position and your planned route, and deviation may not be detected accurately due to GPS accuracy, terrain, signal conditions and other factors.
+Regardless of whether the alert is triggered, always carry alternatives such as a paper map and compass.
 
-Step banner guidance explains how to operate the App. It does not evaluate or guarantee the validity or safety of your climbing plan.
+If you select Power Saving as the GPS accuracy mode, or if the App runs in Power Saving automatically because of your device's Low Power Mode, location accuracy and the recording interval are reduced. As a result, the accuracy of recorded routes, distance, elevation and other data decreases, and route deviation alerts and sunset alerts may be delayed or may not work correctly. In sections where there is a risk of getting lost, also use alternatives such as a paper map and compass.
 
-Translations of mountain and place names in the multilingual display are reference information and may differ from official English names issued by public institutions.
+Automatic backup reduces the risk of losing hiking records, but recovery may not be possible depending on device status, storage capacity and other factors.
+We recommend saving important records using the export or backup feature.
 
-The cache clearing feature is intended to improve map display, but immediately after clearing, map tiles need to be downloaded again, so display may be temporarily slower.
+The Lock Screen and Dynamic Island display uses iOS Live Activities and may not appear or may update late depending on the OS version, device status and system restrictions. Likewise, summits and descents recorded with the buttons on the Lock Screen or Dynamic Island may not be reflected or may be delayed depending on the status of your device or the App. Please check the record in the App afterwards.
 
-The Wikipedia link on the famous mountain detail screen navigates to an external website, and the App is not responsible for the accuracy or timeliness of the information there.
+Step banner guidance explains how to operate the App and does not evaluate or guarantee the validity or safety of your hiking plan.
 
-When you go climbing, always check the latest weather information from multiple sources and carry appropriate equipment and maps.
+If location access is not allowed, features that use location, such as GPS recording, route deviation alerts and sunset alerts, will not work.
 
-The developer accepts no liability whatsoever for any direct or indirect damages arising from use of the App.
+Translations of mountain names, place names and other terms in multilingual display are reference information and may differ from official English names used by public authorities.
 
-Records may be lost due to battery depletion, device failure, app defects and other causes.
-We recommend saving important records using the export or backup features.
+Switching display units (imperial) converts data stored in metric units when it is displayed, and rounding may cause small differences in displayed values. Trail signs and maps in Japan generally use metric units, so take care when comparing values with information on site.
 
-## Article 6 (Notes on Sharing to Social Media)
+The cache clearing feature is intended to improve map display, but map tiles must be downloaded again immediately after clearing, so display may be temporarily slower.
 
-Sharing highlight cards, captions, time-lapse videos and course time plan images to social media is done at your own discretion and responsibility.
-You can choose whether to include photos and the route map on a highlight card. Please confirm that no unintended information is included before sharing.
-Please take care with the information contained in shared content (photos, location data, climbing data, AI-generated text and time-lapse videos).
-Location data sent by the location sharing feature allows the recipient to know where you are. Please be careful about whom you share it with.
-Handling of content at the destination social media service is governed by that service's own terms of service and privacy policy.
+Wikipedia links from the mountain detail screen lead to an external website, and the App is not responsible for the accuracy or timeliness of information on linked pages.
 
-## Article 7 (Prohibited Conduct)
+When hiking, always check the latest weather information from multiple sources and bring appropriate equipment and maps.
 
-You must not do any of the following.
+The developer accepts no responsibility for any direct or indirect damages arising from the use of the App.
 
-- Decompiling or reverse engineering the App
-- Using the App for illegal activities
-- Tampering with or misusing the App
+Records may be lost due to a dead battery, device failure, app malfunction or other causes.
+We recommend saving important records using the export or backup feature.
+
+## Article 6 (Notes on Social Sharing)
+
+Share highlight cards, posts, timelapse videos and course time plan images to social media at your own discretion and responsibility.
+You can choose whether to include photos and route maps in highlight cards. Before sharing, make sure no unintended information is included.
+Take sufficient care with the information contained in shared content (photos, location information, hiking data, AI-generated text and timelapse videos).
+Location information sent by location sharing allows recipients to know your current position. Take sufficient care in choosing who you share it with.
+Content on the social media services you share to is handled in accordance with each service's terms of use and privacy policy.
+
+## Article 7 (Prohibited Acts)
+
+You must not:
+
+- Decompile or reverse engineer the App
+- Use the App for illegal purposes
+- Modify or misuse the App
 
 ## Article 8 (In-App Purchases)
 
 The Pro version is purchased through Apple's in-app purchase system.
-The Pro version is a one-time (non-consumable) purchase; there is no monthly or yearly subscription billing.
-Refunds are governed by Apple's rules.
-The features included in the Pro version may change without prior notice.
+The Pro version is a one-time purchase (non-consumable), and no monthly or yearly subscription fees are charged.
+Refunds are subject to Apple's policies.
+Pro features may be changed without notice.
 
 ## Article 9 (External Services)
 
 The App uses the following external services.
-Use of each service is subject to its own terms.
+The terms of use of each service apply to its use.
 
-- GSI Maps tiles, Geospatial Information Authority of Japan (displaying and downloading map data)
-- GSI elevation API (retrieving elevation profiles)
-- Open-Meteo API (retrieving weather forecasts and sunset times)
-- Overpass API / OpenStreetMap (searching for trail and approach road data)
-- Apple Intelligence / FoundationModels (generating social media captions, on supported devices only)
+- GSI Tiles, Geospatial Information Authority of Japan (displaying and downloading map data)
+- GSI Elevation API (retrieving elevation profiles)
+- Open-Meteo API (retrieving weather forecast data and sunset times)
+- Overpass API / OpenStreetMap (searching trail and approach road data)
+- Apple Intelligence / FoundationModels (generating social media posts, supported devices only)
 - Apple Speech Framework (transcribing voice memos)
-- Apple StoreKit (displaying the review request dialog)
-- Wikipedia (external links from the famous mountain detail screen)
+- Apple StoreKit (displaying review request dialogs)
+- Apple iCloud / CloudKit (iCloud Sync; only when turned on by the user in the Pro version)
+- Wikipedia (external links from the mountain detail screen)
 
-## Article 10 (Intellectual Property Rights)
+## Article 10 (Intellectual Property)
 
 Copyright and other intellectual property rights relating to the App belong to the developer.
-Climb record data created by you (including course time plans, actuals and time-lapse videos) belongs to you.
-Ownership of copyright in text generated by AI features is governed by Apple's terms of service.
+Hiking record data you create (including course time plans, actual times and timelapse videos) belongs to you.
+Ownership of copyright in text generated by AI features is subject to Apple's terms of use.
 
 ## Article 11 (Changes to and Termination of the Service)
 
-The developer may change the features of the App, suspend it, or discontinue it without prior notice.
+The developer may change features of the App, suspend its provision or terminate it without prior notice.
 
 ## Article 12 (Changes to These Terms)
 
-These Terms may be changed without prior notice.
-Changed Terms take effect when they are published on this page.
+These Terms may be changed without notice.
+Changes take effect when they are posted on this page.
 
 ## Article 13 (Governing Law and Jurisdiction)
 
-These Terms are governed by and construed in accordance with the laws of Japan.
+These Terms are governed by the laws of Japan.
 
 **Last updated:** September 16, 2026
