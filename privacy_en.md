@@ -10,7 +10,7 @@ So you can focus on the mountain, the details are explained below.
 
 ## Introduction
 
-This Privacy Policy explains how the iOS app "Climbing Record" (the "App")
+This Privacy Policy explains how the iOS app "Mountain Log Japan" (the "App")
 handles user information.
 The App respects your privacy and is committed to protecting your personal information.
 
@@ -200,4 +200,4 @@ Time-lapse videos saved to your photo library must be deleted manually by you fr
 This Privacy Policy may be changed without prior notice.
 Changes take effect when they are published on this page.
 
-**Last updated:** September 7, 2026
+**Last updated:** September 16, 2026
