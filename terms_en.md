@@ -2,13 +2,13 @@
 
 ## Before You Start
 
-"Climbing Record" was built to track your climbs with GPS and to keep planning, recording and looking back in a single app.
+"Mountain Log Japan" was built to track your climbs with GPS and to keep planning, recording and looking back in a single app.
 No account is required, all of your data stays on your device, and there is no subscription.
 Please read these Terms before using the App so that you can enjoy it safely.
 
 ## Article 1 (Application)
 
-These Terms of Service (the "Terms") set out the conditions for using the iOS app "Climbing Record" (the "App"). By using the App, you are deemed to have agreed to these Terms.
+These Terms of Service (the "Terms") set out the conditions for using the iOS app "Mountain Log Japan" (the "App"). By using the App, you are deemed to have agreed to these Terms.
 
 ## Article 2 (Contents of the App)
 
@@ -183,4 +183,4 @@ Changed Terms take effect when they are published on this page.
 
 These Terms are governed by and construed in accordance with the laws of Japan.
 
-**Last updated:** September 7, 2026
+**Last updated:** September 16, 2026
