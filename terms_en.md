@@ -22,10 +22,12 @@ The App provides the following features:
 - Creating course time plans (setting time required and rest time for each checkpoint, specifying the departure date and time, and suggesting routes by shortest-route search)
 - Estimating arrival times at each checkpoint and the finish time based on the departure date and time
 - Recording actual course times (comparison with the plan, real-time updates of actual times)
+- Recalculating course times where there is no signal (without a network connection)
 - Sharing course time plans as images
 - Automatic walking pace setting based on past hikes
 - Starting a hike by reusing the route of a past hiking record (Climb Same Route)
 - Sharing current location information (latitude, longitude, elevation and map link)
+- Displaying the device heading at your current location on the map (including north-up maps)
 - Managing, viewing and manually entering hiking records
 - Reordering photos in hiking records (drag and drop)
 - Automatically detecting and registering past hikes with Photo Scan
@@ -45,8 +47,9 @@ The App provides the following features:
 - Viewing photos in hiking records
 - Live display of hiking information on the Lock Screen and Dynamic Island
 - Recording summits and descents from the Lock Screen and Dynamic Island
-- Estimated finish time and sunset alerts (including spoken alerts)
-- Route deviation detection and spoken warnings
+- Estimated finish time (based on walking pace excluding time spent stopped) and sunset alerts (including spoken alerts)
+- Route deviation detection (after reaching the start of the route) and spoken warnings
+- Searching for nearby trails and suggesting sections to fill in when you deviate from your route
 - Automatic backup of hiking records and crash recovery
 - Step-by-step guidance with step banners
 - Limited-time in-app events (such as raised free record limits and challenge badges)
@@ -84,6 +87,8 @@ Course time plans are reference values calculated from trail distance and elevat
 
 Estimated arrival times at each checkpoint and finish times shown when you specify a departure date and time are estimates based on your course time plan. Actual passing times may differ due to a late start, more or less rest, the weather, trail conditions, congestion and other factors. Use estimated times only as a planning guide, and leave plenty of margin depending on the conditions on the day.
 
+Recalculating course times where there is no signal uses only data stored on your device. Information obtained when connected to a network is not reflected, so the results may differ from the actual time required.
+
 Mountain name search results are reference information based on mountain data bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. Locations shown in search results do not necessarily indicate trailheads or parking areas.
 
 Specifying the starting point (walking direction) only determines the order of the route and does not guarantee that you can enter the mountains from that point or that travel in that direction is permitted. Always check entry points and whether trails are passable using the latest trail information, signs on site, and official information from local governments, mountain huts and other sources.
@@ -110,13 +115,20 @@ Photo Scan detects hiking records automatically based on photo location and date
 
 Location sharing is reference information based on GPS location and may differ from your actual position due to GPS accuracy, signal conditions and other factors. Do not rely solely on this feature to communicate your location in an emergency.
 
+The heading shown at your current location on the map is reference information based on your device's compass and other sensors, and may differ from the direction you are actually facing due to nearby metal, magnetism, electronic devices or the calibration state of your device. Decide which way to go together with a paper map, compass, signs on site and other means.
+
 The sunset alert estimates your finish time from your walking pace and route information and warns you by comparing it with the sunset time.
 Sunset times are estimates obtained from an external service and may differ from actual daylight depending on terrain, weather and season.
+The estimated finish time is calculated from your walking pace excluding time spent stopped, so it does not include breaks you have yet to take. Your actual finish time may be later than estimated due to breaks or delays.
 Spoken alerts may not be audible depending on your device volume, connected audio devices such as earphones, wind, rain, surrounding noise and other factors.
 Regardless of whether the alert is triggered, descend with plenty of time to spare.
 
 The route deviation alert is reference information based on the distance between your GPS position and your planned route, and deviation may not be detected accurately due to GPS accuracy, terrain, signal conditions and other factors.
+Route deviation detection starts only after you reach the start of your route, so you will not be warned if you go the wrong way before reaching it. Reaching the start is determined from GPS location, so detection may start late due to GPS accuracy and other factors.
 Regardless of whether the alert is triggered, always carry alternatives such as a paper map and compass.
+
+A section suggested when you deviate from your route shows a nearby trail and the section up to it based on trail data. It does not guarantee that you can move safely from your current location to that point, or that the section or trail actually exists and is passable. Trail data may differ from actual conditions and may not reflect abandoned trails, collapses, closures or other changes.
+If you get lost, do not head toward a suggested section by crossing slopes or descending streams. As a rule, go back the way you came to a point where you are certain of your location. Decide for yourself whether to fill in a section, taking into account the terrain, signs, weather and your own fitness.
 
 If you select Power Saving as the GPS accuracy mode, or if the App runs in Power Saving automatically because of your device's Low Power Mode, location accuracy and the recording interval are reduced. As a result, the accuracy of recorded routes, distance, elevation and other data decreases, and route deviation alerts and sunset alerts may be delayed or may not work correctly. In sections where there is a risk of getting lost, also use alternatives such as a paper map and compass.
 
@@ -201,4 +213,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** September 16, 2026
+**Last updated:** September 17, 2026
