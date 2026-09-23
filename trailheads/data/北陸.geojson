@@ -1,0 +1,4040 @@
+{
+ "type": "FeatureCollection",
+ "name": "北陸",
+ "generatedAt": "2026-09-23",
+ "osmData": "japan-latest.osm.pbf 2026-09-18T20:21:10Z",
+ "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4453446,
+     36.5830202
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-16-bs2352",
+    "kind": "bus_stop",
+    "name": "立山駅前",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-16-bs2352(0m) TH-n1332066765(685m) TH-n1332066134(820m)",
+    "attributes": "operator=立山黒部貫光（株）; busType=民間路線バス; busRoutes=称名滝線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-16-bs2352（36.583020, 137.445345、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5791362,
+     36.5806367
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-16-bs2372",
+    "kind": "bus_stop",
+    "name": "天狗平",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n711976080(172m) TH-n711976080(172m) TH-n711976080(172m)",
+    "attributes": "operator=立山黒部貫光（株）; busType=民間路線バス; busRoutes=弥陀ヶ原線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-16-bs2372（36.580637, 137.579136、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4348123457",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5954418,
+     36.577335
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-16-bs2414",
+    "kind": "bus_stop",
+    "name": "室堂",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1412330520(105m) TH-n1412330520(105m) TH-n1412330520(105m)",
+    "attributes": "operator=立山黒部貫光（株）; busType=民間路線バス; busRoutes=弥陀ヶ原線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-16-bs2414（36.577335, 137.595442、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1424063759",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0338575,
+     36.4144452
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-16-bs2867",
+    "kind": "bus_stop",
+    "name": "竜口谷口",
+    "datum": "WGS84",
+    "mountainIds": "301",
+    "mountainNames": "金剛堂山",
+    "lists": "日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n2052137540(894m)",
+    "attributes": "operator=南砺市; busType=コミュニティバス; busRoutes=利賀八尾線 / 村内線（百瀬方面）",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-16-bs2867（36.414445, 137.033857、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6021834,
+     35.9682273
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-18-bs2038",
+    "kind": "bus_stop",
+    "name": "東勝原",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-18-bs2038(0m)",
+    "attributes": "operator=大野市; busType=コミュニティバス; busRoutes=道の駅線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-18-bs2038（35.968227, 136.602183、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5955577,
+     35.9677282
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-18-bs2042",
+    "kind": "bus_stop",
+    "name": "勝原駅",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-18-bs2038(599m)",
+    "attributes": "operator=大野市; busType=コミュニティバス; busRoutes=和泉線 / 道の駅線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-18-bs2042（35.967728, 136.595558、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.639158,
+     35.9209987
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-18-bs2398",
+    "kind": "bus_stop",
+    "name": "下山岡畑",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n6480019634(515m)",
+    "attributes": "operator=大野市; busType=コミュニティバス; busRoutes=和泉線 / 中竜線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-18-bs2398（35.920999, 136.639158、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6261176,
+     35.9205348
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-18-bs2402",
+    "kind": "bus_stop",
+    "name": "下山坂無",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-18-bs2402(0m) TH-n6480019634(670m) TH-n1414594714(693m)",
+    "attributes": "operator=大野市; busType=コミュニティバス; busRoutes=和泉線 / 中竜線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-18-bs2402（35.920535, 136.626118、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.721242,
+     36.5593384
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-20-bs2536",
+    "kind": "bus_stop",
+    "name": "扇沢駅前",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596020186(803m) TH-w244361104(139m)",
+    "attributes": "operator=アルピコ交通（株）・（株）関電アメニックス; busType=民間路線バス; busRoutes=扇沢線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-20-bs2536（36.559338, 137.721242、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2516859439",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8012004,
+     36.7457594
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-20-bs655",
+    "kind": "bus_stop",
+    "name": "猿倉",
+    "datum": "WGS84",
+    "mountainIds": "248 253 260",
+    "mountainNames": "白馬岳、鑓ヶ岳、唐松岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-20-bs655(0m)",
+    "attributes": "operator=アルピコ交通（株）; busType=民間路線バス; busRoutes=白馬駅-白馬八方-猿倉線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-20-bs655（36.745759, 137.801200、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.6466092,
+     35.3429647
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-26-bs889",
+    "kind": "bus_stop",
+    "name": "八原",
+    "datum": "WGS84",
+    "mountainIds": "496",
+    "mountainNames": "八ヶ峰",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n843225206(675m)",
+    "attributes": "operator=南丹市; busType=公営路線バス; busRoutes=知見線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-26-bs889（35.342965, 135.646609、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7204854,
+     36.5581597
+    ]
+   },
+   "properties": {
+    "id": "BS-n1596019843",
+    "kind": "bus_stop",
+    "name": "扇沢",
+    "datum": "WGS84",
+    "mountainIds": "279 280 283",
+    "mountainNames": "針ノ木岳、蓮華岳、烏帽子岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n6549089208(609m)",
+    "attributes": "operator=関西電力; network=立山黒部アルペンルート",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596019843",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7203645,
+     36.5589158
+    ]
+   },
+   "properties": {
+    "id": "BS-n1596019922",
+    "kind": "bus_stop",
+    "name": "扇沢",
+    "datum": "WGS84",
+    "mountainIds": "279 280 283",
+    "mountainNames": "針ノ木岳、蓮華岳、烏帽子岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n6549089208(572m)",
+    "attributes": "operator=関西電力; network=立山黒部アルペンルート; busRoutes=関西電力｜立山黒部アルペンルート｜関電トンネル電気バス 黒部ダム => 扇沢",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596019922",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7207432,
+     36.5586953
+    ]
+   },
+   "properties": {
+    "id": "BS-n2474731005",
+    "kind": "bus_stop",
+    "name": "扇沢",
+    "datum": "WGS84",
+    "mountainIds": "279 280 283",
+    "mountainNames": "針ノ木岳、蓮華岳、烏帽子岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n6549089208(611m)",
+    "attributes": "operator=関西電力; network=立山黒部アルペンルート; busRoutes=関西電力｜立山黒部アルペンルート｜関電トンネル電気バス 扇沢 => 黒部ダム",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2474731005",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.720928,
+     36.5587813
+    ]
+   },
+   "properties": {
+    "id": "BS-n2516859449",
+    "kind": "bus_stop",
+    "name": "扇沢",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-w244361104(192m)",
+    "attributes": "busRoutes=関電アメニックス (北アルプス交通)｜扇沢線路線バス (上り) / 関電アメニックス (北アルプス交通)｜扇沢線路線バス (下り)",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2516859449",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.666413,
+     36.5670625
+    ]
+   },
+   "properties": {
+    "id": "BS-n2619428773",
+    "kind": "bus_stop",
+    "name": "黒部ダム",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n2619428773(0m) TH-n1412324140(884m) TH-n1412327567(305m)",
+    "attributes": "busRoutes=関西電力｜立山黒部アルペンルート｜関電トンネル電気バス 扇沢 => 黒部ダム / 関西電力｜立山黒部アルペンルート｜関電トンネル電気バス 黒部ダム => 扇沢",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2619428773",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7396377,
+     36.1249064
+    ]
+   },
+   "properties": {
+    "id": "BS-n3724829800",
+    "kind": "bus_stop",
+    "name": "別当出合",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n2430652665(235m) TH-n2349487826(23m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3724829800",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7209845,
+     36.5587829
+    ]
+   },
+   "properties": {
+    "id": "BS-n6834209693",
+    "kind": "bus_stop",
+    "name": "扇沢",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596020186(839m) TH-w244361104(188m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6834209693",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7209913,
+     36.5586107
+    ]
+   },
+   "properties": {
+    "id": "BS-n6834209694",
+    "kind": "bus_stop",
+    "name": "扇沢",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596020186(843m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6834209694",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.469337,
+     35.4965123
+    ]
+   },
+   "properties": {
+    "id": "PK-n10012524956",
+    "kind": "parking",
+    "name": "松尾寺駐車場",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n10012524956(0m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10012524956",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7376289,
+     36.1235488
+    ]
+   },
+   "properties": {
+    "id": "PK-n2430652665",
+    "kind": "parking",
+    "name": "Betoh Deai Parking",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n2430652665(0m) TH-n2349487826(257m)",
+    "attributes": "fee=no; capacity=150",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2430652665",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.837115,
+     36.6635855
+    ]
+   },
+   "properties": {
+    "id": "PK-n6577768194",
+    "kind": "parking",
+    "name": "エスカルプラザ;竜神の湯",
+    "datum": "WGS84",
+    "mountainIds": "260 263 267",
+    "mountainNames": "唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n3152446976(480m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6577768194",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8743223,
+     36.2568859
+    ]
+   },
+   "properties": {
+    "id": "PK-n6582054801",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n10058800943(31m)",
+    "attributes": "fee=no; access=yes",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6582054801",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7996738,
+     36.7471948
+    ]
+   },
+   "properties": {
+    "id": "PK-w1039520190",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "248 253 260",
+    "mountainNames": "白馬岳、鑓ヶ岳、唐松岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-20-bs655(209m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1039520190",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8012765,
+     36.7458556
+    ]
+   },
+   "properties": {
+    "id": "PK-w1039520191",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "248 253 260",
+    "mountainNames": "白馬岳、鑓ヶ岳、唐松岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-20-bs655(13m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1039520191",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4396827,
+     36.5765758
+    ]
+   },
+   "properties": {
+    "id": "PK-w1041514410",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1332066765(476m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1041514410",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4407893,
+     36.5760016
+    ]
+   },
+   "properties": {
+    "id": "PK-w1041514433",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1332066134(455m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1041514433",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4351642,
+     36.5797312
+    ]
+   },
+   "properties": {
+    "id": "PK-w1041514435",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1332066765(295m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1041514435",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8205596,
+     36.1434788
+    ]
+   },
+   "properties": {
+    "id": "PK-w1125827982",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1294072731(178m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1125827982",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8210644,
+     36.1445987
+    ]
+   },
+   "properties": {
+    "id": "PK-w1125827984",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1294072731(56m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1125827984",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7375845,
+     36.1234206
+    ]
+   },
+   "properties": {
+    "id": "PK-w1125834662",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n2430652665(15m) TH-n2349487826(270m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1125834662",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7382552,
+     36.1237404
+    ]
+   },
+   "properties": {
+    "id": "PK-w1125834663",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n2430652665(60m) TH-n2349487826(202m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1125834663",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8642473,
+     36.2610611
+    ]
+   },
+   "properties": {
+    "id": "PK-w1125964886",
+    "kind": "parking",
+    "name": "白川郷展望台駐車場",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n294460444(32m)",
+    "attributes": "fee=no; access=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1125964886",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8376945,
+     36.2635082
+    ]
+   },
+   "properties": {
+    "id": "PK-w1125965945",
+    "kind": "parking",
+    "name": "三方岩駐車場",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1294092512(19m)",
+    "attributes": "fee=no; access=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1125965945",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.444897,
+     36.5829582
+    ]
+   },
+   "properties": {
+    "id": "PK-w1181250435",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-16-bs2352(41m)",
+    "attributes": "access=permissive",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1181250435",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7305138,
+     36.5598628
+    ]
+   },
+   "properties": {
+    "id": "PK-w1240329573",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596020186(103m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1240329573",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7292716,
+     36.5602684
+    ]
+   },
+   "properties": {
+    "id": "PK-w1240329796",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596020186(86m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1240329796",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7264389,
+     36.560816
+    ]
+   },
+   "properties": {
+    "id": "PK-w1240333844",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596020186(324m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1240333844",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7222463,
+     36.5597714
+    ]
+   },
+   "properties": {
+    "id": "PK-w1240333859",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-w244361104(41m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1240333859",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.83159,
+     36.2619855
+    ]
+   },
+   "properties": {
+    "id": "PK-w1370011477",
+    "kind": "parking",
+    "name": "栂の木台駐車場",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n294459369(41m)",
+    "attributes": "fee=no; access=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1370011477",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8747464,
+     36.2571778
+    ]
+   },
+   "properties": {
+    "id": "PK-w1387488311",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n10058800943(19m)",
+    "attributes": "fee=no; access=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1387488311",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8744794,
+     36.2569844
+    ]
+   },
+   "properties": {
+    "id": "PK-w1387489096",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n10058800943(14m)",
+    "attributes": "fee=no",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1387489096",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5952585,
+     36.576885
+    ]
+   },
+   "properties": {
+    "id": "PK-w197896240",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1412330520(112m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/197896240",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.722292,
+     36.5594418
+    ]
+   },
+   "properties": {
+    "id": "PK-w244361095",
+    "kind": "parking",
+    "name": "扇沢有料駐車場（第3駐車場）",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-w244361104(51m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/244361095",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7227024,
+     36.559765
+    ]
+   },
+   "properties": {
+    "id": "PK-w244361104",
+    "kind": "parking",
+    "name": "扇沢有料駐車場（第4駐車場）",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-w244361104(0m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/244361104",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4452167,
+     36.5819552
+    ]
+   },
+   "properties": {
+    "id": "PK-w609199315",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-16-bs2352(118m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/609199315",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.446223,
+     36.5836765
+    ]
+   },
+   "properties": {
+    "id": "PK-w609199319",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-kP11-22-16-bs2352(107m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/609199319",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7249007,
+     36.4942315
+    ]
+   },
+   "properties": {
+    "id": "PK-w630234122",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "279 280 283 286",
+    "mountainNames": "針ノ木岳、蓮華岳、烏帽子岳、赤牛岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1596195211(191m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/630234122",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7995638,
+     36.8111631
+    ]
+   },
+   "properties": {
+    "id": "PK-w645318855",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "235 244 248 253",
+    "mountainNames": "朝日岳、雪倉岳、白馬岳、鑓ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本二百名山|日本百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1249472684(31m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/645318855",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5960264,
+     36.5766887
+    ]
+   },
+   "properties": {
+    "id": "PK-w689102523",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1412330520(52m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/689102523",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5935803,
+     36.5762685
+    ]
+   },
+   "properties": {
+    "id": "PK-w689102525",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1412330520(273m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/689102525",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8363821,
+     36.6638975
+    ]
+   },
+   "properties": {
+    "id": "PK-w700439943",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "260 263 267",
+    "mountainNames": "唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n3152446976(416m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/700439943",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.835127,
+     36.6641342
+    ]
+   },
+   "properties": {
+    "id": "PK-w700439945",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "260 263 267",
+    "mountainNames": "唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n3152446976(309m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/700439945",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4736399,
+     36.4833869
+    ]
+   },
+   "properties": {
+    "id": "PK-w788850758",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "285 286 298",
+    "mountainNames": "薬師岳、赤牛岳、黒部五郎岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n4730366636(162m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/788850758",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4692243,
+     35.4965567
+    ]
+   },
+   "properties": {
+    "id": "PK-w830742809",
+    "kind": "parking",
+    "name": "参拝者 第1駐車場",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n10012524956(11m)",
+    "attributes": "fee=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/830742809",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4706986,
+     35.497067
+    ]
+   },
+   "properties": {
+    "id": "PK-w831018878",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n10012524956(138m) TH-n1736024133(429m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/831018878",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.552082,
+     36.73113
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-abekidani",
+    "kind": "trailhead",
+    "name": "阿部木谷出合（毛勝山 西北尾根登山口）",
+    "datum": "WGS84",
+    "mountainIds": "257",
+    "mountainNames": "毛勝山",
+    "lists": "日本二百名山|日本三百名山",
+    "routes": "西北尾根コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=毛勝山（阿部木谷出合）西北尾根は往復で体力度5・技術的難易度C、コースタイム11.8時間、距離11.8km、登り下りとも累積1,950m、起点の標高713m、毛勝山2,415m（富山県 山のグレーディング）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "このルートは体力度4以上（1泊以上が適当）だが、途中に宿泊施設・テント場がない（富山県 山のグレーディング）、約200m南（36.729429, 137.552846、標高748.9m）にも徒歩道が林道から始まる位置がある",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が林道から始まる位置（36.731130, 137.552082）。国土地理院 標高API 717.8mで、富山県 山のグレーディングの起点標高713mと一致 2026-09-23確認 ｜ 公式情報: https://www.pref.toyama.jp/1709/kurashi/sportsleisure/tozan/kj00021724/index.html ｜ 公式情報: https://www.pref.toyama.jp/documents/8174/01399294r08.pdf",
+    "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.439972,
+     36.576279
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-awasuno",
+    "kind": "trailhead",
+    "name": "粟巣野スキー場（鍬崎山 周回ルート起点）",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "瀬戸蔵山→鍬崎山 周回",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=瀬戸蔵山→鍬崎山（粟巣野スキー場）は周回で体力度5・技術的難易度C、コースタイム11.9時間、距離13.9km、登り下りとも累積1,930m、起点の標高602m、鍬崎山2,090m（富山県 山のグレーディング）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "このルートは体力度4以上（1泊以上が適当）だが、途中に宿泊施設・テント場がない（富山県 山のグレーディング）、登山道の入口はスキー場側にあり、正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が道路から始まる位置（36.576279, 137.439972）。国土地理院 地名検索「粟巣野」（36.577717, 137.439328、JGD2011、165m差）2026-09-23確認 ｜ 公式情報: https://www.pref.toyama.jp/1709/kurashi/sportsleisure/tozan/kj00021724/index.html ｜ 公式情報: https://www.pref.toyama.jp/documents/8174/01399294r08.pdf",
+    "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.611595,
+     36.030041
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-karatani",
+    "kind": "trailhead",
+    "name": "唐谷コース登山口（経ヶ岳）",
+    "datum": "WGS84",
+    "mountainIds": "343",
+    "mountainNames": "経ヶ岳",
+    "lists": "日本三百名山",
+    "routes": "唐谷コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=唐谷コースは登り3時間20分、下り2時間30分（大野市）; parking=駐車場はなく5〜6台ほどのスペース、トイレなし。登山道入り口に看板がある（大野市・福井県）; access=中部縦貫自動車道大野ICまたは荒島ICから車で約20分。広域基幹林道が通行止めの場合は入れない（大野市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "唐谷コースは唐谷川沿いに進み、標高1,340m付近の池ノ大沢が貴重な水場（大野市）、切窓から山頂までは急登が続き、らくだの背は岩場や大きな石の道（福井県）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が林道から始まる位置（36.030041, 136.611595）、標高916.4m。周囲1.5kmで徒歩道が道路から始まる位置はここだけ。地理院地図の注記「唐谷川」から1,017m 2026-09-23確認 ｜ 公式情報: https://www.city.ono.fukui.jp/kanko/kanko-joho/guide/kyogadake.html ｜ 公式情報: https://info.pref.fukui.lg.jp/syougak/img/file105.pdf",
+    "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.105114,
+     36.418588
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-shirakimine8",
+    "kind": "trailhead",
+    "name": "白木峰八合目（登山口・駐車場）",
+    "datum": "WGS84",
+    "mountainIds": "292",
+    "mountainNames": "白木峰",
+    "lists": "日本三百名山",
+    "routes": "登山道コース、管理道コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=八合目に駐車場約20台とバイオトイレ（7時〜17時、季節営業、冬期は閉鎖）（富山市）; course=八合目から山頂まで登山道コース約60分、管理道コース約70分（富山市）; restriction=林道大谷線は21世紀の森杉ヶ平キャンプ場から八合目までが大規模崩落で車両通行止め（2026年5月時点、富山市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "車両通行止めの間も徒歩での登山は可能。復旧には複数年を要する見込み（富山市）、キャンプ場から先に水場はない。クマの生息地のため鈴などの対策が必要（富山市）、白木峰・小白木峰（駐車場）は往復で体力度3・技術的難易度B、コースタイム5.5時間、距離10.6km（富山県 山のグレーディング）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が林道から始まる位置（36.418588, 137.105114）。国土地理院 標高API 1,315.3mで、富山県 山のグレーディングの起点標高1,322mと一致 2026-09-23確認 ｜ 公式情報: https://www.city.toyama.lg.jp/bunka/bunka/1010547/1010558/1006038.html ｜ 公式情報: https://www.city.toyama.toyama.jp/norinsuisanbu/norinjimusho/nochirinmuka/shirakimine_guide.html ｜ 公式情報: https://www.pref.toyama.jp/documents/8174/01399294r08.pdf",
+    "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.687964,
+     36.473238
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-takasedam",
+    "kind": "trailhead",
+    "name": "高瀬ダム（ブナ立尾根登山口）",
+    "datum": "WGS84",
+    "mountainIds": "283 290 291 297",
+    "mountainNames": "烏帽子岳、野口五郎岳、水晶岳、鷲羽岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山|日本百名山",
+    "routes": "ブナ立尾根（裏銀座）",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "restriction=七倉から先は一般車で入れない（特定タクシーか徒歩）; bus=七倉ゲート前から高瀬ダムまでは特定タクシー（約15分・4人乗り2,700円）か徒歩（大町市観光協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "高瀬ダム登山口はブナ立尾根・烏帽子岳・野口五郎小屋方面の登山口（大町市観光協会）、OSMの登山道との接続は未確認",
+    "sources": "国土地理院 地名検索「高瀬ダム」（36.473238, 137.687964、JGD2011）2026-09-20確認 ｜ 公式情報: https://kanko-omachi.gr.jp/spot/tozanguchi3/",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4453446,
+     36.5830202
+    ]
+   },
+   "properties": {
+    "id": "TH-kP11-22-16-bs2352",
+    "kind": "trailhead",
+    "name": "立山駅前",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "鍬崎山:7.24km",
+    "related": "PK-w1181250435(41m) PK-w609199319(107m) PK-w609199315(118m) BS-kP11-22-16-bs2352(0m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-16-bs2352（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1332066134（登山道と道路の接続点） ｜ 国土地理院 地名検索「立山駅」（36.583366, 137.446276、JGD2011、92m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6021834,
+     35.9682273
+    ]
+   },
+   "properties": {
+    "id": "TH-kP11-22-18-bs2038",
+    "kind": "trailhead",
+    "name": "東勝原",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "荒島岳:4.92km",
+    "related": "BS-kP11-22-18-bs2038(0m) BS-kP11-22-18-bs2042(599m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-18-bs2038（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1414609605（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6261176,
+     35.9205348
+    ]
+   },
+   "properties": {
+    "id": "TH-kP11-22-18-bs2402",
+    "kind": "trailhead",
+    "name": "下山坂無",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "荒島岳:4.42km",
+    "related": "BS-kP11-22-18-bs2402(0m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-18-bs2402（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1414594714（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8012004,
+     36.7457594
+    ]
+   },
+   "properties": {
+    "id": "TH-kP11-22-20-bs655",
+    "kind": "trailhead",
+    "name": "猿倉（白馬岳登山口）",
+    "datum": "WGS84",
+    "mountainIds": "248 253 260",
+    "mountainNames": "白馬岳、鑓ヶ岳、唐松岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "大雪渓コース（猿倉）",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "白馬岳:11.6km 鑓ヶ岳:7.8km 唐松岳:12.75km",
+    "related": "PK-w1039520191(13m) PK-w1039520190(209m) BS-kP11-22-20-bs655(0m)",
+    "attributes": "restriction=猿倉駐車場は閉鎖中。八方バスターミナルからタクシー・バスを利用",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "このルートは閉鎖中（RouteData の通行状況）、林道からの入口（マイカー進入可否を要確認）、県道白馬岳線（二股〜猿倉）は2026年4月24日に開通したが、猿倉駐車場は閉鎖が続いている（白馬村）、長野県登山安全条例により、指定登山道では登山計画書の提出が必要（長野県）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-20-bs655（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1668145251（登山道と道路の接続点） ｜ 国土地理院 地名検索「猿倉荘」（36.745812, 137.800900、JGD2011、27m差）2026-09-13確認 ｜ 公式情報: https://www.vill.hakuba.lg.jp/gyosei/soshikikarasagasu/kankoka/osirase_ibennto_kouhoumusenntou/10949.html ｜ 公式情報: https://www.pref.nagano.lg.jp/kankoki/tozanjorei/tozanjorei.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.469337,
+     35.4965123
+    ]
+   },
+   "properties": {
+    "id": "TH-n10012524956",
+    "kind": "trailhead",
+    "name": "松尾寺駐車場",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "青葉山:1.98km",
+    "related": "PK-n10012524956(0m) PK-w830742809(11m) PK-w831018878(138m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10012524956 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1736024298（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8746037,
+     36.2570537
+    ]
+   },
+   "properties": {
+    "id": "TH-n10058800943",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "三方岩岳:3.51km",
+    "related": "PK-w1387489096(14m) PK-w1387488311(19m) PK-n6582054801(31m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10058800943（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.799893,
+     36.811258
+    ]
+   },
+   "properties": {
+    "id": "TH-n1249472684",
+    "kind": "trailhead",
+    "name": "蓮華温泉（朝日岳・雪倉岳・白馬岳方面の登山口）",
+    "datum": "WGS84",
+    "mountainIds": "235 244 248 253",
+    "mountainNames": "朝日岳、雪倉岳、白馬岳、鑓ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本二百名山|日本百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "朝日岳:10.28km 雪倉岳:10.69km 白馬岳:9.63km 鑓ヶ岳:13.32km",
+    "related": "PK-w645318855(31m)",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "蓮華温泉は朝日岳・雪倉岳方面の登山口、国土地理院の地名「蓮華温泉」とOSMの登山道の接続点の位置が一致（独立した2情報源）、冬期は道路が閉鎖される。入山前に糸魚川市・新潟県の道路情報を確認すること",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1249472684（登山道と道路の接続点） ｜ 国土地理院 地名検索「蓮華温泉」（36.810227, 137.798787、JGD2011、151m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6496381,
+     36.5669316
+    ]
+   },
+   "properties": {
+    "id": "TH-n1276629190",
+    "kind": "trailhead",
+    "name": "黒部平",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "剱岳:12.54km 奥大日岳:10.77km 立山:5.92km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1276629190 ｜ 国土地理院 地名検索「黒部平駅」（36.566779, 137.649845、JGD2011、25m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5184645,
+     35.7792307
+    ]
+   },
+   "properties": {
+    "id": "TH-n1293333983",
+    "kind": "trailhead",
+    "name": "温見峠",
+    "datum": "WGS84",
+    "mountainIds": "395",
+    "mountainNames": "能郷白山",
+    "lists": "日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "峠（道路との接続）",
+    "trailKmToSummit": "能郷白山:2.22km",
+    "related": "",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 30,
+    "needsReview": "",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1293333983（登山道と道路の接続点） ｜ 国土地理院 地名検索「温見峠」（35.779395, 136.518184、JGD2011、31m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5411235,
+     35.735898
+    ]
+   },
+   "properties": {
+    "id": "TH-n1293357517",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "395",
+    "mountainNames": "能郷白山",
+    "lists": "日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "能郷白山:4.37km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1293357517（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5354202,
+     35.7387512
+    ]
+   },
+   "properties": {
+    "id": "TH-n1293359333",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "395",
+    "mountainNames": "能郷白山",
+    "lists": "日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "林道との接続",
+    "trailKmToSummit": "能郷白山:3.66km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1293359333（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5464995,
+     35.7310197
+    ]
+   },
+   "properties": {
+    "id": "TH-n1293368294",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "395",
+    "mountainNames": "能郷白山",
+    "lists": "日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "能郷白山:5.15km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1293368294（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8208427,
+     36.1450698
+    ]
+   },
+   "properties": {
+    "id": "TH-n1294072731",
+    "kind": "trailhead",
+    "name": "白山・大白川登山口",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "OSM登山道「平瀬道」、平瀬道",
+    "entryType": "登山口（OSMの登山口地物）",
+    "trailKmToSummit": "白山:6.67km",
+    "related": "PK-w1125827984(56m) PK-w1125827982(178m)",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "採用の根拠: OSMの登山口名と、地理院地図の徒歩道が道路から始まる位置の一致（公式情報では未確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1294072731 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（36.145111, 136.820902、JGD2011、7m差）2026-09-21確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8378797,
+     36.2634202
+    ]
+   },
+   "properties": {
+    "id": "TH-n1294092512",
+    "kind": "trailhead",
+    "name": "三方岩駐車場（三方岩岳登山口）",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "三方岩岳:1.27km",
+    "related": "PK-w1125965945(19m)",
+    "attributes": "fee=白山白川郷ホワイトロード 普通車 片道1,700円; season=2026年度は6月12日に開通（白山白川郷ホワイトロード）; opening_hours=通行時間は時期で変わる（2026年9月時点の表示は8時〜17時入場可）; parking=三方岩駐車場（普通車51台・マイクロバス6台）; OSM登山ルート: 三方岩岳",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "三方岩駐車場から登山道を登れば40分ほどで頂上に着く（石川県）、有料道路の通行時間を過ぎると出られないため、行動時間に注意が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1294092512（登山道と道路の接続点） ｜ 公式情報: https://hs-whiteroad.jp/ ｜ 公式情報: https://hs-whiteroad.jp/spot/sanpou.php ｜ 公式情報: https://www.hot-ishikawa.jp/spot/detail_5496.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4348977,
+     36.416778
+    ]
+   },
+   "properties": {
+    "id": "TH-n1295207226",
+    "kind": "trailhead",
+    "name": "飛越新道登山口",
+    "datum": "WGS84",
+    "mountainIds": "298",
+    "mountainNames": "黒部五郎岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "飛越新道コース",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "黒部五郎岳:14.43km",
+    "related": "",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 30,
+    "needsReview": "",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1295207226（登山道と道路の接続点） ｜ 国土地理院 地名検索「飛越新道登山口」（36.417528, 137.435729、JGD2011、111m差）確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4594575,
+     36.4022942
+    ]
+   },
+   "properties": {
+    "id": "TH-n1295320514",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "285",
+    "mountainNames": "薬師岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "薬師岳:15.63km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1295320514（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.43815,
+     36.39744
+    ]
+   },
+   "properties": {
+    "id": "TH-n1295373392",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "298",
+    "mountainNames": "黒部五郎岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "黒部五郎岳:14.18km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1295373392（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.1096,
+     36.4160929
+    ]
+   },
+   "properties": {
+    "id": "TH-n1328327727",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "292",
+    "mountainNames": "白木峰",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "白木峰:0.24km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1328327727（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.107152,
+     36.418365
+    ]
+   },
+   "properties": {
+    "id": "TH-n1328327942",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "292",
+    "mountainNames": "白木峰",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "白木峰:0.57km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1328327942（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.445854,
+     36.575614
+    ]
+   },
+   "properties": {
+    "id": "TH-n1332066134",
+    "kind": "trailhead",
+    "name": "（名称未確認）立山駅前バス停付近",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "林道との接続",
+    "trailKmToSummit": "鍬崎山:6.42km",
+    "related": "PK-w1041514433(455m) BS-kP11-22-16-bs2352(820m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1332066134（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4382291,
+     36.5807157
+    ]
+   },
+   "properties": {
+    "id": "TH-n1332066765",
+    "kind": "trailhead",
+    "name": "（名称未確認）森の風立山付近",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "鍬崎山:7.38km",
+    "related": "PK-w1041514435(295m) PK-w1041514410(476m) BS-kP11-22-16-bs2352(685m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1332066765（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5890328,
+     36.3065758
+    ]
+   },
+   "properties": {
+    "id": "TH-n1385708256",
+    "kind": "trailhead",
+    "name": "笠新道登山口（新穂高側）",
+    "datum": "WGS84",
+    "mountainIds": "286 300 303 313",
+    "mountainNames": "赤牛岳、三俣蓮華岳、双六岳、笠ヶ岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山|東海の百山|日本百名山",
+    "routes": "OSM登山道「笠新道」",
+    "entryType": "登山口（OSMの登山口地物）",
+    "trailKmToSummit": "赤牛岳:24.6km 三俣蓮華岳:14.91km 双六岳:13.22km 笠ヶ岳:6.93km",
+    "related": "",
+    "attributes": "registration=岐阜県山岳遭難防止条例により北アルプス・活火山地区は登山届の提出が義務（違反は5万円以下の過料）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "岐阜県側の登山口から北アルプス（焼岳を含む）に登る場合は登山届の提出が必要（岐阜県）、新穂高センターに登山ポストがある（高山市）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1385708256 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（36.306464, 137.589048、JGD2011、12m差）2026-09-21確認 ｜ 公式情報: https://www.pref.gifu.lg.jp/page/11975.html ｜ 公式情報: https://www.pref.gifu.lg.jp/page/114962.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5972534,
+     36.3203553
+    ]
+   },
+   "properties": {
+    "id": "TH-n1385714847",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "297 298 300 303 313",
+    "mountainNames": "鷲羽岳、黒部五郎岳、三俣蓮華岳、双六岳、笠ヶ岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山|東海の百山",
+    "routes": "OSM登山道「小池新道」",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "鷲羽岳:12.9km 黒部五郎岳:15.82km 三俣蓮華岳:10.77km 双六岳:9.08km 笠ヶ岳:12.53km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1385714847（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.657286,
+     36.5639825
+    ]
+   },
+   "properties": {
+    "id": "TH-n1412324140",
+    "kind": "trailhead",
+    "name": "（名称未確認）黒部ケーブルカー付近",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "OSM登山道「かんぱ谷橋」、OSM登山道「湖畔遊歩道コース」",
+    "entryType": "索道駅",
+    "trailKmToSummit": "剱岳:14.8km 奥大日岳:13.03km 立山:8.19km",
+    "related": "BS-n2619428773(884m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1412324140（登山道と道路の接続点） ｜ 国土地理院 地名検索「黒部湖駅」（36.566421, 137.658330、JGD2011、285m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6656464,
+     36.569749
+    ]
+   },
+   "properties": {
+    "id": "TH-n1412327567",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "274",
+    "mountainNames": "立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "立山:9.73km",
+    "related": "BS-n2619428773(305m)",
+    "attributes": "OSM登山ルート: 水平歩道",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1412327567（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5965134,
+     36.5769504
+    ]
+   },
+   "properties": {
+    "id": "TH-n1412330520",
+    "kind": "trailhead",
+    "name": "室堂ターミナル（立山・剱岳方面）",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "別山尾根コース、室堂〜一ノ越コース、立山三山周回",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "剱岳:7.41km 奥大日岳:5.38km 立山:3.01km",
+    "related": "PK-w689102523(52m) PK-w197896240(112m) PK-w689102525(273m) BS-kP11-22-16-bs2414(105m) BS-kP11-22-16-bs2414(105m) BS-kP11-22-16-bs2414(105m)",
+    "attributes": "registration=富山県登山届条例により登山届が必要",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "富山県登山届条例により、危険地区への入山には登山届が必要（岐阜県の資料）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1412330520（登山道と道路の接続点） ｜ 公式情報: https://chubu.env.go.jp/blog/2022/03/post-1241.html ｜ 公式情報: https://www.pref.gifu.lg.jp/uploaded/attachment/25115.pdf",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.552821,
+     36.729428
+    ]
+   },
+   "properties": {
+    "id": "TH-n1414061570",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "257",
+    "mountainNames": "毛勝山",
+    "lists": "日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "毛勝山:5.37km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1414061570（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.619141,
+     35.923164
+    ]
+   },
+   "properties": {
+    "id": "TH-n1414594714",
+    "kind": "trailhead",
+    "name": "（名称未確認）下山坂無バス停付近",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "荒島岳:3.73km",
+    "related": "BS-kP11-22-18-bs2402(693m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1414594714（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6038287,
+     35.963263
+    ]
+   },
+   "properties": {
+    "id": "TH-n1414609605",
+    "kind": "trailhead",
+    "name": "勝原登山口（荒島岳）",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=登り口は旧カドハラスキー場。駐車場・トイレあり（大野市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "公式情報の登山口と、地理院地図で徒歩道が道路から始まる位置（0m差）が一致、勝原登山口・中出登山口の公衆トイレは2026年4月7日に再開した（大野市）、JR越美北線勝原駅から徒歩10分、北陸自動車道福井ICから車で約1時間10分（大野市）、勝原コースは登り3時間30分・下り2時間30分（大野市）",
+    "sources": "OSM node/1414609605（2026-09-20時点の候補座標） ｜ 公式情報: https://www.city.ono.fukui.jp/kanko/kanko-joho/guide/arashimadake.html ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（35.963266, 136.603831、JGD2011、0m差）2026-09-21確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.767802,
+     36.51264
+    ]
+   },
+   "properties": {
+    "id": "TH-n1587179228",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "281",
+    "mountainNames": "医王山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "医王山:3.18km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1587179228（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.799609,
+     36.517954
+    ]
+   },
+   "properties": {
+    "id": "TH-n1587187667",
+    "kind": "trailhead",
+    "name": "（名称未確認）第5ペアリフト付近",
+    "datum": "WGS84",
+    "mountainIds": "281",
+    "mountainNames": "医王山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "索道駅",
+    "trailKmToSummit": "医王山:0.7km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1587187667（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7300548,
+     36.560716
+    ]
+   },
+   "properties": {
+    "id": "TH-n1596020186",
+    "kind": "trailhead",
+    "name": "扇沢駅（立山黒部アルペンルート長野県側）",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "OSM登山道「柏原新道」",
+    "entryType": "登山口（OSMの登山口地物）",
+    "trailKmToSummit": "五竜岳:15.26km 鹿島槍ヶ岳:10.67km 爺ヶ岳中峰:6.06km 針ノ木岳:13.58km",
+    "related": "PK-w1240329796(86m) PK-w1240329573(103m) PK-w1240333844(324m) BS-kP11-22-20-bs2536(803m) BS-n6834209693(839m) BS-n6834209694(843m)",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "扇沢駅は立山黒部アルペンルートの長野県側の玄関口（大町市観光協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596020186 ｜ 公式情報: https://kanko-omachi.gr.jp/parking/",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.684427,
+     36.436623
+    ]
+   },
+   "properties": {
+    "id": "TH-n1596158973",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "290 291 297",
+    "mountainNames": "野口五郎岳、水晶岳、鷲羽岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "野口五郎岳:12.12km 水晶岳:14.49km 鷲羽岳:15.77km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596158973（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6848168,
+     36.4769582
+    ]
+   },
+   "properties": {
+    "id": "TH-n1596176617",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "283 290 291 297",
+    "mountainNames": "烏帽子岳、野口五郎岳、水晶岳、鷲羽岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山|日本百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "烏帽子岳:4.66km 野口五郎岳:8.62km 水晶岳:13.21km 鷲羽岳:14.5km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596176617（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.722953,
+     36.4935261
+    ]
+   },
+   "properties": {
+    "id": "TH-n1596195211",
+    "kind": "trailhead",
+    "name": "七倉（烏帽子岳・蓮華岳・北葛岳登山口）",
+    "datum": "WGS84",
+    "mountainIds": "279 280 283 286",
+    "mountainNames": "針ノ木岳、蓮華岳、烏帽子岳、赤牛岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "登山口（OSMの登山口地物）",
+    "trailKmToSummit": "針ノ木岳:10.22km 蓮華岳:8.29km 烏帽子岳:11.78km 赤牛岳:20.1km",
+    "related": "PK-w630234122(191m)",
+    "attributes": "restriction=七倉ゲート前から高瀬ダムまでは特定タクシー（約15分・4人乗り2,700円）か徒歩で通行する（大町市観光協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、七倉は烏帽子岳・蓮華岳などの入下山口で、裏銀座コースの起点にあたる（大町市観光協会）、長野県登山安全条例の指定登山道では登山計画書の提出が必要、七倉山荘前に公衆トイレがある。混雑時は七倉ダム下広場駐車場を利用する（大町市観光協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596195211 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（36.493526, 137.722957、JGD2011、0m差）2026-09-21確認 ｜ 公式情報: https://kanko-omachi.gr.jp/spot/tozanguchi3/ ｜ 公式情報: https://www.pref.nagano.lg.jp/kankoki/tozanjorei/tozanjorei.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4657,
+     35.500348
+    ]
+   },
+   "properties": {
+    "id": "TH-n1662266952",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "青葉山:2.27km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1662266952（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.475428,
+     35.49723
+    ]
+   },
+   "properties": {
+    "id": "TH-n1736024133",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "青葉山:1.83km",
+    "related": "PK-w831018878(429m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1736024133（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.6703135,
+     35.3675189
+    ]
+   },
+   "properties": {
+    "id": "TH-n1742287772",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "496",
+    "mountainNames": "八ヶ峰",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "林道との接続",
+    "trailKmToSummit": "八ヶ峰:1.38km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1742287772（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6121712,
+     36.2991652
+    ]
+   },
+   "properties": {
+    "id": "TH-n1910978564",
+    "kind": "trailhead",
+    "name": "白出小屋",
+    "datum": "WGS84",
+    "mountainIds": "286 300 303 305 308 317 318 319 324",
+    "mountainNames": "赤牛岳、三俣蓮華岳、双六岳、大天井岳、槍ヶ岳、奥穂高岳、蝶ヶ岳、西穂独標、焼岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山|東海の百山|日本百名山",
+    "routes": "",
+    "entryType": "施設（山小屋・宿・キャンプ場）からの入口",
+    "trailKmToSummit": "赤牛岳:24.33km 三俣蓮華岳:14.64km 双六岳:12.95km 大天井岳:15.66km 槍ヶ岳:7.49km 奥穂高岳:4.33km 蝶ヶ岳:14.7km 西穂独標:7.28km 焼岳:14.07km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1910978564",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.03022,
+     35.608421
+    ]
+   },
+   "properties": {
+    "id": "TH-n2045559100",
+    "kind": "trailhead",
+    "name": "（名称未確認）少年自然の家付近",
+    "datum": "WGS84",
+    "mountainIds": "428",
+    "mountainNames": "野坂岳",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "野坂岳:2.72km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045559100（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8362235,
+     36.3215856
+    ]
+   },
+   "properties": {
+    "id": "TH-n2052124535",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "304 311",
+    "mountainNames": "大門山、大笠山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "大門山:12.14km 大笠山:5.23km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2052124535（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.03055,
+     36.347359
+    ]
+   },
+   "properties": {
+    "id": "TH-n2052127051",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "301",
+    "mountainNames": "金剛堂山",
+    "lists": "日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "金剛堂山:4.74km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要、栃谷登山口（南砺市利賀村）は北陸自動車道砺波ICから車で約1時間、山頂まで約2時間半、駐車場あり（南砺市観光協会）、この地点がどの登山口かは未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2052127051（登山道と道路の接続点） ｜ 公式情報: https://www.tabi-nanto.jp/archives/2051",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8237075,
+     36.3726543
+    ]
+   },
+   "properties": {
+    "id": "TH-n2052131125",
+    "kind": "trailhead",
+    "name": "ブナオ峠",
+    "datum": "WGS84",
+    "mountainIds": "304 311",
+    "mountainNames": "大門山、大笠山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "峠（道路との接続）",
+    "trailKmToSummit": "大門山:2.24km 大笠山:8.81km",
+    "related": "",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 30,
+    "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2052131125（登山道と道路の接続点） ｜ 国土地理院 地名検索「ブナオ峠」（36.372634, 136.823870、JGD2011、15m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.029198,
+     36.407295
+    ]
+   },
+   "properties": {
+    "id": "TH-n2052137540",
+    "kind": "trailhead",
+    "name": "栃谷登山口（金剛堂山）",
+    "datum": "WGS84",
+    "mountainIds": "301",
+    "mountainNames": "金剛堂山",
+    "lists": "日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "金剛堂山:5.23km",
+    "related": "BS-kP11-22-16-bs2867(894m)",
+    "attributes": "course=金剛堂山（栃谷登山口）は往復で体力度3・技術的難易度B、コースタイム5.2時間、距離12.5km、登り下りとも累積1,220m、起点の標高778m、中金剛1,650m（富山県 山のグレーディング）; parking=栃谷登山口に駐車場あり（南砺市観光協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "栃谷登山口（南砺市利賀村）へは北陸自動車道砺波ICから車で約1時間、山頂まで約2時間半（南砺市観光協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2052137540（登山道と道路の接続点） ｜ 公式情報: https://www.pref.toyama.jp/1709/kurashi/sportsleisure/tozan/kj00021724/index.html ｜ 公式情報: https://www.pref.toyama.jp/documents/8174/01399294r08.pdf ｜ 公式情報: https://www.tabi-nanto.jp/archives/2051 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が道路から始まる位置（36.407218, 137.029189、8m差）2026-09-23確認 ｜ 国土地理院 標高API（36.407290, 137.029200）775m。富山県の起点標高778mと一致 2026-09-23確認",
+    "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8026298,
+     36.4913717
+    ]
+   },
+   "properties": {
+    "id": "TH-n2055503339",
+    "kind": "trailhead",
+    "name": "横谷峠",
+    "datum": "WGS84",
+    "mountainIds": "281",
+    "mountainNames": "医王山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "峠（道路との接続）",
+    "trailKmToSummit": "医王山:3.31km",
+    "related": "",
+    "attributes": "",
+    "status": "adopted",
+    "accuracyM": 30,
+    "needsReview": "",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2055503339（登山道と道路の接続点） ｜ 国土地理院 地名検索「横谷峠」（36.490126, 136.802621、JGD2011、138m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7397961,
+     36.1250679
+    ]
+   },
+   "properties": {
+    "id": "TH-n2349487826",
+    "kind": "trailhead",
+    "name": "別当出合（白山 砂防新道・観光新道登山口）",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "砂防新道↑観光新道↓",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "白山:5.79km",
+    "related": "PK-w1125834663(202m) PK-n2430652665(257m) PK-w1125834662(270m) BS-n3724829800(23m)",
+    "attributes": "restriction=市ノ瀬〜別当出合（約6km）はピーク時マイカー規制（2026年度は7月4日〜10月12日）; parking=市ノ瀬 約560台、別当出合 約200台; bus=規制期間中は市ノ瀬からシャトルバス",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "白山国立公園の自然保護・混雑緩和・安全確保のためマイカー規制が行われる（石川県）、別当出合駐車場では事前予約制の社会実験が行われたことがある（環境省）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2349487826（登山道と道路の接続点） ｜ 公式情報: https://www.pref.ishikawa.lg.jp/hakusan/tozaninf/peak2.html ｜ 公式情報: https://www.pref.ishikawa.lg.jp/hakusan/tozaninf/documents/r8_koutuukisei.pdf ｜ 公式情報: https://www.city.hakusan.lg.jp/kanko/kankojyoho/1006571/1003499.html ｜ 公式情報: https://chubu.env.go.jp/press_00057.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.761482,
+     36.227114
+    ]
+   },
+   "properties": {
+    "id": "TH-n2349511612",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "OSM登山道「岩間道」",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "白山:10.29km",
+    "related": "",
+    "attributes": "OSM登山ルート: Iwama Hutt Rottenburo",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2349511612（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.737434,
+     36.350033
+    ]
+   },
+   "properties": {
+    "id": "TH-n2349549730",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "304 311",
+    "mountainNames": "大門山、大笠山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "大門山:9.77km 大笠山:8.54km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2349549730（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7376289,
+     36.1235488
+    ]
+   },
+   "properties": {
+    "id": "TH-n2430652665",
+    "kind": "trailhead",
+    "name": "Betoh Deai Parking",
+    "datum": "WGS84",
+    "mountainIds": "333",
+    "mountainNames": "白山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "砂防新道↑観光新道↓",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "白山:5.71km",
+    "related": "PK-n2430652665(0m) PK-w1125834662(15m) PK-w1125834663(60m) BS-n3724829800(235m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2430652665 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2349488110（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.666413,
+     36.5670625
+    ]
+   },
+   "properties": {
+    "id": "TH-n2619428773",
+    "kind": "trailhead",
+    "name": "黒部ダム",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "剱岳:12.68km 奥大日岳:14.27km 立山:10.03km",
+    "related": "BS-n2619428773(0m)",
+    "attributes": "OSM登山ルート: 水平歩道",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2619428773 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1412327567（登山道と道路の接続点） ｜ 国土地理院 地名検索「黒部ダム駅」（36.566899, 137.666465、JGD2011、19m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8318231,
+     36.2623033
+    ]
+   },
+   "properties": {
+    "id": "TH-n294459369",
+    "kind": "trailhead",
+    "name": "（名称未確認）栂の木台駐車場付近",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "三方岩岳:1.61km",
+    "related": "PK-w1370011477(41m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/294459369（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8643643,
+     36.2607884
+    ]
+   },
+   "properties": {
+    "id": "TH-n294460444",
+    "kind": "trailhead",
+    "name": "（名称未確認）白川郷展望台駐車場付近",
+    "datum": "WGS84",
+    "mountainIds": "320",
+    "mountainNames": "三方岩岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "三方岩岳:2.31km",
+    "related": "PK-w1125964886(32m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/294460444（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8317427,
+     36.6635521
+    ]
+   },
+   "properties": {
+    "id": "TH-n3152446976",
+    "kind": "trailhead",
+    "name": "とうみ第１ペア",
+    "datum": "WGS84",
+    "mountainIds": "260 263 267",
+    "mountainNames": "唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "唐松岳:12.4km 五竜岳:10.28km 鹿島槍ヶ岳:14.75km",
+    "related": "PK-w700439945(309m) PK-w700439943(416m) PK-n6577768194(480m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152446976",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8245008,
+     36.6644536
+    ]
+   },
+   "properties": {
+    "id": "TH-n3152446978",
+    "kind": "trailhead",
+    "name": "とうみ第２ペア",
+    "datum": "WGS84",
+    "mountainIds": "260 267",
+    "mountainNames": "唐松岳、鹿島槍ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "唐松岳:11.7km 鹿島槍ヶ岳:14.05km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152446978",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.818653,
+     36.6610664
+    ]
+   },
+   "properties": {
+    "id": "TH-n3152446989",
+    "kind": "trailhead",
+    "name": "アルプス第４ペア",
+    "datum": "WGS84",
+    "mountainIds": "260 263 267",
+    "mountainNames": "唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "唐松岳:10.3km 五竜岳:8.18km 鹿島槍ヶ岳:12.65km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152446989",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8110674,
+     36.6591679
+    ]
+   },
+   "properties": {
+    "id": "TH-n3152446990",
+    "kind": "trailhead",
+    "name": "アルプス第４ペア",
+    "datum": "WGS84",
+    "mountainIds": "253 260 263 267",
+    "mountainNames": "鑓ヶ岳、唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "甲信越百名山|日本三百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "鑓ヶ岳:15.25km 唐松岳:9.12km 五竜岳:7.0km 鹿島槍ヶ岳:11.47km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152446990",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5980249,
+     36.0644346
+    ]
+   },
+   "properties": {
+    "id": "TH-n4494151189",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "343",
+    "mountainNames": "経ヶ岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "経ヶ岳:4.22km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4494151189",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5937812,
+     36.0643877
+    ]
+   },
+   "properties": {
+    "id": "TH-n4494151191",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "343",
+    "mountainNames": "経ヶ岳",
+    "lists": "日本三百名山",
+    "routes": "OSM登山道「法恩寺山登山道」",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "経ヶ岳:4.7km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4494151191",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8299935,
+     36.6198192
+    ]
+   },
+   "properties": {
+    "id": "TH-n4511128182",
+    "kind": "trailhead",
+    "name": "第５ペア",
+    "datum": "WGS84",
+    "mountainIds": "260 263",
+    "mountainNames": "唐松岳、五竜岳",
+    "lists": "日本三百名山|甲信越百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "唐松岳:14.24km 五竜岳:12.12km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4511128182",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.475043,
+     36.4824671
+    ]
+   },
+   "properties": {
+    "id": "TH-n4730366636",
+    "kind": "trailhead",
+    "name": "折立（薬師岳・北ノ俣岳登山口）",
+    "datum": "WGS84",
+    "mountainIds": "285 286 298",
+    "mountainNames": "薬師岳、赤牛岳、黒部五郎岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東海の百山",
+    "routes": "折立コース、折立（太郎平）コース",
+    "entryType": "施設（山小屋・宿・キャンプ場）からの入口",
+    "trailKmToSummit": "薬師岳:9.98km 赤牛岳:22.35km 黒部五郎岳:14.85km",
+    "related": "PK-w788850758(162m)",
+    "attributes": "fee=林道使用料（2026年4月1日改定、1車両1回）：乗用車などの小型車2,700円・大型車6,600円・自動二輪車等600円; opening_hours=通行可能時間 6:00〜20:00（富山県公安委員会の交通規制）; season=供用期間は毎年度決定。過去は6月上旬〜11月12日（2025年度は6月4日〜11月12日）で、それ以外は通行できない",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "折立へは有料の有峰林道を通る。通行時間が6:00〜20:00に規制されている（富山県）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4730366636 ｜ 公式情報: https://www.pref.toyama.jp/1603/kendodukuri/shinrinkasen/shinrin/kj00009876/kj00009876-001-01.html ｜ 公式情報: https://www.arimine.net/toll_road.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4344695,
+     36.5607408
+    ]
+   },
+   "properties": {
+    "id": "TH-n4937569265",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "鍬崎山:5.19km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4937569265",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0836083,
+     36.3881093
+    ]
+   },
+   "properties": {
+    "id": "TH-n5799563005",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "292",
+    "mountainNames": "白木峰",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "白木峰:5.14km",
+    "related": "",
+    "attributes": "restriction=林道八尾大谷線は大規模崩落のため「21世紀の森杉ヶ平キャンプ場」から先は車両進入禁止",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要、林道八尾大谷線の大規模崩落により、杉ヶ平キャンプ場より先は車両で進入できない。復旧には複数年を要する見込み（富山市）、徒歩での登山は可能で、キャンプ場から山頂まで約3時間40分（富山県）、この地点がどの登山口かは未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5799563005（登山道と道路の接続点） ｜ 公式情報: https://www.city.toyama.toyama.jp/norinsuisanbu/norinjimusho/nochirinmuka/shirakimine_guide.html ｜ 公式情報: https://www.info-toyama.com/articles/nissy_shiraki",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.633534,
+     35.9201582
+    ]
+   },
+   "properties": {
+    "id": "TH-n6480019634",
+    "kind": "trailhead",
+    "name": "（名称未確認）下山岡畑バス停付近",
+    "datum": "WGS84",
+    "mountainIds": "358",
+    "mountainNames": "荒島岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "荒島岳:4.58km",
+    "related": "BS-kP11-22-18-bs2398(515m) BS-kP11-22-18-bs2402(670m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6480019634（登山道と道路の接続点） ｜ 国土地理院 地名検索「越前下山駅」（35.920689, 136.634861、JGD2011、133m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7141823,
+     36.5602485
+    ]
+   },
+   "properties": {
+    "id": "TH-n6549089208",
+    "kind": "trailhead",
+    "name": "（名称未確認）扇沢駅前バス停付近",
+    "datum": "WGS84",
+    "mountainIds": "279 280 283",
+    "mountainNames": "針ノ木岳、蓮華岳、烏帽子岳",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "針ノ木岳:5.35km 蓮華岳:6.13km 烏帽子岳:15.3km",
+    "related": "BS-n1596019922(572m) BS-n1596019843(609m) BS-n2474731005(611m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6549089208（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6815988,
+     36.6496437
+    ]
+   },
+   "properties": {
+    "id": "TH-n6698975485",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "268 274",
+    "mountainNames": "剱岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "道路の終点付近",
+    "trailKmToSummit": "剱岳:13.81km 立山:15.67km",
+    "related": "",
+    "attributes": "OSM登山ルート: 水平歩道",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6698975485（登山道と道路の接続点） ｜ 国土地理院 地名検索「仙人谷」（36.648625, 137.680164、JGD2011、171m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.6907744,
+     35.3471344
+    ]
+   },
+   "properties": {
+    "id": "TH-n7033680852",
+    "kind": "trailhead",
+    "name": "五波峠",
+    "datum": "WGS84",
+    "mountainIds": "496",
+    "mountainNames": "八ヶ峰",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "峠（道路との接続）",
+    "trailKmToSummit": "八ヶ峰:2.66km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "林道上の地点（尾根上の峠・山小屋の可能性。登山口かどうか要確認）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7033680852（登山道と道路の接続点） ｜ 国土地理院 地名検索「五波峠」（35.346071, 135.692194、JGD2011、174m差）2026-09-20確認",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.6766296,
+     35.3852035
+    ]
+   },
+   "properties": {
+    "id": "TH-n7033680938",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "496",
+    "mountainNames": "八ヶ峰",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "八ヶ峰:4.42km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7033680938（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5810353,
+     36.580381
+    ]
+   },
+   "properties": {
+    "id": "TH-n711976080",
+    "kind": "trailhead",
+    "name": "（名称未確認）天狗平バス停付近",
+    "datum": "WGS84",
+    "mountainIds": "268 270 274",
+    "mountainNames": "剱岳、奥大日岳、立山",
+    "lists": "日本百名山|日本二百名山|日本三百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "剱岳:8.66km 奥大日岳:6.63km 立山:4.5km",
+    "related": "BS-kP11-22-16-bs2372(172m) BS-kP11-22-16-bs2372(172m) BS-kP11-22-16-bs2372(172m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/711976080（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4880286,
+     35.4960815
+    ]
+   },
+   "properties": {
+    "id": "TH-n7537979674",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "448",
+    "mountainNames": "青葉山",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "一般道との接続",
+    "trailKmToSummit": "青葉山:1.46km",
+    "related": "",
+    "attributes": "",
+    "status": "candidate",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7537979674（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.6524843,
+     35.3467127
+    ]
+   },
+   "properties": {
+    "id": "TH-n843225206",
+    "kind": "trailhead",
+    "name": "（名称未確認）八原バス停付近",
+    "datum": "WGS84",
+    "mountainIds": "496",
+    "mountainNames": "八ヶ峰",
+    "lists": "関西百名山",
+    "routes": "",
+    "entryType": "一般道（県道以上）との接続",
+    "trailKmToSummit": "八ヶ峰:2.49km",
+    "related": "BS-kP11-22-26-bs889(675m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 30,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/843225206（登山道と道路の接続点）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7227024,
+     36.559765
+    ]
+   },
+   "properties": {
+    "id": "TH-w244361104",
+    "kind": "trailhead",
+    "name": "扇沢駐車場（針ノ木岳・柏原新道方面）",
+    "datum": "WGS84",
+    "mountainIds": "263 267 273 279",
+    "mountainNames": "五竜岳、鹿島槍ヶ岳、爺ヶ岳中峰、針ノ木岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "OSM登山道「柏原新道」、柏原新道コース",
+    "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
+    "trailKmToSummit": "五竜岳:16.06km 鹿島槍ヶ岳:11.47km 爺ヶ岳中峰:6.86km 針ノ木岳:14.38km",
+    "related": "PK-w244361104(0m) PK-w1240333859(41m) PK-w244361095(51m) BS-kP11-22-20-bs2536(139m) BS-n6834209693(188m) BS-n2516859449(192m)",
+    "attributes": "parking=扇沢有料駐車場 350台・12時間1,000円、扇沢市営第一駐車場（無料）170台、第二駐車場（無料）60台（大町市観光協会）; restriction=連休・旧盆は満車になりやすく、公共交通の利用が案内されている",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、扇沢は針ノ木岳・蓮華岳と、柏原新道（爺ヶ岳・鹿島槍ヶ岳方面）の登山口（大町市観光協会）、長野県登山安全条例の指定登山道では登山計画書の提出が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/244361104 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1596020186（登山道と道路の接続点） ｜ 公式情報: https://kanko-omachi.gr.jp/parking/ ｜ 公式情報: https://kanko-omachi.gr.jp/spot/tozanguchi6/ ｜ 公式情報: https://www.pref.nagano.lg.jp/kankoki/tozanjorei/tozanjorei.html",
+    "verifiedAt": "2026-09-20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8111769,
+     36.6615436
+    ]
+   },
+   "properties": {
+    "id": "TH-w309911069",
+    "kind": "trailhead",
+    "name": "高速ペアリフト Line E",
+    "datum": "WGS84",
+    "mountainIds": "253 260 263 267",
+    "mountainNames": "鑓ヶ岳、唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "甲信越百名山|日本三百名山|日本百名山|日本二百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "鑓ヶ岳:15.47km 唐松岳:9.33km 五竜岳:7.21km 鹿島槍ヶ岳:11.68km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/309911069（索道の端点 node/3152446970）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8145192,
+     36.6635096
+    ]
+   },
+   "properties": {
+    "id": "TH-w309911071",
+    "kind": "trailhead",
+    "name": "五竜テレキャビン",
+    "datum": "WGS84",
+    "mountainIds": "253 260 263 267",
+    "mountainNames": "鑓ヶ岳、唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "甲信越百名山|日本三百名山|日本百名山|日本二百名山",
+    "routes": "遠見尾根コース",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "鑓ヶ岳:15.81km 唐松岳:9.68km 五竜岳:7.55km 鹿島槍ヶ岳:12.03km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/309911071（索道の端点 node/3152446974）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4478483,
+     36.5719278
+    ]
+   },
+   "properties": {
+    "id": "TH-w627383022",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "278",
+    "mountainNames": "鍬崎山",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "鍬崎山:5.87km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/627383022（索道の端点 node/5922487526）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5785913,
+     36.0725386
+    ]
+   },
+   "properties": {
+    "id": "TH-w686758229",
+    "kind": "trailhead",
+    "name": "（名称未確認）ファンタジーペア付近",
+    "datum": "WGS84",
+    "mountainIds": "343",
+    "mountainNames": "経ヶ岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "経ヶ岳:6.5km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/686758229（索道の端点 node/6437531965）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5953903,
+     36.070862
+    ]
+   },
+   "properties": {
+    "id": "TH-w686758229-2",
+    "kind": "trailhead",
+    "name": "（名称未確認）",
+    "datum": "WGS84",
+    "mountainIds": "343",
+    "mountainNames": "経ヶ岳",
+    "lists": "日本三百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "経ヶ岳:4.75km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/686758229（索道の端点 node/6437531964）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.8053701,
+     36.6974059
+    ]
+   },
+   "properties": {
+    "id": "TH-w697290292",
+    "kind": "trailhead",
+    "name": "グラートクワッドリフト",
+    "datum": "WGS84",
+    "mountainIds": "248 253 260 263 267",
+    "mountainNames": "白馬岳、鑓ヶ岳、唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "白馬岳:15.65km 鑓ヶ岳:11.85km 唐松岳:5.72km 五竜岳:9.15km 鹿島槍ヶ岳:13.63km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/697290292（索道の端点 node/6549032698）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7992746,
+     36.6969699
+    ]
+   },
+   "properties": {
+    "id": "TH-w697290292-2",
+    "kind": "trailhead",
+    "name": "グラートクワッドリフト",
+    "datum": "WGS84",
+    "mountainIds": "248 253 260 263 267",
+    "mountainNames": "白馬岳、鑓ヶ岳、唐松岳、五竜岳、鹿島槍ヶ岳",
+    "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
+    "routes": "八方尾根（唐松岳経由）コース",
+    "entryType": "索道駅（ロープウェイ・ゴンドラ）",
+    "trailKmToSummit": "白馬岳:14.91km 鑓ヶ岳:11.12km 唐松岳:4.98km 五竜岳:8.42km 鹿島槍ヶ岳:12.89km",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 15,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/697290292（索道の端点 node/6549032699）",
+    "verifiedAt": ""
+   }
+  }
+ ]
+}
