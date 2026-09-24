@@ -1,8 +1,8 @@
 {
  "type": "FeatureCollection",
  "name": "四国",
- "generatedAt": "2026-09-23",
- "osmData": "japan-latest.osm.pbf 2026-09-18T20:21:10Z",
+ "generatedAt": "2026-09-24",
+ "osmData": "japan-latest.osm.pbf 2026-09-23T20:22:04Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
   {
@@ -1074,7 +1074,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1105（34.237312, 133.595019、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1099877281",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1105（34.237312, 133.595019、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1099877281",
     "verifiedAt": ""
    }
   },
@@ -1248,7 +1248,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1456（34.195680, 133.813531、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8507760959",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1456（34.195680, 133.813531、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8507760959",
     "verifiedAt": ""
    }
   },
@@ -1393,7 +1393,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1509（34.188601, 133.818881、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10951142712",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1509（34.188601, 133.818881、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/10951142712",
     "verifiedAt": ""
    }
   },
@@ -1422,7 +1422,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1520（34.187324, 133.819859、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13874746961",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1520（34.187324, 133.819859、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13874746961",
     "verifiedAt": ""
    }
   },
@@ -1480,7 +1480,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1943（34.507969, 134.296372、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11018087726",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs1943（34.507969, 134.296372、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11018087726",
     "verifiedAt": ""
    }
   },
@@ -1509,7 +1509,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs50（34.360500, 134.091862、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7350537028",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs50（34.360500, 134.091862、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7350537028",
     "verifiedAt": ""
    }
   },
@@ -1538,7 +1538,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs52（34.359316, 134.102499、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/12291399366",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs52（34.359316, 134.102499、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/12291399366",
     "verifiedAt": ""
    }
   },
@@ -1567,7 +1567,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs668（34.280581, 133.833965、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8586606361",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs668（34.280581, 133.833965、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8586606361",
     "verifiedAt": ""
    }
   },
@@ -1596,7 +1596,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs736（34.271250, 133.855909、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8521667710",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs736（34.271250, 133.855909、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8521667710",
     "verifiedAt": ""
    }
   },
@@ -1625,7 +1625,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs741（34.270775, 133.834917、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8586598812",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs741（34.270775, 133.834917、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8586598812",
     "verifiedAt": ""
    }
   },
@@ -1654,7 +1654,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs860（34.258221, 133.588515、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1099877134",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs860（34.258221, 133.588515、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1099877134",
     "verifiedAt": ""
    }
   },
@@ -1741,7 +1741,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs926（34.251199, 133.580490、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1099876209",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-37-bs926（34.251199, 133.580490、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1099876209",
     "verifiedAt": ""
    }
   },
@@ -1828,7 +1828,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1245（33.823554, 133.123154、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152607761",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1245（33.823554, 133.123154、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152607761",
     "verifiedAt": ""
    }
   },
@@ -1857,7 +1857,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1345（33.803948, 133.148558、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152603084",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1345（33.803948, 133.148558、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152603084",
     "verifiedAt": ""
    }
   },
@@ -1886,7 +1886,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1359（33.802120, 133.153881、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152610015",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1359（33.802120, 133.153881、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152610015",
     "verifiedAt": ""
    }
   },
@@ -1915,7 +1915,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1498（33.771830, 132.965375、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152603419",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1498（33.771830, 132.965375、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152603419",
     "verifiedAt": ""
    }
   },
@@ -1944,7 +1944,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1515（33.768103, 132.968273、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152608198",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1515（33.768103, 132.968273、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152608198",
     "verifiedAt": ""
    }
   },
@@ -1973,7 +1973,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1554（33.754957, 133.147548、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152608562",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1554（33.754957, 133.147548、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152608562",
     "verifiedAt": ""
    }
   },
@@ -2002,7 +2002,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs580（33.959490, 133.443124、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152607498",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs580（33.959490, 133.443124、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152607498",
     "verifiedAt": ""
    }
   },
@@ -2031,7 +2031,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs591（33.957702, 133.436408、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152606277",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs591（33.957702, 133.436408、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152606277",
     "verifiedAt": ""
    }
   },
@@ -2060,7 +2060,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs593（33.957072, 133.432613、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152604872",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs593（33.957072, 133.432613、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152604872",
     "verifiedAt": ""
    }
   },
@@ -2089,7 +2089,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs594（33.956462, 133.428830、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152603045",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs594（33.956462, 133.428830、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152603045",
     "verifiedAt": ""
    }
   },
@@ -2118,7 +2118,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs598（33.955322, 133.422974、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152604007",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs598（33.955322, 133.422974、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152604007",
     "verifiedAt": ""
    }
   },
@@ -2147,7 +2147,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs606（33.953682, 133.416661、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152610030",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs606（33.953682, 133.416661、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152610030",
     "verifiedAt": ""
    }
   },
@@ -2176,7 +2176,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs808（33.914160, 133.311798、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152608645",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs808（33.914160, 133.311798、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152608645",
     "verifiedAt": ""
    }
   },
@@ -2205,7 +2205,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs822（33.911603, 133.310145、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152606917",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs822（33.911603, 133.310145、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152606917",
     "verifiedAt": ""
    }
   },
@@ -2234,7 +2234,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs839（33.909164, 133.308377、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152607848",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs839（33.909164, 133.308377、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152607848",
     "verifiedAt": ""
    }
   },
@@ -2263,7 +2263,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs858（33.904115, 133.309978、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152608659",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs858（33.904115, 133.309978、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152608659",
     "verifiedAt": ""
    }
   },
@@ -2379,7 +2379,7 @@
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs2034（33.432698, 133.231137、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7475329884",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs2034（33.432698, 133.231137、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7475329884",
     "verifiedAt": ""
    }
   },
@@ -3191,7 +3191,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/261014473",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/261014473",
     "verifiedAt": ""
    }
   },
@@ -3220,7 +3220,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3152604389",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3152604389",
     "verifiedAt": ""
    }
   },
@@ -3249,7 +3249,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5570323522",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5570323522",
     "verifiedAt": ""
    }
   },
@@ -3278,7 +3278,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5893924855",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5893924855",
     "verifiedAt": ""
    }
   },
@@ -3307,7 +3307,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5893936106",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5893936106",
     "verifiedAt": ""
    }
   },
@@ -3336,7 +3336,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7350480404",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7350480404",
     "verifiedAt": ""
    }
   },
@@ -3365,7 +3365,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7350509986",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7350509986",
     "verifiedAt": ""
    }
   },
@@ -3394,7 +3394,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/7350509989",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7350509989",
     "verifiedAt": ""
    }
   },
@@ -3423,7 +3423,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11416066169",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11416066169",
     "verifiedAt": ""
    }
   },
@@ -3452,7 +3452,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13197012901",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13197012901",
     "verifiedAt": ""
    }
   },
@@ -3481,7 +3481,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13227002601",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13227002601",
     "verifiedAt": ""
    }
   },
@@ -3510,7 +3510,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13707333501",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13707333501",
     "verifiedAt": ""
    }
   },
@@ -3539,7 +3539,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1954794575",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1954794575",
     "verifiedAt": ""
    }
   },
@@ -3568,7 +3568,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/278078947",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/278078947",
     "verifiedAt": ""
    }
   },
@@ -3597,7 +3597,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/278083232",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/278083232",
     "verifiedAt": ""
    }
   },
@@ -3626,7 +3626,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/278083236",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/278083236",
     "verifiedAt": ""
    }
   },
@@ -3655,7 +3655,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/330722545",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/330722545",
     "verifiedAt": ""
    }
   },
@@ -3684,7 +3684,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3717928752",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3717928752",
     "verifiedAt": ""
    }
   },
@@ -3713,7 +3713,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4074919401",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4074919401",
     "verifiedAt": ""
    }
   },
@@ -3742,7 +3742,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4080908822",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4080908822",
     "verifiedAt": ""
    }
   },
@@ -3771,7 +3771,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/415526403",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/415526403",
     "verifiedAt": ""
    }
   },
@@ -3800,7 +3800,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/415526417",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/415526417",
     "verifiedAt": ""
    }
   },
@@ -3829,7 +3829,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6479492226",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/6479492226",
     "verifiedAt": ""
    }
   },
@@ -3858,7 +3858,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/704285304",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/704285304",
     "verifiedAt": ""
    }
   },
@@ -3887,7 +3887,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8668196765",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8668196765",
     "verifiedAt": ""
    }
   },
@@ -3916,7 +3916,7 @@
     "status": "provisional",
     "accuracyM": 20,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8695412005",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8695412005",
     "verifiedAt": ""
    }
   },
@@ -3945,7 +3945,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1034751565",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1034751565",
     "verifiedAt": ""
    }
   },
@@ -3974,7 +3974,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1034751566",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1034751566",
     "verifiedAt": ""
    }
   },
@@ -4003,7 +4003,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1064525271",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1064525271",
     "verifiedAt": ""
    }
   },
@@ -4032,7 +4032,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1065353274",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1065353274",
     "verifiedAt": ""
    }
   },
@@ -4061,7 +4061,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1065359932",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1065359932",
     "verifiedAt": ""
    }
   },
@@ -4090,7 +4090,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1065359933",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1065359933",
     "verifiedAt": ""
    }
   },
@@ -4119,7 +4119,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1065767581",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1065767581",
     "verifiedAt": ""
    }
   },
@@ -4148,7 +4148,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1065767745",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1065767745",
     "verifiedAt": ""
    }
   },
@@ -4177,7 +4177,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1065866375",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1065866375",
     "verifiedAt": ""
    }
   },
@@ -4206,7 +4206,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1095559315",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1095559315",
     "verifiedAt": ""
    }
   },
@@ -4235,7 +4235,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1095559318",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1095559318",
     "verifiedAt": ""
    }
   },
@@ -4264,7 +4264,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1106978730",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1106978730",
     "verifiedAt": ""
    }
   },
@@ -4293,7 +4293,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1137173396",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1137173396",
     "verifiedAt": ""
    }
   },
@@ -4322,7 +4322,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1158584610",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1158584610",
     "verifiedAt": ""
    }
   },
@@ -4351,7 +4351,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1159101749",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1159101749",
     "verifiedAt": ""
    }
   },
@@ -4380,7 +4380,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1219969034",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1219969034",
     "verifiedAt": ""
    }
   },
@@ -4409,7 +4409,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1221394342",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1221394342",
     "verifiedAt": ""
    }
   },
@@ -4438,7 +4438,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1221394344",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1221394344",
     "verifiedAt": ""
    }
   },
@@ -4467,7 +4467,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1250754773",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1250754773",
     "verifiedAt": ""
    }
   },
@@ -4496,7 +4496,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1250754776",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1250754776",
     "verifiedAt": ""
    }
   },
@@ -4525,7 +4525,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1323417642",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1323417642",
     "verifiedAt": ""
    }
   },
@@ -4554,7 +4554,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1342595408",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1342595408",
     "verifiedAt": ""
    }
   },
@@ -4583,7 +4583,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1342595409",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1342595409",
     "verifiedAt": ""
    }
   },
@@ -4612,7 +4612,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1342595410",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1342595410",
     "verifiedAt": ""
    }
   },
@@ -4641,7 +4641,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1371045019",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1371045019",
     "verifiedAt": ""
    }
   },
@@ -4670,7 +4670,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1371045037",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1371045037",
     "verifiedAt": ""
    }
   },
@@ -4699,7 +4699,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1371045038",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1371045038",
     "verifiedAt": ""
    }
   },
@@ -4728,7 +4728,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1371045039",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1371045039",
     "verifiedAt": ""
    }
   },
@@ -4757,7 +4757,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1394465660",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1394465660",
     "verifiedAt": ""
    }
   },
@@ -4786,7 +4786,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1394465677",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1394465677",
     "verifiedAt": ""
    }
   },
@@ -4815,7 +4815,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1394465678",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1394465678",
     "verifiedAt": ""
    }
   },
@@ -4844,7 +4844,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1433253893",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1433253893",
     "verifiedAt": ""
    }
   },
@@ -4873,7 +4873,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1456391652",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1456391652",
     "verifiedAt": ""
    }
   },
@@ -4902,7 +4902,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1456418314",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1456418314",
     "verifiedAt": ""
    }
   },
@@ -4931,7 +4931,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1456418316",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1456418316",
     "verifiedAt": ""
    }
   },
@@ -4960,7 +4960,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1469666781",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1469666781",
     "verifiedAt": ""
    }
   },
@@ -4989,7 +4989,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1469666782",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1469666782",
     "verifiedAt": ""
    }
   },
@@ -5018,7 +5018,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1469745436",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1469745436",
     "verifiedAt": ""
    }
   },
@@ -5047,7 +5047,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1513363153",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1513363153",
     "verifiedAt": ""
    }
   },
@@ -5076,7 +5076,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1513363158",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1513363158",
     "verifiedAt": ""
    }
   },
@@ -5105,7 +5105,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1513363161",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1513363161",
     "verifiedAt": ""
    }
   },
@@ -5134,7 +5134,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/181201735",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/181201735",
     "verifiedAt": ""
    }
   },
@@ -5163,7 +5163,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/27557919",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/27557919",
     "verifiedAt": ""
    }
   },
@@ -5192,7 +5192,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/294488901",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/294488901",
     "verifiedAt": ""
    }
   },
@@ -5221,7 +5221,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/294488902",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/294488902",
     "verifiedAt": ""
    }
   },
@@ -5250,7 +5250,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/30014326",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/30014326",
     "verifiedAt": ""
    }
   },
@@ -5279,7 +5279,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/320017909",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/320017909",
     "verifiedAt": ""
    }
   },
@@ -5308,7 +5308,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/325862716",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/325862716",
     "verifiedAt": ""
    }
   },
@@ -5337,7 +5337,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/35423249",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/35423249",
     "verifiedAt": ""
    }
   },
@@ -5366,7 +5366,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/35423254",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/35423254",
     "verifiedAt": ""
    }
   },
@@ -5395,7 +5395,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/368267523",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/368267523",
     "verifiedAt": ""
    }
   },
@@ -5424,7 +5424,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/377716850",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/377716850",
     "verifiedAt": ""
    }
   },
@@ -5453,7 +5453,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/377808376",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/377808376",
     "verifiedAt": ""
    }
   },
@@ -5482,7 +5482,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/377808378",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/377808378",
     "verifiedAt": ""
    }
   },
@@ -5511,7 +5511,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/377808379",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/377808379",
     "verifiedAt": ""
    }
   },
@@ -5540,7 +5540,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/388843446",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/388843446",
     "verifiedAt": ""
    }
   },
@@ -5569,7 +5569,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/388843472",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/388843472",
     "verifiedAt": ""
    }
   },
@@ -5598,7 +5598,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/388843479",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/388843479",
     "verifiedAt": ""
    }
   },
@@ -5627,7 +5627,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/388843482",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/388843482",
     "verifiedAt": ""
    }
   },
@@ -5656,7 +5656,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/412629173",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/412629173",
     "verifiedAt": ""
    }
   },
@@ -5685,7 +5685,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/414411883",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/414411883",
     "verifiedAt": ""
    }
   },
@@ -5714,7 +5714,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/414413187",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/414413187",
     "verifiedAt": ""
    }
   },
@@ -5743,7 +5743,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/422803842",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/422803842",
     "verifiedAt": ""
    }
   },
@@ -5772,7 +5772,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/443591280",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/443591280",
     "verifiedAt": ""
    }
   },
@@ -5801,7 +5801,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/443592045",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/443592045",
     "verifiedAt": ""
    }
   },
@@ -5830,7 +5830,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/585459095",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/585459095",
     "verifiedAt": ""
    }
   },
@@ -5859,7 +5859,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/631716474",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/631716474",
     "verifiedAt": ""
    }
   },
@@ -5888,7 +5888,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/648404805",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/648404805",
     "verifiedAt": ""
    }
   },
@@ -5917,7 +5917,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/648409895",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/648409895",
     "verifiedAt": ""
    }
   },
@@ -5946,7 +5946,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/699811632",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/699811632",
     "verifiedAt": ""
    }
   },
@@ -5975,7 +5975,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/731898660",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/731898660",
     "verifiedAt": ""
    }
   },
@@ -6004,7 +6004,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/731898662",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/731898662",
     "verifiedAt": ""
    }
   },
@@ -6033,7 +6033,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/749673254",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/749673254",
     "verifiedAt": ""
    }
   },
@@ -6062,7 +6062,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/757745972",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/757745972",
     "verifiedAt": ""
    }
   },
@@ -6091,7 +6091,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/772413596",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/772413596",
     "verifiedAt": ""
    }
   },
@@ -6120,7 +6120,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/822871514",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/822871514",
     "verifiedAt": ""
    }
   },
@@ -6149,7 +6149,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/864500611",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/864500611",
     "verifiedAt": ""
    }
   },
@@ -6178,7 +6178,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/889139721",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/889139721",
     "verifiedAt": ""
    }
   },
@@ -6207,7 +6207,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/945500663",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/945500663",
     "verifiedAt": ""
    }
   },
@@ -6236,7 +6236,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/94727836",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/94727836",
     "verifiedAt": ""
    }
   },
@@ -6265,7 +6265,7 @@
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/94727901",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/94727901",
     "verifiedAt": ""
    }
   },
@@ -6381,7 +6381,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-36-bs1518（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1853850865（登山道と道路の接続点）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-36-bs1518（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1853850865（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6410,7 +6410,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1245（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2096163358（登山道と道路の接続点） ｜ 国土地理院 地名検索「河口」（33.823717, 133.122956、JGD2011、26m差）2026-09-20確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-38-bs1245（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2096163358（登山道と道路の接続点） ｜ 国土地理院 地名検索「河口」（33.823717, 133.122956、JGD2011、26m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -6439,7 +6439,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs2040（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1546567436（登山道と道路の接続点）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs2040（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1546567436（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6468,7 +6468,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs251（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553317981（登山道と道路の接続点） ｜ 国土地理院 地名検索「猪野々簡易郵便局」（33.705492, 133.855042、JGD2011、27m差）2026-09-20確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs251（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553317981（登山道と道路の接続点） ｜ 国土地理院 地名検索「猪野々簡易郵便局」（33.705492, 133.855042、JGD2011、27m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -6497,7 +6497,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs273（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553316646（登山道と道路の接続点）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs273（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553316646（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6526,7 +6526,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs3000（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479592005（登山道と道路の接続点）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs3000（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479592005（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6555,7 +6555,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs3001（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479591323（登山道と道路の接続点）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs3001（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479591323（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6584,7 +6584,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs785（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1493851808（登山道と道路の接続点）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-39-bs785（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1493851808（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6613,7 +6613,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10129303952（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/10129303952（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6642,7 +6642,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10161845393（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/10161845393（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6671,7 +6671,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/10600658618（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/10600658618（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6700,7 +6700,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1099878327（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1099878327（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6729,7 +6729,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11416744269",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11416744269",
     "verifiedAt": ""
    }
   },
@@ -6758,7 +6758,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11893691691（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11893691691（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6787,7 +6787,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11934704036（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11934704036（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6816,7 +6816,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "見ノ越に剣山観光登山リフトの乗り場（見ノ越駅）がある（剣山観光登山リフト）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11977956511 ｜ 国土地理院 地名検索「見の越駅」（33.866640, 134.089137、JGD2011、18m差）2026-09-20確認 ｜ 公式情報: https://www.awanavi.jp/archives/spot/19046 ｜ 公式情報: https://turugirift.com/guide.html",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11977956511 ｜ 国土地理院 地名検索「見の越駅」（33.866640, 134.089137、JGD2011、18m差）2026-09-20確認 ｜ 公式情報: https://www.awanavi.jp/archives/spot/19046 ｜ 公式情報: https://turugirift.com/guide.html",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -6845,7 +6845,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "剣山観光登山リフトの山上側の駅（剣山観光登山リフト）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/11977956512 ｜ 国土地理院 地名検索「西島駅」（33.860724, 134.092442、JGD2011、25m差）2026-09-20確認 ｜ 公式情報: https://www.awanavi.jp/archives/spot/19046 ｜ 公式情報: https://turugirift.com/guide.html",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/11977956512 ｜ 国土地理院 地名検索「西島駅」（33.860724, 134.092442、JGD2011、25m差）2026-09-20確認 ｜ 公式情報: https://www.awanavi.jp/archives/spot/19046 ｜ 公式情報: https://turugirift.com/guide.html",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -6874,7 +6874,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/12137456818（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/12137456818（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6903,7 +6903,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/12163153286（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/12163153286（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6932,7 +6932,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/12684046286（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/12684046286（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -6961,7 +6961,7 @@
     "status": "adopted",
     "accuracyM": 30,
     "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1295579034（登山道と道路の接続点） ｜ 国土地理院 地名検索「三ツ森峠」（33.831090, 133.351683、JGD2011、32m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1295579034（登山道と道路の接続点） ｜ 国土地理院 地名検索「三ツ森峠」（33.831090, 133.351683、JGD2011、32m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -6990,7 +6990,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1295581740（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1295581740（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7019,7 +7019,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13255860501",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13255860501",
     "verifiedAt": ""
    }
   },
@@ -7048,7 +7048,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1332885272（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1332885272（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7077,7 +7077,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1332903481（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1332903481（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7106,7 +7106,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1332908256（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1332908256（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7135,7 +7135,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13356997366（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13356997366（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7164,7 +7164,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13357020942（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13357020942（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7193,7 +7193,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1378265466（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1378265466（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7222,7 +7222,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13805646026（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13805646026（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7251,7 +7251,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13806150441（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13806150441（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7280,7 +7280,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/13829937798（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13829937798（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7309,7 +7309,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479917136（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479917136（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7338,7 +7338,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479920383（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479920383（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7367,7 +7367,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479921176（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479921176（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7396,7 +7396,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479921840（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479921840（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7425,7 +7425,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1479927618（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1479927618（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7454,7 +7454,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1488024378（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1488024378（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7483,7 +7483,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1493844827（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1493844827（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7512,7 +7512,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1493846014（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1493846014（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7541,7 +7541,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1509587000（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1509587000（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7570,7 +7570,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1524231670（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1524231670（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7599,7 +7599,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1528915096（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1528915096（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7628,7 +7628,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1528921494（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1528921494（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7657,7 +7657,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1530344762（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1530344762（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7686,7 +7686,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1532060259（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1532060259（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7715,7 +7715,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1532191023（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1532191023（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7744,7 +7744,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1532309824（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1532309824（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7773,7 +7773,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1533387074（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1533387074（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7802,7 +7802,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1533387270（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1533387270（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7831,7 +7831,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1533490570（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1533490570（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7860,7 +7860,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541756537（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541756537（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7889,7 +7889,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541869196（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541869196（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7918,7 +7918,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541870042（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541870042（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7947,7 +7947,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541873920（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541873920（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -7976,7 +7976,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541875561（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541875561（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8005,7 +8005,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541876484（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541876484（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8034,7 +8034,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541885947（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541885947（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8063,7 +8063,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541886305（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541886305（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8092,7 +8092,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1541888765（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1541888765（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8121,7 +8121,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543473685（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543473685（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8150,7 +8150,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543473870（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543473870（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8179,7 +8179,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543475304（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543475304（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8208,7 +8208,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543475993（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543475993（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8237,7 +8237,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543668479（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543668479（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8266,7 +8266,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543750186（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543750186（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8295,7 +8295,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543795621（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543795621（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8324,7 +8324,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543801399（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543801399（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8353,7 +8353,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543801652（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543801652（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8382,7 +8382,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543801962（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543801962（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8411,7 +8411,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1543805597（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1543805597（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8440,7 +8440,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1545260782（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1545260782（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8469,7 +8469,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1545273598（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1545273598（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8498,7 +8498,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1545275610（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1545275610（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8527,7 +8527,7 @@
     "status": "adopted",
     "accuracyM": 30,
     "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1545275775（登山道と道路の接続点） ｜ 国土地理院 地名検索「韮ヶ峠」（33.474552, 132.838247、JGD2011、51m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1545275775（登山道と道路の接続点） ｜ 国土地理院 地名検索「韮ヶ峠」（33.474552, 132.838247、JGD2011、51m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -8556,7 +8556,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1546570385（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1546570385（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8585,7 +8585,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1546634928（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1546634928（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8614,7 +8614,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1546642091（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1546642091（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8643,7 +8643,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549557731（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549557731（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8672,7 +8672,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549778451（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549778451（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8701,7 +8701,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549782066（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549782066（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8730,7 +8730,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549828302（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549828302（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8759,7 +8759,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549843729（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549843729（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8788,7 +8788,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549843846（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549843846（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8817,7 +8817,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1549844754（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1549844754（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8846,7 +8846,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553314428（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553314428（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8875,7 +8875,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553315015（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553315015（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8904,7 +8904,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553367547（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553367547（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8933,7 +8933,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553368363（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553368363（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8962,7 +8962,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553368503（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553368503（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -8991,7 +8991,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553368589（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553368589（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9020,7 +9020,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553368679（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553368679（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9049,7 +9049,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553369681（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553369681（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9078,7 +9078,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553370259（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553370259（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9107,7 +9107,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553370850（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553370850（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9136,7 +9136,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553371346（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553371346（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9165,7 +9165,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553373444（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553373444（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9194,7 +9194,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553374553（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553374553（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9223,7 +9223,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553375051（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553375051（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9252,7 +9252,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1553802788（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1553802788（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9281,7 +9281,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1557807109（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1557807109（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9310,7 +9310,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1557807847（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1557807847（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9339,7 +9339,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1557808522（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1557808522（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9368,7 +9368,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1557864581（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1557864581（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9397,7 +9397,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1563309357（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1563309357（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9426,7 +9426,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1563327410（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1563327410（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9455,7 +9455,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1592567555（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1592567555（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9484,7 +9484,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1592648418（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1592648418（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9513,7 +9513,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1617265411（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1617265411（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9542,7 +9542,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1617280592（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1617280592（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9571,7 +9571,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1617283097（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1617283097（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9600,7 +9600,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1617283473（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1617283473（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9629,7 +9629,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1664375722（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1664375722（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9658,7 +9658,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1664375987（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1664375987（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9687,7 +9687,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1671972329（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1671972329（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9716,7 +9716,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1671974333（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1671974333（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9745,7 +9745,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1679205967（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1679205967（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9774,7 +9774,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1679223057（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1679223057（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9803,7 +9803,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1679267323（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1679267323（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9832,7 +9832,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1679268977（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1679268977（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9861,7 +9861,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1681789165（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1681789165（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9890,7 +9890,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1681795784（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1681795784（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9919,7 +9919,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1682126333（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1682126333（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -9948,7 +9948,7 @@
     "status": "adopted",
     "accuracyM": 30,
     "needsReview": "",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1682153459（登山道と道路の接続点） ｜ 国土地理院 地名検索「土小屋」（33.755102, 133.147678、JGD2011、176m差）確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1682153459（登山道と道路の接続点） ｜ 国土地理院 地名検索「土小屋」（33.755102, 133.147678、JGD2011、176m差）確認",
     "verifiedAt": ""
    }
   },
@@ -9977,7 +9977,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1682796014（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1682796014（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10006,7 +10006,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1685657665（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1685657665（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10035,7 +10035,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1685662539（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1685662539（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10064,7 +10064,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1698771762（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1698771762（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10093,7 +10093,7 @@
     "status": "adopted",
     "accuracyM": 30,
     "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1698966501（登山道と道路の接続点） ｜ 国土地理院 地名検索「落合峠」（33.918024, 133.947578、JGD2011、20m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1698966501（登山道と道路の接続点） ｜ 国土地理院 地名検索「落合峠」（33.918024, 133.947578、JGD2011、20m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -10122,7 +10122,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1698968348（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1698968348（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10151,7 +10151,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1698971492（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1698971492（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10180,7 +10180,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1699059345（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1699059345（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10209,7 +10209,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1699061277（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1699061277（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10238,7 +10238,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1699094826（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1699094826（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10267,7 +10267,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1755922566（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1755922566（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10296,7 +10296,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1755925053（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1755925053（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10325,7 +10325,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1756049572（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1756049572（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10354,7 +10354,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1756052042（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1756052042（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10383,7 +10383,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757002157（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757002157（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10412,7 +10412,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757047042（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757047042（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10441,7 +10441,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757051174（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757051174（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10470,7 +10470,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757059145（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757059145（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10499,7 +10499,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757079024（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757079024（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10528,7 +10528,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757145412（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757145412（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10557,7 +10557,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757191748（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757191748（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10586,7 +10586,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757192310（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757192310（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10615,7 +10615,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1757215354（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1757215354（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10644,7 +10644,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1761413477（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1761413477（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10673,7 +10673,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1764845782（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1764845782（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10702,7 +10702,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1764848754（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1764848754（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10731,7 +10731,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1765053396（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1765053396（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10760,7 +10760,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1765055970（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1765055970（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10789,7 +10789,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1793310484（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1793310484（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10818,7 +10818,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1793344548（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1793344548（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10847,7 +10847,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1793345107（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1793345107（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10876,7 +10876,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1793348226（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1793348226（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10905,7 +10905,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1810764607（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1810764607（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10934,7 +10934,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）、夫婦池は塔ノ丸の登山口、国土地理院の地名「夫婦池」とOSMの登山道の接続点の位置が一致（独立した2情報源）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811071147（登山道と道路の接続点） ｜ 国土地理院 地名検索「夫婦池」（33.872467, 134.077053、JGD2011、113m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811071147（登山道と道路の接続点） ｜ 国土地理院 地名検索「夫婦池」（33.872467, 134.077053、JGD2011、113m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -10963,7 +10963,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811074951（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811074951（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -10992,7 +10992,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811075337（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811075337（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11021,7 +11021,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811075662（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811075662（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11050,7 +11050,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811083832（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811083832（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11079,7 +11079,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811085505（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811085505（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11108,7 +11108,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1811093493（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1811093493（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11137,7 +11137,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1847677898（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1847677898（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11166,7 +11166,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1847686343（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1847686343（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11195,7 +11195,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1847705204（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1847705204（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11224,7 +11224,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1848156070（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1848156070（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11253,7 +11253,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1848157817（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1848157817（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11282,7 +11282,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1849324734（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1849324734（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11311,7 +11311,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1853841487（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1853841487（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11340,7 +11340,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1853850865（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1853850865（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11369,7 +11369,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1853851050（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1853851050（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11398,7 +11398,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1882033623（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1882033623（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11427,7 +11427,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1890946778（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1890946778（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11456,7 +11456,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1914942704（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1914942704（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11485,7 +11485,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1951923044（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1951923044（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11514,7 +11514,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1954794489",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1954794489",
     "verifiedAt": ""
    }
   },
@@ -11543,7 +11543,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1986508880（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1986508880（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11572,7 +11572,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1993045555（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1993045555（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11601,7 +11601,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1993046131（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1993046131（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11630,7 +11630,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2014457916（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2014457916（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11659,7 +11659,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2014459171（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2014459171（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11688,7 +11688,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2014460791（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2014460791（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11717,7 +11717,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2014461235（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2014461235（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11746,7 +11746,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045547030（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045547030（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11775,7 +11775,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045548179（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045548179（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11804,7 +11804,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045579864（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045579864（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11833,7 +11833,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045582818（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045582818（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11862,7 +11862,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045596176（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045596176（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11891,7 +11891,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045614046（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045614046（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11920,7 +11920,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045617573（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045617573（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11949,7 +11949,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045618940（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045618940（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -11978,7 +11978,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）、滑床は三本杭・高月山方面の入口にあたる、国土地理院の地名との差が209mあり、登山口そのものの位置は目視未確認",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045619323（登山道と道路の接続点） ｜ 国土地理院 地名検索「滑床」（33.201875, 132.651880、JGD2011、209m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045619323（登山道と道路の接続点） ｜ 国土地理院 地名検索「滑床」（33.201875, 132.651880、JGD2011、209m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -12007,7 +12007,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2045619674（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2045619674（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12036,7 +12036,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2061596030（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2061596030（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12065,7 +12065,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2061596176（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2061596176（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12094,7 +12094,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2065201882（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2065201882（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12123,7 +12123,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2065619670（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2065619670（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12152,7 +12152,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2065632017（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2065632017（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12181,7 +12181,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2065633425（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2065633425（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12210,7 +12210,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2067522216（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2067522216（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12239,7 +12239,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2067528597（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2067528597（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12268,7 +12268,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2094258984（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2094258984（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12297,7 +12297,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2096162029（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2096162029（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12326,7 +12326,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2096215331（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2096215331（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12355,7 +12355,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2096216450（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2096216450（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12384,7 +12384,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2097490007（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2097490007（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12413,7 +12413,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2097494768（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2097494768（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12442,7 +12442,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2097494953（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2097494953（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12471,7 +12471,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2097497549（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2097497549（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12500,7 +12500,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2097497778（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2097497778（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12529,7 +12529,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2483295949 ｜ 国土地理院 地名検索「山頂成就駅」（33.794926, 133.133241、JGD2011、51m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2483295949 ｜ 国土地理院 地名検索「山頂成就駅」（33.794926, 133.133241、JGD2011、51m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -12558,7 +12558,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/261014455",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/261014455",
     "verifiedAt": ""
    }
   },
@@ -12587,7 +12587,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/266600700（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/266600700（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12616,7 +12616,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/266827365（登山道と道路の接続点） ｜ 国土地理院 地名検索「卯辰越」（34.177013, 134.484161、JGD2011、72m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/266827365（登山道と道路の接続点） ｜ 国土地理院 地名検索「卯辰越」（34.177013, 134.484161、JGD2011、72m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -12645,7 +12645,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/278073861（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/278073861（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12674,7 +12674,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/278089427（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/278089427（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12703,7 +12703,7 @@
     "status": "adopted",
     "accuracyM": 30,
     "needsReview": "",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2932726461（登山道と道路の接続点） ｜ 国土地理院 地名検索「黒森峠」（33.753877, 132.992397、JGD2011、55m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2932726461（登山道と道路の接続点） ｜ 国土地理院 地名検索「黒森峠」（33.753877, 132.992397、JGD2011、55m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -12732,8 +12732,8 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/293935633 ｜ 国土地理院 地名検索「山頂駅」（33.880870, 134.521506、JGD2011、16m差）2026-09-13確認",
-    "verifiedAt": "2026-09-13"
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/293935633 ｜ 国土地理院 地名検索「山頂駅」（33.880870, 134.521506、JGD2011、16m差）2026-09-24確認",
+    "verifiedAt": "2026-09-24"
    }
   },
   {
@@ -12761,7 +12761,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2980392386（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2980392386（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12790,7 +12790,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/308474599（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/308474599（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12819,7 +12819,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/330182109（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/330182109（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12848,7 +12848,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/330410678（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/330410678（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12877,7 +12877,7 @@
     "status": "adopted",
     "accuracyM": 30,
     "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/330722543（登山道と道路の接続点） ｜ 国土地理院 地名検索「大引割峠」（33.475502, 133.046364、JGD2011、47m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/330722543（登山道と道路の接続点） ｜ 国土地理院 地名検索「大引割峠」（33.475502, 133.046364、JGD2011、47m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -12906,7 +12906,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "筏津は東赤石山の登山口、国土地理院の地名とOSMの登山道の接続点の位置が一致（独立した2情報源）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3464901750（登山道と道路の接続点） ｜ 国土地理院 地名検索「筏津」（33.848797, 133.386847、JGD2011、133m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3464901750（登山道と道路の接続点） ｜ 国土地理院 地名検索「筏津」（33.848797, 133.386847、JGD2011、133m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -12935,7 +12935,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3718179777",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3718179777",
     "verifiedAt": ""
    }
   },
@@ -12964,7 +12964,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3811048090（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3811048090（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -12993,7 +12993,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/3812089527（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/3812089527（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13022,7 +13022,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/388451477（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/388451477（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13051,7 +13051,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/388451518（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/388451518（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13080,7 +13080,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4073536551",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4073536551",
     "verifiedAt": ""
    }
   },
@@ -13109,7 +13109,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4074896728（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4074896728（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13138,7 +13138,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4074924301（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4074924301（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13167,7 +13167,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4140008388（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4140008388（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13196,7 +13196,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/415525939（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/415525939（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13225,7 +13225,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/415526414（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/415526414（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13254,7 +13254,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4238774020",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4238774020",
     "verifiedAt": ""
    }
   },
@@ -13283,7 +13283,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4485819043",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4485819043",
     "verifiedAt": ""
    }
   },
@@ -13312,7 +13312,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4485819082 ｜ 国土地理院 地名検索「山頂成就駅」（33.794926, 133.133241、JGD2011、226m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4485819082 ｜ 国土地理院 地名検索「山頂成就駅」（33.794926, 133.133241、JGD2011、226m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -13341,7 +13341,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4485819082 ｜ 国土地理院 地名検索「山頂成就駅」（33.794926, 133.133241、JGD2011、226m差）2026-09-20確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4485819082 ｜ 国土地理院 地名検索「山頂成就駅」（33.794926, 133.133241、JGD2011、226m差）2026-09-20確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -13370,7 +13370,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4485944009",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4485944009",
     "verifiedAt": ""
    }
   },
@@ -13399,7 +13399,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/4507394264（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4507394264（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13428,7 +13428,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5346573956（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5346573956（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13457,7 +13457,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5474409217（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5474409217（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13486,7 +13486,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "採用の根拠: OSMの登山口名と、地理院地図の徒歩道が道路から始まる位置の一致（公式情報では未確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/5893943539 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（33.851889, 134.023216、JGD2011、28m差）2026-09-21確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5893943539 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（33.851889, 134.023216、JGD2011、28m差）2026-09-24確認",
     "verifiedAt": ""
    }
   },
@@ -13515,7 +13515,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "林道からの入口（マイカー進入可否を要確認）、林野庁四国森林管理局が三嶺へのルートマップを公開している（林野庁）、徳島自動車道井川池田ICから車で約1時間35分（三好市）",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-36-bs1902（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1699014651（登山道と道路の接続点） ｜ 国土地理院 地名検索「名頃」（33.855056, 134.020986、JGD2011、248m差）2026-09-20確認 ｜ 公式情報: https://www.rinya.maff.go.jp/shikoku/policy/business/route_map/miune/miune1.html ｜ 公式情報: https://miyoshi-city.jp/spot/%E4%B8%89%E5%B6%BA/",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-36-bs1902（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1699014651（登山道と道路の接続点） ｜ 国土地理院 地名検索「名頃」（33.855056, 134.020986、JGD2011、248m差）2026-09-20確認 ｜ 公式情報: https://www.rinya.maff.go.jp/shikoku/policy/business/route_map/miune/miune1.html ｜ 公式情報: https://miyoshi-city.jp/spot/%E4%B8%89%E5%B6%BA/",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -13544,7 +13544,7 @@
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "採用の根拠: OSMの登山口名と、地理院地図の徒歩道が道路から始まる位置の一致（公式情報では未確認）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6315568142 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（33.840717, 134.123506、JGD2011、3m差）2026-09-21確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/6315568142 ｜ 国土地理院ベクトルタイル提供実験 地理院地図の徒歩道の起点（33.840717, 134.123506、JGD2011、3m差）2026-09-24確認",
     "verifiedAt": ""
    }
   },
@@ -13573,7 +13573,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6501170374（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/6501170374（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13602,7 +13602,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/6593592017（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/6593592017（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13631,7 +13631,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8164150727（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8164150727（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13660,7 +13660,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8586606361 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/1986508880（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8586606361 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1986508880（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13689,7 +13689,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8930679197（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8930679197（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13718,7 +13718,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8971963359（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8971963359（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13747,7 +13747,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/9173740676（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/9173740676（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13776,7 +13776,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/9402514371（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/9402514371（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13805,7 +13805,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要、UFOライン（町道瓶ヶ森線）は標高1,100〜1,700mの稜線を走る全長約27kmの町道で、通行できるのは概ね4月中旬〜11月末（いの町・石鎚山系連携事業協議会）、いの町が山岳観光道路情報を公開している。入山前に確認すること（いの町）、この地点がどの登山口かは未確認",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/945762371（登山道と道路の接続点） ｜ 公式情報: https://ishizuchisankei.com/spot/spot09-2/ ｜ 公式情報: https://www.town.ino.kochi.jp/shigoto/kanko/10060/ ｜ 公式情報: https://niyodoblue.jp/spot/detail.php?id=119",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/945762371（登山道と道路の接続点） ｜ 公式情報: https://ishizuchisankei.com/spot/spot09-2/ ｜ 公式情報: https://www.town.ino.kochi.jp/shigoto/kanko/10060/ ｜ 公式情報: https://niyodoblue.jp/spot/detail.php?id=119",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -13834,7 +13834,7 @@
     "status": "provisional",
     "accuracyM": 30,
     "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/945762544（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/945762544（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13863,7 +13863,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/959249623（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/959249623（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13892,7 +13892,7 @@
     "status": "candidate",
     "accuracyM": 30,
     "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/9776924587（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/9776924587（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13921,7 +13921,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/1371045038 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/2094265052（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1371045038 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2094265052（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   },
@@ -13950,7 +13950,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z way/422803842 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-18T20:21:10Z node/8467335982（登山道と道路の接続点）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/422803842 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/8467335982（登山道と道路の接続点）",
     "verifiedAt": ""
    }
   }
