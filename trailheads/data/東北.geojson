@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "東北",
- "generatedAt": "2026-09-24",
+ "generatedAt": "2026-09-26",
  "osmData": "japan-latest.osm.pbf 2026-09-23T20:22:04Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -112,12 +112,70 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n5052897434(454m)",
+    "related": "TH-n5052897434(454m) TH-gsi-sarukura(516m)",
     "attributes": "operator=ジェイアールバス東北（株）; busType=民間路線バス; busRoutes=青森路線　青森・八戸-奥入瀬・十和田湖　みずうみ号・おいらせ号",
     "status": "adopted",
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
     "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-02-bs2553（40.631096, 140.908900、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/5052900223",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2682434,
+     40.6298377
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-02-bs2558",
+    "kind": "bus_stop",
+    "name": "岳温泉前",
+    "datum": "WGS84",
+    "mountainIds": "105",
+    "mountainNames": "岩木山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-dake-iwaki(235m) TH-gsi-dake-iwaki(235m)",
+    "attributes": "operator=弘南バス（株）; busType=民間路線バス; busRoutes=弘前～岩木庁舎線・枯木平線（高岡経由）",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-02-bs2558（40.629838, 140.268243、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/12714888915",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2640852,
+     40.6295831
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-02-bs2560",
+    "kind": "bus_stop",
+    "name": "湯段口",
+    "datum": "WGS84",
+    "mountainIds": "105",
+    "mountainNames": "岩木山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-dake-iwaki(436m)",
+    "attributes": "operator=弘南バス（株）; busType=民間路線バス; busRoutes=弘前～岩木庁舎線・枯木平線（高岡経由）",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-02-bs2560（40.629583, 140.264085、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/12714863652",
     "verifiedAt": ""
    }
   },
@@ -561,6 +619,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.9356038,
+     39.3834444
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-03-bs3815",
+    "kind": "bus_stop",
+    "name": "浪板",
+    "datum": "WGS84",
+    "mountainIds": "134",
+    "mountainNames": "鯨山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-osm-n264237096(47m)",
+    "attributes": "operator=岩手県交通（株）; busType=民間路線バス; busRoutes=浪板線（広域路線）　（上大畑～釜石駅前～浪板）",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-03-bs3815（39.383444, 141.935604、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13978294841",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.9386261,
+     39.3805187
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-03-bs3838",
+    "kind": "bus_stop",
+    "name": "浪板海岸",
+    "datum": "WGS84",
+    "mountainIds": "134",
+    "mountainNames": "鯨山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-osm-n264237096(458m)",
+    "attributes": "operator=岩手県交通（株）; busType=民間路線バス; busRoutes=浪板線（広域路線）　（上大畑～釜石駅前～浪板）",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-03-bs3838（39.380519, 141.938626、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2474722673",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      141.7590216,
      39.2501232
     ]
@@ -924,7 +1040,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3702582422(727m) TH-n3702582421(484m) TH-n7688189865(704m)",
+    "related": "TH-n3702582422(727m) TH-n3702582421(484m) TH-n7688189865(704m) TH-gsi-kattatoge(599m) TH-gsi-karitasancho(130m)",
     "attributes": "operator=山交バス（株）; busType=民間路線バス; busRoutes=山形～蔵王刈田山頂線（特急）",
     "status": "adopted",
     "accuracyM": 10,
@@ -953,7 +1069,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3702582421(484m) TH-n7688189865(704m)",
+    "related": "TH-n3702582421(484m) TH-n7688189865(704m) TH-gsi-kattatoge(599m) TH-gsi-karitasancho(130m)",
     "attributes": "operator=（株）ミヤコーバス; busType=民間路線バス; busRoutes=白石遠刈田線・蔵王エコーライン線",
     "status": "adopted",
     "accuracyM": 10,
@@ -982,7 +1098,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n7688189865(204m)",
+    "related": "TH-n7688189865(204m) TH-gsi-kattatoge(210m)",
     "attributes": "operator=（株）ミヤコーバス; busType=民間路線バス; busRoutes=白石遠刈田線・蔵王エコーライン線",
     "status": "adopted",
     "accuracyM": 10,
@@ -2200,7 +2316,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3265050034(497m)",
+    "related": "TH-n3265050034(497m) TH-gsi-adatara-shiozawa(539m)",
     "attributes": "operator=福島交通（株）; busType=民間路線バス; busRoutes=塩沢線",
     "status": "adopted",
     "accuracyM": 10,
@@ -2235,6 +2351,35 @@
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
     "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-07-bs1279（37.638238, 140.100459、JGD2011）を加工して作成",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.688865,
+     37.4546152
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-07-bs2616",
+    "kind": "bus_stop",
+    "name": "雨乞平",
+    "datum": "WGS84",
+    "mountainIds": "188",
+    "mountainNames": "鎌倉岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-hagidaira(734m)",
+    "attributes": "operator=福島交通（株）; busType=民間路線バス; busRoutes=古道線 / 川内線",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-07-bs2616（37.454615, 140.688865、JGD2011）を加工して作成",
     "verifiedAt": ""
    }
   },
@@ -2293,6 +2438,64 @@
     "accuracyM": 10,
     "needsReview": "運行状況（季節運行・休止・予約制）を要確認、登山口から離れている（徒歩アプローチを要確認）",
     "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-07-bs3280（37.332048, 139.861353、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/9710555105",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8956118,
+     37.3097968
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-07-bs3395",
+    "kind": "bus_stop",
+    "name": "小野下",
+    "datum": "WGS84",
+    "mountainIds": "196",
+    "mountainNames": "小野岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-ono-kannon(293m)",
+    "attributes": "operator=会津乗合自動車（株）; busType=民間路線バス; busRoutes=枝松線：下郷中・旭田小経由 / 枝松線：下郷中経由 / 枝松線：枝松・小沼崎",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-07-bs3395（37.309797, 139.895612、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/10904674869",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8945329,
+     37.3073256
+    ]
+   },
+   "properties": {
+    "id": "BS-kP11-22-07-bs3407",
+    "kind": "bus_stop",
+    "name": "大内宿入口",
+    "datum": "WGS84",
+    "mountainIds": "196",
+    "mountainNames": "小野岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-ono-kannon(432m) TH-gsi-ono-kannon(432m)",
+    "attributes": "operator=会津乗合自動車（株）; busType=民間路線バス; busRoutes=枝松線：下郷中・旭田小経由 / 枝松線：下郷中経由 / 枝松線：枝松・小沼崎",
+    "status": "adopted",
+    "accuracyM": 10,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-07-bs3407（37.307326, 139.894533、JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/10904674870",
     "verifiedAt": ""
    }
   },
@@ -3142,6 +3345,35 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     140.8594743,
+     38.4166095
+    ]
+   },
+   "properties": {
+    "id": "BS-n13824576161",
+    "kind": "bus_stop",
+    "name": "宮床山田",
+    "datum": "WGS84",
+    "mountainIds": "160",
+    "mountainNames": "七ッ森",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-shingyoji(993m)",
+    "attributes": "operator=大和町; network=大和町民バス宮床線; busRoutes=大和町｜宮床線｜大和町民バス宮床線",
+    "status": "provisional",
+    "accuracyM": 20,
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/13824576161",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      140.7944724,
      39.8010627
     ]
@@ -3389,11 +3621,11 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3702582422(66m) TH-n3702582421(517m)",
+    "related": "TH-n3702582422(66m) TH-n3702582421(517m) TH-gsi-karitasancho(680m)",
     "attributes": "",
     "status": "provisional",
     "accuracyM": 20,
-    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要",
+    "needsReview": "運行状況（季節運行・休止・予約制）を要確認、公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4871552624",
     "verifiedAt": ""
    }
@@ -3606,6 +3838,35 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.034794,
+     40.425344
+    ]
+   },
+   "properties": {
+    "id": "PK-g4042534_14103479",
+    "kind": "parking",
+    "name": "平子沢水と緑の森公園 駐車場",
+    "datum": "WGS84",
+    "mountainIds": "109 113",
+    "mountainNames": "戸来岳、十和利山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-n1244497782(0m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 100,
+    "needsReview": "公式情報では未確認（登山記録で使われている駐車場）",
+    "sources": "登山記録で使われている駐車場（登山記録・登山情報サイトで確認。公式情報では未確認）",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      140.2459111,
      37.6291003
     ]
@@ -3621,7 +3882,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n2599176528(278m) TH-n2599176494(212m)",
+    "related": "TH-n2599176528(278m) TH-n2599176494(212m) TH-gsi-adatara-numajiri(9m)",
     "attributes": "",
     "status": "provisional",
     "accuracyM": 20,
@@ -4070,6 +4331,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.8927701,
+     37.3108633
+    ]
+   },
+   "properties": {
+    "id": "PK-w1116231194",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "196",
+    "mountainNames": "小野岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-ono-kannon(15m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1116231194",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.89574,
+     37.3099782
+    ]
+   },
+   "properties": {
+    "id": "PK-w1117065071",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "196",
+    "mountainNames": "小野岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-ono-kannon(295m)",
+    "attributes": "access=customers",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1117065071",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      140.5091723,
      39.9619529
     ]
@@ -4099,6 +4418,35 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     140.4473734,
+     38.1270314
+    ]
+   },
+   "properties": {
+    "id": "PK-w1188034341",
+    "kind": "parking",
+    "name": "第2駐車場",
+    "datum": "WGS84",
+    "mountainIds": "170",
+    "mountainNames": "蔵王山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-karitasancho(170m)",
+    "attributes": "access=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1188034341",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      140.4463248,
      38.1278773
     ]
@@ -4114,12 +4462,41 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3702582421(393m)",
+    "related": "TH-n3702582421(393m) TH-gsi-karitasancho(39m)",
     "attributes": "access=permit",
     "status": "provisional",
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1188034344",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4484523,
+     38.1265776
+    ]
+   },
+   "properties": {
+    "id": "PK-w1188034347",
+    "kind": "parking",
+    "name": "第3駐車場",
+    "datum": "WGS84",
+    "mountainIds": "172",
+    "mountainNames": "屏風岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-kattatoge(474m)",
+    "attributes": "access=yes",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1188034347",
     "verifiedAt": ""
    }
   },
@@ -4143,7 +4520,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n7688189865(487m)",
+    "related": "TH-n7688189865(487m) TH-gsi-kattatoge(437m)",
     "attributes": "access=yes",
     "status": "provisional",
     "accuracyM": 40,
@@ -4795,6 +5172,35 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     140.270286,
+     40.6279567
+    ]
+   },
+   "properties": {
+    "id": "PK-w1560810419",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "105",
+    "mountainNames": "岩木山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-dake-iwaki(477m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/1560810419",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.9722454,
      38.3052016
     ]
@@ -4911,6 +5317,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     141.9380438,
+     39.386008
+    ]
+   },
+   "properties": {
+    "id": "PK-w239696707",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "134",
+    "mountainNames": "鯨山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-osm-n264237096(362m)",
+    "attributes": "access=customers",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/239696707",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.9390501,
+     39.3803855
+    ]
+   },
+   "properties": {
+    "id": "PK-w239696711",
+    "kind": "parking",
+    "name": "（名称なし）駐車場",
+    "datum": "WGS84",
+    "mountainIds": "134",
+    "mountainNames": "鯨山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-osm-n264237096(494m)",
+    "attributes": "access=customers",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/239696711",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      140.2272727,
      37.6224124
     ]
@@ -4932,6 +5396,93 @@
     "accuracyM": 40,
     "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/247364926",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0931588,
+     37.5741468
+    ]
+   },
+   "properties": {
+    "id": "PK-w253930730",
+    "kind": "parking",
+    "name": "さんすい駐車場",
+    "datum": "WGS84",
+    "mountainIds": "185",
+    "mountainNames": "磐梯山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-inawashiro-ski(217m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/253930730",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0943591,
+     37.573613
+    ]
+   },
+   "properties": {
+    "id": "PK-w253930731",
+    "kind": "parking",
+    "name": "はやま 中央駐車場 D面",
+    "datum": "WGS84",
+    "mountainIds": "185",
+    "mountainNames": "磐梯山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-inawashiro-ski(220m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/253930731",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0902245,
+     37.5726325
+    ]
+   },
+   "properties": {
+    "id": "PK-w253930733",
+    "kind": "parking",
+    "name": "はやま西駐車場",
+    "datum": "WGS84",
+    "mountainIds": "185",
+    "mountainNames": "磐梯山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "",
+    "trailKmToSummit": "",
+    "related": "TH-gsi-inawashiro-ski(209m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 40,
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/253930733",
     "verifiedAt": ""
    }
   },
@@ -5390,11 +5941,11 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3265050034(274m)",
+    "related": "TH-n3265050034(274m) TH-gsi-adatara-shiozawa(330m)",
     "attributes": "",
     "status": "provisional",
     "accuracyM": 40,
-    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
+    "needsReview": "公式情報または2情報源での確認が必要、名称なし、登山口から離れている（徒歩アプローチを要確認）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z way/320001337",
     "verifiedAt": ""
    }
@@ -5738,7 +6289,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3266608888(163m)",
+    "related": "TH-n3266608888(163m) TH-gsi-yomogitashinden(263m)",
     "attributes": "",
     "status": "provisional",
     "accuracyM": 40,
@@ -8116,7 +8667,7 @@
     "routes": "",
     "entryType": "",
     "trailKmToSummit": "",
-    "related": "TH-n3702582421(406m)",
+    "related": "TH-n3702582421(406m) TH-gsi-karitasancho(55m)",
     "attributes": "",
     "status": "provisional",
     "accuracyM": 40,
@@ -8507,6 +9058,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     140.246009,
+     37.629081
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-adatara-numajiri",
+    "kind": "trailhead",
+    "name": "沼尻登山口（安達太良山）",
+    "datum": "WGS84",
+    "mountainIds": "184",
+    "mountainNames": "安達太良山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "PK-n12328273401(9m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（37.629081, 140.246009）、標高1,123m。地理院地図の注記「白糸の滝」から540m。地理院地図の徒歩道で山頂まで約5.0km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.328063,
+     37.64019
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-adatara-shiozawa",
+    "kind": "trailhead",
+    "name": "塩沢登山口（安達太良山）",
+    "datum": "WGS84",
+    "mountainIds": "184",
+    "mountainNames": "安達太良山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w320001337(330m) BS-kP11-22-07-bs1241(539m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（37.640190, 140.328063）、標高810.6m。地理院地図の注記「馬返し」から22m、注記「二本松塩沢スキー場」から約280m。地理院地図の徒歩道で山頂まで約5.4km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      141.741888,
      39.178536
     ]
@@ -8525,10 +9134,39 @@
     "related": "",
     "attributes": "parking=広い駐車場・トイレ・水飲み場がある（釜石市）; season=県道193号（唐丹日頃市線）の横川橋から先は冬期通行止めとなり、赤坂峠登山口まで行けない（大船渡市）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 50,
     "needsReview": "赤坂峠は釜石市と大船渡市の境界にある五葉山の代表的登山口（釜石市）、五葉山は釜石市・大船渡市・住田町の2市1町にまたがり、三陸沿岸で最も高い山（釜石市）",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が道路から始まる位置（39.178536, 141.741888）。国土地理院 標高API 712.8mで、釜石市の記載「海抜712m地点」と一致 2026-09-23確認 ｜ 公式情報: https://www.city.kamaishi.iwate.jp/docs/2023042100017/ ｜ 公式情報: https://www.city.ofunato.iwate.jp/site/ofunatrip/22005.html",
     "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.54121,
+     40.028699
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-akkamori",
+    "kind": "trailhead",
+    "name": "安家森登山口（袖山高原）",
+    "datum": "WGS84",
+    "mountainIds": "117",
+    "mountainNames": "安家森",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "season=4月下旬～10月下旬（冬期間は雪のため通行止め）（葛巻町）; course=登山口から約10分で安家平（葛巻町）",
+    "status": "adopted",
+    "accuracyM": 150,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（40.028699, 141.541210）、標高1,166m（葛巻町の案内する登山口の標高1,160mと一致）。地理院地図の注記「袖山」から697m。地理院地図の徒歩道で山頂まで約1.1km 2026-09-25確認 ｜ 公式情報: https://www.town.kuzumaki.lg.jp/docs/2015112500186/",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -8554,10 +9192,184 @@
     "related": "",
     "attributes": "restriction=登山口までの町道等の改良工事が終わっていないため登山できない。整備が終わり次第、開山予定（南会津町観光物産協会）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 300,
     "needsReview": "荒海山は平成27年の豪雨災害で長く入山禁止となり、令和3年5月に一度開山した（南会津町観光物産協会）、登山道入口までは八総鉱山跡の町道を道なりに進む（南会津町観光物産協会）、入山前に南会津町観光物産協会へ最新の状況を確認すること、登山口の正確な位置は公式情報では未確認",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（37.057614, 139.655304）、標高858.2m。山頂まで直線2.6km 2026-09-23確認 ｜ 公式情報: https://www.kanko-aizu.com/information/25685/ ｜ 公式情報: https://www.kanko-aizu.com/miru/mountain/",
     "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2682,
+     40.631967
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-dake-iwaki",
+    "kind": "trailhead",
+    "name": "嶽登山口（岩木山 嶽温泉コース）",
+    "datum": "WGS84",
+    "mountainIds": "105",
+    "mountainNames": "岩木山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "嶽温泉コース",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w1560810419(477m) BS-kP11-22-02-bs2558(235m) BS-kP11-22-02-bs2558(235m) BS-kP11-22-02-bs2560(436m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 200,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（40.631967, 140.2682）、標高482.2m。嶽温泉の北約0.2km。2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.296083,
+     41.026289
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-fukkoshi-eboshi",
+    "kind": "trailhead",
+    "name": "吹越烏帽子登山口",
+    "datum": "WGS84",
+    "mountainIds": "102",
+    "mountainNames": "吹越烏帽子",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 200,
+    "needsReview": "登山道までは交通の便が悪く、車で来る前提で案内している。車以外は事前にタクシーの手配を勧めている（横浜町）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（41.026289, 141.296083）、標高135.4m。地理院地図の徒歩道で山頂まで約2.4km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.644462,
+     38.458037
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-funagata-otaki",
+    "kind": "trailhead",
+    "name": "大滝キャンプ場（船形山 色麻コース登山口）",
+    "datum": "WGS84",
+    "mountainIds": "158",
+    "mountainNames": "船形山",
+    "lists": "日本二百名山|日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（38.458037, 140.644462）、標高1,029m。地理院地図の注記「湯谷地」から280m。地理院地図の徒歩道で山頂まで約2.5km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.861539,
+     37.163685
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-futatsuya-nemoto",
+    "kind": "trailhead",
+    "name": "根本登山口（二ッ箭山）",
+    "datum": "WGS84",
+    "mountainIds": "201",
+    "mountainNames": "二ッ箭山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=二ツ箭山入口駐車場に30台。登山口にトイレ（福島県観光物産交流協会）; access=常磐自動車道いわき中央ICから約25分。JR常磐線いわき駅から新常磐交通で上小川バス停、徒歩約40分（福島県観光物産交流協会）; course=コースタイム3時間10分、中級（福島県観光物産交流協会）",
+    "status": "adopted",
+    "accuracyM": 400,
+    "needsReview": "登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（37.163685, 140.861539）、標高287m。地理院地図の注記「根本」から550m。地理院地図の徒歩道で山頂まで約1.7km 2026-09-25確認 ｜ 公式情報: https://www.tif.ne.jp/yamafuku/mt30/04.html",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.683697,
+     37.459812
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-hagidaira",
+    "kind": "trailhead",
+    "name": "萩平登山口（鎌倉岳）",
+    "datum": "WGS84",
+    "mountainIds": "188",
+    "mountainNames": "鎌倉岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "BS-kP11-22-07-bs2616(734m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 200,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（37.459812, 140.683697）、標高582.3m。地理院地図の注記「萩平」の北東約0.4km。地理院地図の徒歩道で山頂まで約1.0km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.571812,
+     40.990253
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-hakamagoshi-c",
+    "kind": "trailhead",
+    "name": "袴腰岳登山口（C点・無線中継所前）",
+    "datum": "WGS84",
+    "mountainIds": "103",
+    "mountainNames": "袴腰岳",
+    "lists": "東北百名山",
+    "routes": "袴腰岳コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "access=国道280号バイパスから蓬田村へ入り、村の駅よもっとを過ぎて約400m先の「袴腰岳」の白い案内板で左折。北海道新幹線の高架橋下をくぐり林道を進む（蓬田村）; parking=無線中継所前の空き地が駐車場。袴腰岳登山口の看板がある（蓬田村）",
+    "status": "adopted",
+    "accuracyM": 250,
+    "needsReview": "令和6年9月4日に袴腰岳登山口から頂上までの登山道の整備が完了（蓬田村）、鍋森山（548.0m）を経由し、袴腰分岐から頂上まで約30分（蓬田村）、中泊町側からは土砂崩れ等により入山禁止（中泊町 2023年8月）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（40.990253, 140.571812）、標高240.8m。地理院地図の徒歩道で山頂まで約5.2km。蓬田村の案内図のC点から求めた位置（40.9905, 140.5730）から約100m 2026-09-26確認 ｜ 公式情報: https://www.vill.yomogita.lg.jp/kankou/history/yama.html ｜ 公式情報: https://www.vill.yomogita.lg.jp/kankou/history/2024-0905-1621-23.html",
+    "verifiedAt": "2026-09-26"
    }
   },
   {
@@ -8583,7 +9395,7 @@
     "related": "",
     "attributes": "course=祝瓶山（針生平口）の鈴振尾根コースは体力度3・技術的難易度B、コースタイム6.0時間、距離9.6km、登り下りとも累積1,410m、起点の標高463m、祝瓶山1,417m（山形県）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 300,
     "needsReview": "約1.1km上流（38.216182, 139.863623、標高473.4m、地理院地図の注記「角楢小屋」から80m）にも徒歩道が道路から始まる位置がある",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が道路から始まる位置（38.214872, 139.851180）。国土地理院 標高API 455.4mで、山形県 やまがた百名山のグレーディングの起点標高463mに近い 2026-09-23確認 ｜ 公式情報: https://www.pref.yamagata.jp/050011/kurashi/shizen/hyakumeisan/grading.html ｜ 公式情報: https://yamagatayama.com/wp-content/uploads/2024/06/yamagata_grading.pdf",
     "verifiedAt": "2026-09-23"
@@ -8612,10 +9424,213 @@
     "related": "",
     "attributes": "course=旗坂キャンプ場が升沢コースの入山口。山頂まで7.6km（大和町）; parking=広い駐車場とトイレがある（大和町）; season=旗坂キャンプ場は4月下旬〜11月下旬（天候により変更あり）（大和町）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 30,
     "needsReview": "大和町吉岡から車で約40分（大和町）",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が道路から始まる位置（38.457893, 140.680479）。大和町の旗坂キャンプ場のページの地図の位置（38.457549, 140.680440）から38m 2026-09-22確認 ｜ 公式情報: https://www.town.taiwa.miyagi.jp/soshiki/shokokanko/shokokanko/121.html ｜ 公式情報: https://www.town.taiwa.miyagi.jp/soshiki/shokokanko/shokokanko/385.html",
     "verifiedAt": "2026-09-22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.651618,
+     39.046334
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-hikami-chuo",
+    "kind": "trailhead",
+    "name": "氷上山 中央登山口",
+    "datum": "WGS84",
+    "mountainIds": "140",
+    "mountainNames": "氷上山",
+    "lists": "東北百名山",
+    "routes": "中央コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=中央コース（初級）2.2km、登り1時間05分・下り50分。祈祷ヶ原まで約50分（陸前高田市観光物産協会）; parking=10台（陸前高田市観光物産協会 登山マップ）",
+    "status": "adopted",
+    "accuracyM": 150,
+    "needsReview": "ひかみの園から中央登山口付近までは未舗装の林道で荒れているため走行注意（陸前高田市観光物産協会 登山マップ）、中央登山口に仮設トイレがある（高田旅ナビ）、登山道は林道を横断する。横断したら登山口は左前方（陸前高田市観光物産協会 登山マップ）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（39.046334, 141.651618）、標高404m。地理院地図の徒歩道で山頂まで約2.0km。陸前高田市観光物産協会の登山マップの駐車場（10台）の位置から求めた位置（39.0464, 141.6519）から約30m 2026-09-26確認 ｜ 公式情報: https://takanavi.org/wp/wp-content/uploads/2020/04/%E6%B0%B7%E4%B8%8A%E5%B1%B1%E7%99%BB%E5%B1%B1%E3%83%9E%E3%83%83%E3%83%97.pdf ｜ 公式情報: https://takanavi.org/spot/%E3%80%90%E5%B1%B1%E3%80%91%E6%B0%B7%E4%B8%8A%E5%B1%B1/",
+    "verifiedAt": "2026-09-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.660338,
+     39.035907
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-hikami-suzuran",
+    "kind": "trailhead",
+    "name": "氷上山 すずらん登山口",
+    "datum": "WGS84",
+    "mountainIds": "140",
+    "mountainNames": "氷上山",
+    "lists": "東北百名山",
+    "routes": "すずらんコース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=すずらんコース（中級）3.7km、登り1時間35分・下り1時間15分（陸前高田市観光物産協会）; parking=2台（陸前高田市観光物産協会 登山マップ）",
+    "status": "adopted",
+    "accuracyM": 250,
+    "needsReview": "本称寺からすずらん登山口付近までは未舗装の林道（陸前高田市観光物産協会 登山マップ）、送電線の作業道に迷い込まないよう注意（陸前高田市観光物産協会 登山マップ）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（39.035907, 141.660338）、標高379.3m。地理院地図の徒歩道で山頂まで約2.8km。陸前高田市観光物産協会の登山マップの駐車場（2台）の位置から求めた位置（39.0353, 141.6581）から約210m 2026-09-26確認 ｜ 公式情報: https://takanavi.org/wp/wp-content/uploads/2020/04/%E6%B0%B7%E4%B8%8A%E5%B1%B1%E7%99%BB%E5%B1%B1%E3%83%9E%E3%83%83%E3%83%97.pdf ｜ 公式情報: https://takanavi.org/spot/%E3%80%90%E5%B1%B1%E3%80%91%E6%B0%B7%E4%B8%8A%E5%B1%B1/",
+    "verifiedAt": "2026-09-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.092547,
+     37.572247
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-inawashiro-ski",
+    "kind": "trailhead",
+    "name": "猪苗代登山口（猪苗代スキー場）",
+    "datum": "WGS84",
+    "mountainIds": "185",
+    "mountainNames": "磐梯山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "猪苗代コース",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w253930733(209m) PK-w253930730(217m) PK-w253930731(220m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（37.572247, 140.092547）、標高667.7m。地理院地図の注記「葉山」から72m。2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.905449,
+     38.18879
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-iwaigame-sanso",
+    "kind": "trailhead",
+    "name": "祝瓶山荘（祝瓶山 桑住平登山口）",
+    "datum": "WGS84",
+    "mountainIds": "169",
+    "mountainNames": "祝瓶山",
+    "lists": "日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 250,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.188790, 139.905449）、標高562.7m。地理院地図の注記「祝瓶山荘」から42m。地理院地図の徒歩道で山頂まで約18.0km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.446046,
+     38.128154
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-karitasancho",
+    "kind": "trailhead",
+    "name": "蔵王刈田山頂駐車場（刈田岳）",
+    "datum": "WGS84",
+    "mountainIds": "170",
+    "mountainNames": "蔵王山",
+    "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
+    "routes": "刈田岳（蔵王ハイライン）コース",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w1188034344(39m) PK-w82210100(55m) PK-w1188034341(170m) BS-kP11-22-04-bs5129(130m) BS-kP11-22-04-bs5130(130m) BS-n4871552624(680m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 100,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.128154, 140.446046）、標高1,719.9m。地理院地図の車道の終点。注記「刈田嶺神社」から160m。2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.450302,
+     38.122543
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-kattatoge",
+    "kind": "trailhead",
+    "name": "刈田峠（屏風岳・南蔵王縦走路登山口）",
+    "datum": "WGS84",
+    "mountainIds": "172",
+    "mountainNames": "屏風岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w1188034348(437m) PK-w1188034347(474m) BS-kP11-22-04-bs5150(210m) BS-kP11-22-04-bs5129(599m) BS-kP11-22-04-bs5130(599m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 100,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.122543, 140.450302）、標高1,583.7m。地理院地図の注記「蔵王エコーライン」から201m。地理院地図の徒歩道で山頂まで約4.1km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.206077,
+     40.416298
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-kodake",
+    "kind": "trailhead",
+    "name": "小岳登山口",
+    "datum": "WGS84",
+    "mountainIds": "111",
+    "mountainNames": "小岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=各登山口とも駐車スペースは10台程度（秋田県）",
+    "status": "adopted",
+    "accuracyM": 300,
+    "needsReview": "登山届の提出は必須。登山口までは未舗装の林道を約1時間で、特に小岳は普通乗用車では厳しい。大雨時はアクセス道路が通行不能になる（秋田県）、登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（40.416298, 140.206077）、標高603m。地理院地図の徒歩道で山頂まで約2.3km 2026-09-25確認 ｜ 公式情報: https://common3.pref.akita.lg.jp/shirakami/locations/1677",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -8641,10 +9656,155 @@
     "related": "",
     "attributes": "course=摩耶山（越沢口）の越沢コース〜追分ルート周回は体力度2・技術的難易度C、コースタイム4.8時間、距離6.6km、登り下りとも累積880m、起点の標高280m、摩耶山1,020m（山形県）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 50,
     "needsReview": "周回ルートは越沢口→越沢コース→摩耶山→追分分岐（越沢方面へ）→越沢口（山形県）",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が道路から始まる位置（38.532476, 139.709154）。国土地理院 標高API 280.2mで、山形県 やまがた百名山のグレーディングの起点標高280mと一致 2026-09-23確認 ｜ 公式情報: https://www.pref.yamagata.jp/050011/kurashi/shizen/hyakumeisan/grading.html ｜ 公式情報: https://yamagatayama.com/wp-content/uploads/2024/06/yamagata_grading.pdf",
     "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.542749,
+     38.440626
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-kurobushi",
+    "kind": "trailhead",
+    "name": "黒伏山登山口（黒伏高原スノーパーク前）",
+    "datum": "WGS84",
+    "mountainIds": "159",
+    "mountainNames": "黒伏山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 150,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.440626, 140.542749）、標高710.6m。地理院地図の注記「黒伏高原スノーパーク」の北約0.7km。地理院地図の徒歩道で山頂まで約4.4km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.659185,
+     37.150671
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-kuromorisawa",
+    "kind": "trailhead",
+    "name": "黒森沢登山口（七ヶ岳 護摩滝登山口）",
+    "datum": "WGS84",
+    "mountainIds": "204",
+    "mountainNames": "七ヶ岳",
+    "lists": "日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（37.150671, 139.659185）、標高1,025.1m。地理院地図の注記「赤芝沢」から478m。地理院地図の徒歩道で山頂まで約3.3km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.323166,
+     39.018859
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-maemoriyama-rindo",
+    "kind": "trailhead",
+    "name": "前森山林道終点登山口（甑山）",
+    "datum": "WGS84",
+    "mountainIds": "142",
+    "mountainNames": "甑山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=登山口直近に未舗装の駐車スペース5台程度。登山口から280mほどの広場に汲取トイレ（やまがた山）; course=男甑山周回コース一周4時間30分、女甑山トレッキングコース片道30分（やまがた山）",
+    "status": "adopted",
+    "accuracyM": 300,
+    "needsReview": "未舗装路があり、普通車の走行は要注意（やまがた山）、登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（39.018859, 140.323166）、標高663.2m。地理院地図の注記「甑峠」から689m。地理院地図の徒歩道で山頂まで約2.7km 2026-09-25確認 ｜ 公式情報: https://yamagatayama.com/hyakumeizan/no-035/",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751329,
+     38.522577
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-maya-kurasawa",
+    "kind": "trailhead",
+    "name": "倉沢口（摩耶山）",
+    "datum": "WGS84",
+    "mountainIds": "156",
+    "mountainNames": "摩耶山",
+    "lists": "日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 400,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.522577, 139.751329）、標高257.8m。地理院地図の徒歩道で山頂まで約2.3km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.697637,
+     38.523719
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-maya-sekigawa",
+    "kind": "trailhead",
+    "name": "関川口（摩耶山）",
+    "datum": "WGS84",
+    "mountainIds": "156",
+    "mountainNames": "摩耶山",
+    "lists": "日本三百名山|東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（38.523719, 139.697637）、標高510.1m。地理院地図の徒歩道で山頂まで約3.0km 2026-09-26確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
+    "verifiedAt": ""
    }
   },
   {
@@ -8670,10 +9830,39 @@
     "related": "",
     "attributes": "course=御神楽岳（室谷コース）は往復で体力度3・技術的難易度B、コースタイム6.8時間、距離10.1km、登り下りとも累積1,780m、起点の標高310m、御神楽岳1,387m（新潟県 山のグレーディング）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 50,
     "needsReview": "御神楽岳には蝉ヶ平コース（起点の標高187m）もある（新潟県 山のグレーディング）、新潟県のグレーディングの問い合わせ先は阿賀町（上川）（新潟県）",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が林道から始まる位置（37.545844, 139.392841）。国土地理院 標高API 311mで、新潟県 山のグレーディングの起点標高310mと一致 2026-09-23確認 ｜ 公式情報: https://www.pref.niigata.lg.jp/site/opendata/1356812341916.html ｜ 公式情報: https://www.pref.niigata.lg.jp/uploaded/attachment/505142.pdf",
     "verifiedAt": "2026-09-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8305,
+     40.422266
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-namariyama",
+    "kind": "trailhead",
+    "name": "鉛山峠登山口（白地山）",
+    "datum": "WGS84",
+    "mountainIds": "110",
+    "mountainNames": "白地山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 300,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（40.422266, 140.830500）、標高827.3m。地理院地図の注記「鉛山峠」から384m、「樹海ライン」から321m。地理院地図の徒歩道で山頂まで約6.8km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
    }
   },
   {
@@ -8699,10 +9888,300 @@
     "related": "",
     "attributes": "forestRoad=国道108号の秋ノ宮地区にある旧中山小学校前から役内集落へ。大役内林道から西ノ又林道を経て、林道終点が登山口。JR横堀駅から登山口まで車で約30分（秋田県）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 30,
     "needsReview": "西ノ又コースは吊橋や渡渉があり、吊橋は一人ずつ渡る。二ノ渡先の急斜面の巻き道は足元に注意（秋田県 山岳グレーディング）、ルート全長13.0km、標高差949.0m、コースタイム7時間45分、グレード4C（秋田県 山岳グレーディング）",
     "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が林道から始まる位置（38.94756, 140.49228）。標高416m（地理院の標高API）で、秋田県の登山口の標高416mと一致 2026-09-22確認 ｜ 公式情報: https://www.pref.akita.lg.jp/uploads/public/archive_0000039872_00/%E7%A7%8B%E7%94%B0%E7%9C%8C%E3%81%AE%E5%B1%B1%E5%B2%B3%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0HB%EF%BC%8821%E3%83%9A%E3%83%BC%E3%82%B8%EF%BD%9E31%E3%83%9A%E3%83%BC%E3%82%B8%EF%BC%89.pdf",
     "verifiedAt": "2026-09-22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.492209,
+     38.835036
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-nishinomata-komata",
+    "kind": "trailhead",
+    "name": "西ノ又沢コース登山口（西ノ又林道終点・小又山）",
+    "datum": "WGS84",
+    "mountainIds": "148",
+    "mountainNames": "小又山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=登山口の手前に駐車スペース3台程度。トイレはなく、事前に白川渓谷公園のトイレを利用する（やまがた山）; course=西ノ又沢コース片道3時間30分、大又コース片道4時間（やまがた山）",
+    "status": "adopted",
+    "accuracyM": 250,
+    "needsReview": "融雪期や豪雨時、激しい降雨後は西ノ又沢の渡渉が困難になる。山頂手前に急な草付きがある。未舗装の悪路で四輪駆動車でも要注意（やまがた山）、登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（38.835036, 140.492209）、標高395m。地理院地図の注記「西ノ又沢」から97m。地理院地図の徒歩道で山頂まで約4.9km 2026-09-25確認 ｜ 公式情報: https://yamagatayama.com/hyakumeizan/no-029/",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.892623,
+     37.310926
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-ono-kannon",
+    "kind": "trailhead",
+    "name": "小野観音（小野岳 小野登山口側の起点）",
+    "datum": "WGS84",
+    "mountainIds": "196",
+    "mountainNames": "小野岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w1116231194(15m) PK-w1117065071(295m) BS-kP11-22-07-bs3395(293m) BS-kP11-22-07-bs3407(432m) BS-kP11-22-07-bs3407(432m)",
+    "attributes": "course=小野観音から小野登山口まで15分、小野登山口から山頂まで（下り1時間20分の区間）。小野観音から会津鉄道湯野上温泉駅まで15分（福島県観光物産交流協会）",
+    "status": "adopted",
+    "accuracyM": 400,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（37.310926, 139.892623）、標高519.1m。地理院地図の注記「小野観世音」から70m。地理院地図の徒歩道で山頂まで約3.0km 2026-09-25確認 ｜ 公式情報: https://www.tif.ne.jp/yamafuku/mt30/09.html",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.589772,
+     40.091497
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-ryugamori-higashinomata",
+    "kind": "trailhead",
+    "name": "竜ヶ森 東ノ又コース登山口",
+    "datum": "WGS84",
+    "mountainIds": "115",
+    "mountainNames": "竜ヶ森",
+    "lists": "東北百名山",
+    "routes": "東ノ又コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=北秋田市側の東ノ又コースは所要時間約90分（東北森林管理局・北秋田市）; access=東北自動車道 二ツ井白神ICから竜ヶ森への入口「明利又」まで車で約50分（東北森林管理局）",
+    "status": "adopted",
+    "accuracyM": 400,
+    "needsReview": "大館市側の比内コース・最上コースは林道の崩落により車両が通行できない。最上コースは当分の間閉鎖（大館市）、登山口の正確な位置は公式情報では未確認。地理院地図で山頂の西側から始まる2本の徒歩道のうち、長い方をこのコースとした",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の車道の終点で徒歩道が始まる位置（40.091497, 140.589772）、標高618m。地理院地図の注記「浦ノ又沢」から179m。地理院地図の徒歩道で山頂まで約2.0km。竜ケ森キャンプ場から地理院地図の車道で約4.5km 2026-09-26確認 ｜ 公式情報: https://www.rinya.maff.go.jp/tohoku/introduction/gaiyou_kyoku/annai/midokoro/midokoro_ryugamori.html ｜ 公式情報: https://www.city.kitaakita.akita.jp/archive/contents-6009 ｜ 公式情報: https://www.city.odate.lg.jp/city/soshiki/hinaishinkou/p974",
+    "verifiedAt": "2026-09-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.587084,
+     40.104919
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-ryugamori-kanzawa",
+    "kind": "trailhead",
+    "name": "竜ヶ森 寒沢コース登山口",
+    "datum": "WGS84",
+    "mountainIds": "115",
+    "mountainNames": "竜ヶ森",
+    "lists": "東北百名山",
+    "routes": "寒沢コース",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "course=北秋田市側の寒沢コースは所要時間約45分（東北森林管理局）",
+    "status": "adopted",
+    "accuracyM": 400,
+    "needsReview": "大館市側の比内コース・最上コースは林道の崩落により車両が通行できない。最上コースは当分の間閉鎖（大館市）、登山口の正確な位置は公式情報では未確認。地理院地図の注記「大寒沢」に近い徒歩道の起点をこのコースとした",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（40.104919, 140.587084）、標高701m。地理院地図の注記「大寒沢」から401m。地理院地図の徒歩道で山頂まで約1.2km。竜ケ森キャンプ場から地理院地図の車道で約6.8km 2026-09-26確認 ｜ 公式情報: https://www.rinya.maff.go.jp/tohoku/introduction/gaiyou_kyoku/annai/midokoro/midokoro_ryugamori.html ｜ 公式情報: https://www.city.odate.lg.jp/city/soshiki/hinaishinkou/p974",
+    "verifiedAt": "2026-09-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.907966,
+     40.626484
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-sarukura",
+    "kind": "trailhead",
+    "name": "南八甲田登山道入口（猿倉温泉）",
+    "datum": "WGS84",
+    "mountainIds": "106",
+    "mountainNames": "南八甲田",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "BS-kP11-22-02-bs2553(516m)",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 100,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（40.626484, 140.907966）、標高850.9m。地理院地図の注記「猿倉温泉」から102m。地理院地図の徒歩道で山頂まで約8.3km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.623675,
+     38.081613
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-shimobetto",
+    "kind": "trailhead",
+    "name": "下別当登山口（青麻山）",
+    "datum": "WGS84",
+    "mountainIds": "173",
+    "mountainNames": "青麻山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 100,
+    "needsReview": "",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.081613, 140.623675）、標高310.4m。地理院地図の徒歩道で山頂まで約1.8km 2026-09-25確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.848499,
+     38.419014
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-shingyoji",
+    "kind": "trailhead",
+    "name": "信楽寺跡（七ツ森自然遊歩道の起点）",
+    "datum": "WGS84",
+    "mountainIds": "160",
+    "mountainNames": "七ッ森",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "BS-n13824576161(993m)",
+    "attributes": "course=宮床の信楽寺跡から七ツ森の山々の間をぬい、南川ダム七ツ森湖までの約6kmのコース（大和町）",
+    "status": "adopted",
+    "accuracyM": 300,
+    "needsReview": "町で管理している遊歩道以外のルートがあるので注意（大和町）、登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.419014, 140.848499）、標高60.9m。地理院地図の注記「信楽寺門前」から280m 2026-09-25確認 ｜ 公式情報: https://www.town.taiwa.miyagi.jp/soshiki/shokokanko/shokokanko/410.html",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.177109,
+     38.232104
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-takehara",
+    "kind": "trailhead",
+    "name": "嶽原登山口（白鷹山）",
+    "datum": "WGS84",
+    "mountainIds": "167",
+    "mountainNames": "白鷹山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=嶽原登山口駐車場8台、無料。トイレは山頂・嶽原口・牧場口の3か所（林野庁）",
+    "status": "adopted",
+    "accuracyM": 200,
+    "needsReview": "登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.232104, 140.177109）、標高665.9m。地理院地図の注記「嶽原」から296m。地理院地図の徒歩道で山頂まで約1.5km 2026-09-25確認 ｜ 公式情報: https://www.rinya.maff.go.jp/j/kokuyu_rinya/kokumin_mori/katuyo/reku/rekumori/shirataka.html",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.370485,
+     38.78352
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-yamaya-mokuzo",
+    "kind": "trailhead",
+    "name": "山屋口（杢蔵山登山口）",
+    "datum": "WGS84",
+    "mountainIds": "151",
+    "mountainNames": "杢蔵山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "parking=新庄市山屋口に5台（新庄市）; access=JR新庄駅から車で15分（新庄市）; course=所要時間2時間20分、初級者向け（新庄市）",
+    "status": "adopted",
+    "accuracyM": 150,
+    "needsReview": "山頂東側は切り立った断崖とやせ尾根（新庄市）",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（38.783520, 140.370485）、標高346.2m（新庄市の案内する登山口の標高345mと一致）。地理院地図の注記「一ノ滝」から613m。地理院地図の徒歩道で山頂まで約3.4km 2026-09-25確認 ｜ 公式情報: https://www.city.shinjo.yamagata.jp/k001/020/050/150/20150313112444.html",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.54478,
+     37.261638
+    ]
+   },
+   "properties": {
+    "id": "TH-gsi-yomogitashinden",
+    "kind": "trailhead",
+    "name": "蓬田新田口（ジュピアランドひらた・蓬田岳登山口）",
+    "datum": "WGS84",
+    "mountainIds": "198",
+    "mountainNames": "蓬田岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w42705607(263m)",
+    "attributes": "parking=ジュピアランドひらたの駐車場。GW前後の芝桜祭期間中は有料（福島県観光物産交流協会）; access=あぶくま高原道路平田ICから約5分。JR郡山駅から福島交通バス（063系統）で下新田バス停51分（福島県観光物産交流協会）; course=歩行時間2時間15分（福島県観光物産交流協会）",
+    "status": "adopted",
+    "accuracyM": 200,
+    "needsReview": "登山口の正確な位置は公式情報では未確認",
+    "sources": "国土地理院ベクトルタイル提供実験 地理院地図の徒歩道が車道から始まる位置（37.261638, 140.544780）、標高617.9m。地理院地図の注記「大字蓬田新田」から129m。地理院地図の徒歩道で山頂まで約1.1km 2026-09-25確認 ｜ 公式情報: https://tif.ne.jp/yamafuku/mt30/06.html",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -8746,7 +10225,7 @@
    "properties": {
     "id": "TH-kP11-22-03-bs1574",
     "kind": "trailhead",
-    "name": "松川温泉",
+    "name": "松川温泉（三ツ石山登山口）",
     "datum": "WGS84",
     "mountainIds": "121",
     "mountainNames": "三ツ石山",
@@ -8759,7 +10238,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-03-bs1574（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4447621969（登山道と道路の接続点） ｜ 国土地理院 地名検索「松川温泉」（39.872155, 140.922173、JGD2011、215m差）2026-09-20確認",
+    "sources": "国土数値情報（バス停留所データ）令和4年度（国土交通省）P11-22-03-bs1574（JGD2011）を加工して作成 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4447621969（登山道と道路の接続点） ｜ 国土地理院 地名検索「松川温泉」（39.872155, 140.922173、JGD2011、215m差）2026-09-20確認 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": "2026-09-20"
    }
   },
@@ -9181,7 +10660,7 @@
    "properties": {
     "id": "TH-n1227479506",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "霊山登山口（霊山こどもの村の奥）",
     "datum": "WGS84",
     "mountainIds": "181",
     "mountainNames": "霊山",
@@ -9190,12 +10669,12 @@
     "entryType": "道路の終点付近",
     "trailKmToSummit": "霊山:1.2km",
     "related": "PK-w62208505(142m)",
-    "attributes": "",
-    "status": "provisional",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1227479506（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=登山口駐車場100台、トイレあり（福島県観光物産交流協会）; access=東北自動車道福島西ICから約50分。阿武隈急行保原駅からタクシー約30分（福島県観光物産交流協会）; course=歩行時間2時間（福島県観光物産交流協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "岩場が多く、道を外さない確実な歩行が求められる（福島県観光物産交流協会）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1227479506（登山道と道路の接続点） ｜ 公式情報: https://www.tif.ne.jp/yamafuku/mt30/24.html",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -9239,7 +10718,7 @@
    "properties": {
     "id": "TH-n1227615444",
     "kind": "trailhead",
-    "name": "（名称未確認）キャンプ場入口バス停付近",
+    "name": "岩岳第1登山口",
     "datum": "WGS84",
     "mountainIds": "177",
     "mountainNames": "岩岳",
@@ -9251,8 +10730,8 @@
     "attributes": "",
     "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1227615444（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1227615444（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -9500,7 +10979,7 @@
    "properties": {
     "id": "TH-n1229621122",
     "kind": "trailhead",
-    "name": "（名称未確認）区界バス停バス停付近",
+    "name": "区界高原ウォーキングセンター（兜明神岳登山口）",
     "datum": "WGS84",
     "mountainIds": "128",
     "mountainNames": "兜明神岳",
@@ -9509,12 +10988,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "兜明神岳:1.07km",
     "related": "BS-kP11-22-03-bs2768(704m)",
-    "attributes": "",
-    "status": "provisional",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1229621122（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "access=JR山田線区界駅下車、または岩手県北バス106急行「区界」バス停下車、徒歩10分でウォーキングセンター（宮古市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1229621122（登山道と道路の接続点） ｜ 公式情報: https://www.city.miyako.iwate.jp/gyosei/soshiki/kanko/4/8/2/4/1562.html",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -9703,7 +11182,7 @@
    "properties": {
     "id": "TH-n1232563267",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "六角牛山 峠登山口（糠前コース）",
     "datum": "WGS84",
     "mountainIds": "135",
     "mountainNames": "六角牛山",
@@ -9713,10 +11192,10 @@
     "trailKmToSummit": "六角牛山:2.02km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1232563267（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1232563267（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -9732,10 +11211,10 @@
    "properties": {
     "id": "TH-n1232577977",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "笹谷峠（山形神室・雁戸山登山口）",
     "datum": "WGS84",
-    "mountainIds": "166",
-    "mountainNames": "神室岳",
+    "mountainIds": "166 168",
+    "mountainNames": "神室岳、雁戸山",
     "lists": "東北百名山",
     "routes": "",
     "entryType": "一般道（県道以上）との接続",
@@ -9744,8 +11223,8 @@
     "attributes": "",
     "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1232577977（登山道と道路の接続点）",
+    "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1232577977（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -10863,7 +12342,7 @@
    "properties": {
     "id": "TH-n1236858525",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "志津倉山登山口（大谷）",
     "datum": "WGS84",
     "mountainIds": "192",
     "mountainNames": "志津倉山",
@@ -10873,10 +12352,10 @@
     "trailKmToSummit": "志津倉山:1.5km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1236858525（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要、登山口駐車場に8台。登山口・行程中にトイレはない。登山口から最後の水場50分、三本松25分、ブナ平20分、山頂10分、糸滝35分、登山口40分（福島県観光物産交流協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1236858525（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -11095,7 +12574,7 @@
    "properties": {
     "id": "TH-n1239997296",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "田代平登山口（七時雨山）",
     "datum": "WGS84",
     "mountainIds": "116",
     "mountainNames": "七時雨山",
@@ -11105,10 +12584,10 @@
     "trailKmToSummit": "七時雨山:2.75km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1239997296（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1239997296（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -11269,7 +12748,7 @@
    "properties": {
     "id": "TH-n1244481195",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "迷ヶ平登山口（十和利山 東線）",
     "datum": "WGS84",
     "mountainIds": "109 113",
     "mountainNames": "戸来岳、十和利山",
@@ -11279,10 +12758,10 @@
     "trailKmToSummit": "戸来岳:4.99km 十和利山:1.47km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1244481195（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要、国道454号沿い。十和田湖休屋から約15km（東北森林管理局）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1244481195（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -11327,7 +12806,7 @@
    "properties": {
     "id": "TH-n1244497782",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "平子沢登山口（戸来岳）",
     "datum": "WGS84",
     "mountainIds": "109 113",
     "mountainNames": "戸来岳、十和利山",
@@ -11335,12 +12814,12 @@
     "routes": "",
     "entryType": "道路の終点付近",
     "trailKmToSummit": "戸来岳:5.25km 十和利山:8.75km",
-    "related": "PK-w1310004309(77m)",
+    "related": "PK-g4042534_14103479(0m) PK-w1310004309(77m)",
     "attributes": "",
     "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1244497782（登山道と道路の接続点）",
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1244497782（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -11356,7 +12835,7 @@
    "properties": {
     "id": "TH-n1246554066",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "女神山登山口（白糸の滝）",
     "datum": "WGS84",
     "mountainIds": "133",
     "mountainNames": "女神山",
@@ -11366,10 +12845,10 @@
     "trailKmToSummit": "女神山:2.13km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1246554066（登山道と道路の接続点）",
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要、登り1時間30分、下り1時間30分（下りブナ見平コース）（西和賀町観光協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1246554066（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -11472,7 +12951,7 @@
    "properties": {
     "id": "TH-n1249205903",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "縫道石山登山口",
     "datum": "WGS84",
     "mountainIds": "101",
     "mountainNames": "縫道石山",
@@ -11481,12 +12960,12 @@
     "entryType": "一般道（県道以上）との接続",
     "trailKmToSummit": "縫道石山:1.72km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1249205903（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=登山入口に駐車場（10台程度）（佐井村）; access=アルサスから車で約50分（佐井村）; course=山頂までの所要時間は約1時間（佐井村）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "縫道石山・縫道石の特殊植物群落は天然記念物。採取や踏みつけなどでき損すると文化財保護法で罰せられる場合がある（佐井村）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1249205903（登山道と道路の接続点） ｜ 公式情報: https://www.vill.sai.lg.jp/tourism/%E7%B8%AB%E9%81%93%E7%9F%B3%E5%B1%B1/",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -11936,7 +13415,7 @@
    "properties": {
     "id": "TH-n1255044547",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "川入 御沢登山口（飯豊山）",
     "datum": "WGS84",
     "mountainIds": "178",
     "mountainNames": "飯豊山",
@@ -11946,10 +13425,10 @@
     "trailKmToSummit": "飯豊山:10.24km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1255044547（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1255044547（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -12081,7 +13560,7 @@
    "properties": {
     "id": "TH-n1257198412",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "栂峰登山口",
     "datum": "WGS84",
     "mountainIds": "179",
     "mountainNames": "栂峰",
@@ -12091,10 +13570,10 @@
     "trailKmToSummit": "栂峰:4.43km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1257198412（登山道と道路の接続点）",
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要、登山口までの林道は砂利道で数か所段差があり、四駆車を勧めている。片道3時間15分（やまがた山）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1257198412（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -12110,7 +13589,7 @@
    "properties": {
     "id": "TH-n1257697710",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "氷上山 玉山コース（本格的な登山道の入口）",
     "datum": "WGS84",
     "mountainIds": "140",
     "mountainNames": "氷上山",
@@ -12119,12 +13598,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "氷上山:2.85km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1257697710（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "course=玉山コース（中級）3.9km、登り1時間50分・下り1時間20分。祈祷ヶ原まで約70分（陸前高田市観光物産協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "登山マップでは玉山登山口（旅館「玉乃湯」付近）から林道を歩き、分岐を右へ入ったところから本格的な登山道となる。この地点はその分岐（陸前高田市観光物産協会）、東屋・滝山不動滝の駐車場は各4台（陸前高田市観光物産協会 登山マップ）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1257697710（登山道と道路の接続点） ｜ 公式情報: https://takanavi.org/wp/wp-content/uploads/2020/04/%E6%B0%B7%E4%B8%8A%E5%B1%B1%E7%99%BB%E5%B1%B1%E3%83%9E%E3%83%83%E3%83%97.pdf ｜ 公式情報: https://takanavi.org/spot/%E3%80%90%E5%B1%B1%E3%80%91%E6%B0%B7%E4%B8%8A%E5%B1%B1/ ｜ 地理院地図の徒歩道が車道から始まる位置（39.066052, 141.637153）から63m、標高459.6m。地理院地図の徒歩道で山頂まで約3.0km 2026-09-26確認",
+    "verifiedAt": "2026-09-26"
    }
   },
   {
@@ -12487,7 +13966,7 @@
    "properties": {
     "id": "TH-n1259696209",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "中沢口（ハリマ小屋・翁山登山口）",
     "datum": "WGS84",
     "mountainIds": "152",
     "mountainNames": "翁山",
@@ -12496,12 +13975,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "翁山:1.86km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1259696209（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "course=所要時間約3時間（尾花沢市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1259696209（登山道と道路の接続点） ｜ 公式情報: https://www.city.obanazawa.yamagata.jp/kanko/nature/1310",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -12574,7 +14053,7 @@
    "properties": {
     "id": "TH-n1260472141",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "久保登山口（蒲生岳）",
     "datum": "WGS84",
     "mountainIds": "191",
     "mountainNames": "蒲生岳",
@@ -12583,12 +14062,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "蒲生岳:0.84km",
     "related": "PK-w236032006(219m)",
-    "attributes": "",
-    "status": "provisional",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1260472141（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=蒲生岳登山口駐車場30台。トイレは駐車場の向いの集会所（福島県観光物産交流協会）; access=JR只見線会津蒲生駅（福島県観光物産交流協会）; course=駐車場から久保登山口5分、分岐点45分、蒲生岳35分。ブナ交流広場・小蒲生岳登山口を経て周回2時間50分（福島県観光物産交流協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "岩場の通過があり、軽率な行動は事故に結び付く。初心者は経験者の同行が望ましい（福島県観光物産交流協会）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1260472141（登山道と道路の接続点） ｜ 公式情報: https://www.tif.ne.jp/yamafuku/mt30/13.html",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -13067,7 +14546,7 @@
    "properties": {
     "id": "TH-n1262956619",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "荒沢コース登山口（田代岳 Aコース）",
     "datum": "WGS84",
     "mountainIds": "112",
     "mountainNames": "田代岳",
@@ -13076,12 +14555,12 @@
     "entryType": "道路の終点付近",
     "trailKmToSummit": "田代岳:3.98km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1262956619（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=約20台、マイクロバス等の駐車も可能。トイレあり（大館市）; access=国道7号から県道68号線に入り、山瀬ダム（五色湖）を経由。国道から約29km・60分。山瀬ダム以降は登山口まで未舗装の林道（大館市）; course=登山口より徒歩2時間・距離4km。登山口から3合目まで徒歩40分・1.5km（大館市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、3合目手前までは小川沿いの岩場が続き、足場が悪い箇所もある（大館市）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1262956619（登山道と道路の接続点） ｜ 公式情報: https://www.city.odate.lg.jp/city/soshiki/tashiroshinkou/tashirodake/tozan/p999",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -13328,7 +14807,7 @@
    "properties": {
     "id": "TH-n1266200504",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "迷ヶ平登山口（十和利山 西線）",
     "datum": "WGS84",
     "mountainIds": "113",
     "mountainNames": "十和利山",
@@ -13338,10 +14817,10 @@
     "trailKmToSummit": "十和利山:2.21km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1266200504（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1266200504（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -13415,7 +14894,7 @@
    "properties": {
     "id": "TH-n1266267413",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "後生掛温泉（秋田焼山登山口）",
     "datum": "WGS84",
     "mountainIds": "119",
     "mountainNames": "秋田焼山",
@@ -13427,8 +14906,8 @@
     "attributes": "",
     "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1266267413（登山道と道路の接続点）",
+    "needsReview": "登山道が道路を横断する地点（途中の入口の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1266267413（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -13705,7 +15184,7 @@
    "properties": {
     "id": "TH-n1270909814",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "城内登山口（姫神山）",
     "datum": "WGS84",
     "mountainIds": "123",
     "mountainNames": "姫神山",
@@ -13715,10 +15194,10 @@
     "trailKmToSummit": "姫神山:2.01km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1270909814（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1270909814（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -13792,7 +15271,7 @@
    "properties": {
     "id": "TH-n1270931227",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "葉山登山口（畑コース・立岩コース方面）",
     "datum": "WGS84",
     "mountainIds": "155",
     "mountainNames": "葉山",
@@ -13801,12 +15280,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "葉山:3.92km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1270931227（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=畑コース・立岩コースは葉山市民荘の駐車場を利用（寒河江市）; season=登山ポストの利用期間は4月20日から10月31日まで（寒河江市）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "十分一峠コースは通行止め（寒河江市、令和7年6月24日現在）、畑コースと立岩コースのどちらの登山口かは未確認。登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1270931227（登山道と道路の接続点） ｜ 公式情報: https://www.city.sagae.yamagata.jp/kanko/kankoinfo/kanko/hayama.html",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -13879,7 +15358,7 @@
    "properties": {
     "id": "TH-n1270994775",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "こわ坂登山口（姫神山）",
     "datum": "WGS84",
     "mountainIds": "123",
     "mountainNames": "姫神山",
@@ -13889,10 +15368,10 @@
     "trailKmToSummit": "姫神山:1.92km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1270994775（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1270994775（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -13995,7 +15474,7 @@
    "properties": {
     "id": "TH-n1289909030",
     "kind": "trailhead",
-    "name": "（名称未確認）玉川園地駐車場付近",
+    "name": "玉川温泉（秋田焼山登山口）",
     "datum": "WGS84",
     "mountainIds": "119",
     "mountainNames": "秋田焼山",
@@ -14007,8 +15486,8 @@
     "attributes": "",
     "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1289909030（登山道と道路の接続点）",
+    "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1289909030（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -14372,7 +15851,7 @@
    "properties": {
     "id": "TH-n1304475952",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "峰越口（真昼岳登山口）",
     "datum": "WGS84",
     "mountainIds": "132 133",
     "mountainNames": "真昼岳、女神山",
@@ -14381,12 +15860,12 @@
     "entryType": "道路の終点付近",
     "trailKmToSummit": "真昼岳:2.91km 女神山:7.4km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1304475952（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "season=冬期は除雪しないため、雪が降ってから雪解けまで峰越林道は通行止め（美郷町）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、峰越林道は通行可能だが未舗装で凸凹があり、1車線で待避箇所での譲り合いが必要。倒木・落石の危険がある（美郷町、令和8年9月15日更新）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/1304475952（登山道と道路の接続点） ｜ 公式情報: https://www.town.misato.akita.jp/archive/contents-2687",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -15358,20 +16837,20 @@
    "properties": {
     "id": "TH-n2081639740",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "観音寺コース登山口（船形山）",
     "datum": "WGS84",
-    "mountainIds": "159",
-    "mountainNames": "黒伏山",
-    "lists": "東北百名山",
+    "mountainIds": "159 158",
+    "mountainNames": "黒伏山、船形山",
+    "lists": "東北百名山|日本二百名山|日本三百名山",
     "routes": "",
     "entryType": "道路の終点付近",
     "trailKmToSummit": "黒伏山:9.82km",
     "related": "",
     "attributes": "",
-    "status": "candidate",
+    "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2081639740（登山道と道路の接続点）",
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2081639740（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-26確認",
     "verifiedAt": ""
    }
   },
@@ -15619,7 +17098,7 @@
    "properties": {
     "id": "TH-n2179921094",
     "kind": "trailhead",
-    "name": "（名称未確認）第1ペアリフト1基付近",
+    "name": "薬萊山登山口（スキー場側）",
     "datum": "WGS84",
     "mountainIds": "153",
     "mountainNames": "薬萊山",
@@ -15631,8 +17110,8 @@
     "attributes": "",
     "status": "provisional",
     "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2179921094（登山道と道路の接続点）",
+    "needsReview": "公式情報または2情報源での確認が必要",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2179921094（登山道と道路の接続点） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -15793,7 +17272,7 @@
    "properties": {
     "id": "TH-n2359694593",
     "kind": "trailhead",
-    "name": "（名称未確認）大内上バス停付近",
+    "name": "大内登山口（小野岳）",
     "datum": "WGS84",
     "mountainIds": "196",
     "mountainNames": "小野岳",
@@ -15802,12 +17281,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "小野岳:2.55km",
     "related": "PK-w312192391(404m) BS-kP11-22-07-bs3270(384m) BS-kP11-22-07-bs3280(758m) BS-kP11-22-07-bs3280(758m)",
-    "attributes": "",
-    "status": "provisional",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2359694593（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=大内登山口の林道末端に10台。大内宿駐車場（宿場の北側、林道終点まで徒歩20分、仮設トイレあり）も利用できる（福島県観光物産交流協会）; course=大内宿から大内登山口15分、鉄塔30分、小野岳1時間、小野登山口1時間20分、小野観音15分（福島県観光物産交流協会）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、急坂が連続するので慎重に行動したい（福島県観光物産交流協会）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/2359694593（登山道と道路の接続点） ｜ 公式情報: https://www.tif.ne.jp/yamafuku/mt30/09.html",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -17388,11 +18867,11 @@
    "properties": {
     "id": "TH-n4730366633",
     "kind": "trailhead",
-    "name": "飯豊山荘",
+    "name": "飯豊山荘（天狗平・北股岳登山口）",
     "datum": "WGS84",
-    "mountainIds": "174 176",
-    "mountainNames": "杁差岳、北股岳",
-    "lists": "日本二百名山|日本三百名山|甲信越百名山|東北百名山",
+    "mountainIds": "174 176 178",
+    "mountainNames": "杁差岳、北股岳、飯豊山",
+    "lists": "日本二百名山|日本三百名山|甲信越百名山|東北百名山|日本百名山",
     "routes": "",
     "entryType": "施設（山小屋・宿・キャンプ場）からの入口",
     "trailKmToSummit": "杁差岳:9.27km 北股岳:8.29km",
@@ -17401,7 +18880,7 @@
     "status": "provisional",
     "accuracyM": 15,
     "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4730366633",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/4730366633 ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
     "verifiedAt": ""
    }
   },
@@ -18461,7 +19940,7 @@
    "properties": {
     "id": "TH-n7594192514",
     "kind": "trailhead",
-    "name": "（名称未確認）",
+    "name": "徳仙丈山 気仙沼側登山口",
     "datum": "WGS84",
     "mountainIds": "149",
     "mountainNames": "徳仙丈山",
@@ -18470,12 +19949,12 @@
     "entryType": "一般道との接続",
     "trailKmToSummit": "徳仙丈山:1.13km",
     "related": "",
-    "attributes": "",
-    "status": "candidate",
-    "accuracyM": 30,
-    "needsReview": "名称未確認、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7594192514（登山道と道路の接続点）",
-    "verifiedAt": ""
+    "attributes": "parking=普通乗用車約120台、大型バス3台（気仙沼観光推進機構）; access=三陸道気仙沼中央ICで降り、国道45号線を気仙沼市内方面に左折、2つ目の信号を左折して約10km（気仙沼観光推進機構）",
+    "status": "adopted",
+    "accuracyM": 15,
+    "needsReview": "カーナビで「徳仙丈山」だけで検索すると山頂へ案内され、自動車が通行できない悪路が示される。「徳仙丈登山口」で検索するよう案内している（気仙沼観光推進機構）、登山口の正確な位置は公式情報では未確認",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-23T20:22:04Z node/7594192514（登山道と道路の接続点） ｜ 公式情報: https://kesennuma-kanko.jp/tokusen-access/",
+    "verifiedAt": "2026-09-25"
    }
   },
   {
@@ -18947,6 +20426,64 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     140.430092,
+     38.460501
+    ]
+   },
+   "properties": {
+    "id": "TH-osm-n2081644195",
+    "kind": "trailhead",
+    "name": "ハチカ沢登山口（甑岳）",
+    "datum": "WGS84",
+    "mountainIds": "157",
+    "mountainNames": "甑岳",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "登山記録で広く使われている登山口",
+    "trailKmToSummit": "",
+    "related": "",
+    "attributes": "",
+    "status": "provisional",
+    "accuracyM": 50,
+    "needsReview": "",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）node/2081644195（highway=trailhead「甑岳・ハチカ沢登山口」） ｜ 登山記録で広く使われている登山口（登山記録・登山情報サイトで名称と利用を確認。公式情報では未確認） 2026-09-25確認",
+    "verifiedAt": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.9351291,
+     39.3836466
+    ]
+   },
+   "properties": {
+    "id": "TH-osm-n264237096",
+    "kind": "trailhead",
+    "name": "浪板海岸駅（鯨山 大槌コースの起点）",
+    "datum": "WGS84",
+    "mountainIds": "134",
+    "mountainNames": "鯨山",
+    "lists": "東北百名山",
+    "routes": "",
+    "entryType": "公式情報による登山口",
+    "trailKmToSummit": "",
+    "related": "PK-w239696707(362m) PK-w239696711(494m) BS-kP11-22-03-bs3815(47m) BS-kP11-22-03-bs3838(458m)",
+    "attributes": "course=大槌コース（浪板海岸ビレッジ～山頂）の登り1時間30分～2時間、山田コース（陸中海岸青少年の家へ）の下り1時間30分～2時間（大槌町観光交流協会）",
+    "status": "adopted",
+    "accuracyM": 30,
+    "needsReview": "大槌コースの起点は浪板海岸ビレッジで、国道45号線をくぐり、三鉄浪板海岸駅を通って山道へ向かう（大槌町観光交流協会）、登山初心者は経験者の同行を、2人以上での登山と熊鈴・クマよけスプレーの携帯を求めている（大槌町観光交流協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）node/264237096（三陸鉄道 浪板海岸駅） ｜ 公式情報: https://otsuchi-ta.com/tourism/?p=1402",
+    "verifiedAt": "2026-09-25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      140.521586,
      39.974745
     ]
@@ -18965,7 +20502,7 @@
     "related": "",
     "attributes": "cable=阿仁スキー場ゴンドラを使って山頂まで約1時間30分（北秋田市）; season=「森吉山ゴンドラ山歩」の期間は春夏が6月上旬〜9月中旬、秋が10月（北秋田市）",
     "status": "adopted",
-    "accuracyM": 15,
+    "accuracyM": 30,
     "needsReview": "コメツガコース（山頂まで約3時間）、松倉コース（約3時間）、奥森吉ヒバクラコース（約2時間50分）、黒石川コース（約5時間30分）、ブナ帯コース（約2時間30分）など（北秋田市）、悪天候時や悪天候が見込まれる場合は、滑落・落石・倒木・落枝・雪崩等の危険が増すため入林しないよう案内されている（北秋田市）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）way/302252849（阿仁ゴンドラの山頂側の端点 node/6847372150） ｜ 公式情報: https://www.city.kitaakita.akita.jp/kankou/category/shizen/moriyoshi/008.html",
     "verifiedAt": "2026-09-22"
