@@ -40,7 +40,7 @@ Because app data is included in device backups (iCloud or Mac/PC), you can resto
 Downloaded offline maps can be downloaded again, so they are excluded from device backups. If you restore from a backup, please download your offline maps again.
 The database and image files are protected by your device's encryption.
 Exported files (GPX, CSV and backup archives) are also protected by your device's encryption.
-Automatic backup data recorded during a hike (GPS track points and session information) is stored in the App's private area on your device and is deleted automatically when the hike is completed or canceled.
+Automatic backup data recorded during a hike (GPS track points, session information and voice memos transcribed during the hike) is stored in the App's private area on your device and is deleted automatically when the hike is completed or canceled.
 
 ## 3. iCloud Sync
 
@@ -88,7 +88,7 @@ All localized display data, such as mountain and prefecture names, is included i
 
 ## 9. Statistics
 
-The App calculates statistics from your hiking records (monthly and yearly hike counts, total ascent, distance walked, summits by prefecture, completion rates for all mountain lists, personal bests, etc.).
+The App calculates statistics from your hiking records (monthly and yearly hike counts, total ascent, distance walked, summits by prefecture, completion rates for all mountain lists, the number of mountains climbed including those not on the lists, personal bests, etc.).
 Progress information shown on highlight cards, such as your 100 Famous Mountains completion rate, is also calculated from the hiking record data on your device.
 All statistics are calculated and displayed on your device from your hiking record data and are never sent to external servers.
 
@@ -104,8 +104,8 @@ Course time information is stored only on your device and is never sent to exter
 
 ## 11. Mountain Name Search
 
-The App provides a feature to search for a mountain by name on the Climb screen and the offline map screen.
-All searchable mountain data (name, reading, location, elevation and coordinates) is bundled with the App, and searches are completed on your device.
+The App provides a feature to search for a mountain by name on the Climb screen, the offline map screen and the Famous Mountains screen.
+All searchable data for famous mountains and for mountains not on the famous mountain lists (other mountains) (name, reading, location, elevation and coordinates) is bundled with the App, and searches are completed on your device.
 The keywords you enter are never sent to external servers, and your search history is never sent or shared outside the App.
 Retrieving map tiles for the location of the mountain you select involves the communication described in "25. Communication with External Services" of this Policy.
 
@@ -137,7 +137,7 @@ Heading information shown at your current location on the map is used only for d
 To protect your privacy, photos saved in the App are stored with their embedded location information (EXIF GPS data) removed automatically.
 Other metadata, such as the date and time taken, is retained.
 Reordering photos (drag and drop) on the hiking record detail screen is processed only on your device.
-Photo Scan analyzes the location and date taken of photos in your photo library on your device to detect hikes to famous mountains automatically. This analysis is performed entirely on your device, and neither photo data nor location information is sent to external servers. Photos registered as hiking records from scan results are saved with location information removed.
+Photo Scan analyzes the location and date taken of photos in your photo library on your device to detect hikes to famous mountains and other mountains automatically. This analysis is performed entirely on your device, and neither photo data nor location information is sent to external servers. Photos registered as hiking records from scan results are saved with location information removed.
 If you turn on iCloud Sync, photos attached to your hiking records are synced as described in "3. iCloud Sync".
 
 ## 16. Voice Memos and Transcription
@@ -146,6 +146,7 @@ The App records voice memos during hikes and transcribes them on your device.
 Recordings and transcriptions are stored on your device. Because transcriptions are added to the notes of your hiking record, they are synced as notes if iCloud Sync is turned on.
 Speech recognition prioritizes on-device processing and uses Apple's speech recognition servers only if your device does not support it. In that case, audio data is processed in accordance with Apple's Privacy Policy.
 Recordings are deleted from your device automatically after transcription is complete.
+Voice memos transcribed during a hike are also saved on your device in the automatic backup data for the hike, in case the App quits unexpectedly, and are deleted when the hike is completed or canceled.
 
 ## 17. AI Features (Highlight Card Post Generation)
 
@@ -210,7 +211,7 @@ None of them receive your personal information.
 
 Requests for map tiles, elevation, weather and trails include a range of location (latitude and longitude), but no information that identifies your device or account is sent. Checking for trailhead data updates does not include any location.
 All communication uses HTTPS (encrypted communication).
-A timeout (10 to 30 seconds) is set, so unresponsive connections are not kept open for long.
+A timeout (10 to 65 seconds) is set, so unresponsive connections are not kept open for long.
 If you download offline maps in advance, you can use maps during your hike without these communications.
 In addition, if you turn on iCloud Sync, the App communicates with Apple's iCloud (CloudKit) to sync your hiking records and photos (see "3. iCloud Sync").
 
@@ -242,4 +243,4 @@ Timelapse videos saved to your photo library must be deleted manually in the Pho
 This Privacy Policy may be changed without notice.
 Changes take effect when they are posted on this page.
 
-**Last updated:** September 26, 2026
+**Last updated:** October 2, 2026

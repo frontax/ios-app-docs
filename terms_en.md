@@ -35,7 +35,8 @@ The App provides the following features:
 - Managing, viewing and manually entering hiking records
 - Reordering photos in hiking records (drag and drop)
 - Automatically detecting and registering past hikes with Photo Scan
-- Hiking statistics dashboard (monthly and yearly charts, completion rates for all mountain lists, summits by prefecture, personal records)
+- Hiking statistics dashboard (monthly and yearly charts, completion rates for all mountain lists, summits by prefecture, the number of mountains climbed including other mountains, personal records)
+- Using data for mountains not on the famous mountain lists (other mountains) (mountain name suggestions, Photo Scan, automatic mountain naming, search, and showing climb records)
 - Automatic generation and social sharing of highlight cards (including AI post generation, request input, choosing whether to show photos and route maps, and display of the 100 Famous Mountains completion rate)
 - Recording and transcribing voice memos
 - Creating and restoring backups of hiking records and image data
@@ -45,7 +46,8 @@ The App provides the following features:
 - Exporting and importing hiking records in CSV format
 - Mountain checklists (all 12 lists, including Japan's 100, 200 and 300 Famous Mountains and regional lists, with browsing and searching all lists at once, trailhead lists for each mountain, and Wikipedia links)
 - Mountain weather forecasts
-- Trail search (including approach roads)
+- Trail search (including approach roads, footpaths and steps, and searching for trails up to a distant section)
+- Updating trail data in downloaded offline maps
 - Displaying time required between checkpoints on trails
 - Trail elevation profiles
 - Viewing photos in hiking records
@@ -89,11 +91,13 @@ Weather forecasts are obtained from external services and may differ from actual
 
 Course time plans are reference values calculated from trail distance and elevation change, and the actual time required may differ depending on your fitness, the weather, trail conditions and other factors. Routes suggested by shortest-route search are also for reference only and do not guarantee that trails are passable. Regardless of your course time plan, make appropriate decisions based on your own fitness, experience and the conditions on the day.
 
+Trail search also treats paths mapped in OpenStreetMap as footpaths or steps (excluding sidewalks along roads and crossings) as trails. These may include paths in towns or facilities, paths on private land, and paths with restricted access, and their inclusion in a route does not guarantee that they are passable or that access is permitted. Searching for trails up to a distant section covers a wide area, so it may take time or fail depending on network conditions. In addition, trail data in offline maps downloaded before footpaths and steps were supported does not include them, so routes may not connect until you retrieve the data again with "Update trail data" in the download history. Before entering mountain areas without signal, retrieve the trail data you need and check your route.
+
 Estimated arrival times at each checkpoint and finish times shown when you specify a departure date and time are estimates based on your course time plan. Actual passing times may differ due to a late start, more or less rest, the weather, trail conditions, congestion and other factors. Use estimated times only as a planning guide, and leave plenty of margin depending on the conditions on the day.
 
 Recalculating course times where there is no signal uses only data stored on your device. Information obtained when connected to a network is not reflected, so the results may differ from the actual time required.
 
-Mountain name search results are reference information based on mountain data bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. Locations shown in search results do not necessarily indicate trailheads or parking areas.
+Mountain name search results are reference information based on data for famous mountains and other mountains bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. Locations shown in search results do not necessarily indicate trailheads or parking areas.
 
 Trailhead, parking and bus stop information is reference information created from OpenStreetMap, National Land Numerical Information, official information from local governments and other sources, and the locations, names, restrictions and cautions may differ from the latest conditions. Trailheads marked "Unverified" have not been checked against official information. Road closures, entry restrictions, winter closures and similar information may not be reflected, and updates may be delayed. We do not guarantee the availability, capacity or fees of parking lots, or whether hikers are permitted to park there. Bus stops may be unavailable due to seasonal service, suspensions or discontinued routes, so check service status with the bus operator. Before entering the mountains, always check the latest official information from local governments, mountain huts, transport operators and other sources.
 
@@ -228,4 +232,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** September 26, 2026
+**Last updated:** October 2, 2026
