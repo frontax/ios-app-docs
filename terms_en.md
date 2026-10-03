@@ -232,4 +232,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 2, 2026
+**Last updated:** October 3, 2026
