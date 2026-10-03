@@ -19,9 +19,13 @@ The App provides the following features:
 - Generating timelapse videos (creating, saving and sharing videos that animate your GPS track on a map)
 - Displaying the map and moving to a mountain area by mountain name search
 - Specifying the starting point (walking direction) of a route
+- Showing trailheads, parking lots and bus stops on the map (including restrictions and cautions, and regular updates of trailhead data)
+- Creating routes that start or finish at a trailhead, parking lot or bus stop (including joining sections not connected by trails or roads with straight lines)
+- Showing directions to trailheads, parking lots and bus stops in a maps app (Apple Maps or Google Maps)
 - Creating course time plans (setting time required and rest time for each checkpoint, specifying the departure date and time, and suggesting routes by shortest-route search)
 - Estimating arrival times at each checkpoint and the finish time based on the departure date and time
 - Recording actual course times (comparison with the plan, real-time updates of actual times)
+- Showing the course constant (an indicator of how physically demanding a course is)
 - Recalculating course times where there is no signal (without a network connection)
 - Sharing course time plans as images
 - Automatic walking pace setting based on past hikes
@@ -31,7 +35,8 @@ The App provides the following features:
 - Managing, viewing and manually entering hiking records
 - Reordering photos in hiking records (drag and drop)
 - Automatically detecting and registering past hikes with Photo Scan
-- Hiking statistics dashboard (monthly and yearly charts, completion rates for all mountain lists, summits by prefecture, personal records)
+- Hiking statistics dashboard (monthly and yearly charts, completion rates for all mountain lists, summits by prefecture, the number of mountains climbed including other mountains, personal records)
+- Using data for mountains not on the famous mountain lists (other mountains) (mountain name suggestions, Photo Scan, automatic mountain naming, search, and showing climb records)
 - Automatic generation and social sharing of highlight cards (including AI post generation, request input, choosing whether to show photos and route maps, and display of the 100 Famous Mountains completion rate)
 - Recording and transcribing voice memos
 - Creating and restoring backups of hiking records and image data
@@ -39,9 +44,10 @@ The App provides the following features:
 - Showing and hiding the dashboard during a hike (swipe gesture)
 - Importing and exporting GPX files
 - Exporting and importing hiking records in CSV format
-- Mountain checklists (all 12 lists, including Japan's 100, 200 and 300 Famous Mountains and regional lists, with Wikipedia links)
+- Mountain checklists (all 12 lists, including Japan's 100, 200 and 300 Famous Mountains and regional lists, with browsing and searching all lists at once, trailhead lists for each mountain, and Wikipedia links)
 - Mountain weather forecasts
-- Trail search (including approach roads)
+- Trail search (including approach roads, footpaths and steps, and searching for trails up to a distant section)
+- Updating trail data in downloaded offline maps
 - Displaying time required between checkpoints on trails
 - Trail elevation profiles
 - Viewing photos in hiking records
@@ -85,11 +91,21 @@ Weather forecasts are obtained from external services and may differ from actual
 
 Course time plans are reference values calculated from trail distance and elevation change, and the actual time required may differ depending on your fitness, the weather, trail conditions and other factors. Routes suggested by shortest-route search are also for reference only and do not guarantee that trails are passable. Regardless of your course time plan, make appropriate decisions based on your own fitness, experience and the conditions on the day.
 
+Trail search also treats paths mapped in OpenStreetMap as footpaths or steps (excluding sidewalks along roads and crossings) as trails. These may include paths in towns or facilities, paths on private land, and paths with restricted access, and their inclusion in a route does not guarantee that they are passable or that access is permitted. Searching for trails up to a distant section covers a wide area, so it may take time or fail depending on network conditions. In addition, trail data in offline maps downloaded before footpaths and steps were supported does not include them, so routes may not connect until you retrieve the data again with "Update trail data" in the download history. Before entering mountain areas without signal, retrieve the trail data you need and check your route.
+
 Estimated arrival times at each checkpoint and finish times shown when you specify a departure date and time are estimates based on your course time plan. Actual passing times may differ due to a late start, more or less rest, the weather, trail conditions, congestion and other factors. Use estimated times only as a planning guide, and leave plenty of margin depending on the conditions on the day.
 
 Recalculating course times where there is no signal uses only data stored on your device. Information obtained when connected to a network is not reflected, so the results may differ from the actual time required.
 
-Mountain name search results are reference information based on mountain data bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. Locations shown in search results do not necessarily indicate trailheads or parking areas.
+Mountain name search results are reference information based on data for famous mountains and other mountains bundled with the App, and the coordinates, elevation and location shown may differ from the latest official information. Locations shown in search results do not necessarily indicate trailheads or parking areas.
+
+Trailhead, parking and bus stop information is reference information created from OpenStreetMap, National Land Numerical Information, official information from local governments and other sources, and the locations, names, restrictions and cautions may differ from the latest conditions. Trailheads marked "Unverified" have not been checked against official information. Road closures, entry restrictions, winter closures and similar information may not be reflected, and updates may be delayed. We do not guarantee the availability, capacity or fees of parking lots, or whether hikers are permitted to park there. Bus stops may be unavailable due to seasonal service, suspensions or discontinued routes, so check service status with the bus operator. Before entering the mountains, always check the latest official information from local governments, mountain huts, transport operators and other sources.
+
+When creating routes that start or finish at a trailhead, parking lot or bus stop, sections that are not connected in the trail and road data are joined with straight lines to complete the route. Straight-line sections do not represent a path you can actually walk, and their distance and time are approximate. Do not try to walk a straight-line section as shown; check the actual path using signs and maps on site.
+
+Directions to trailheads, parking lots and bus stops shown in a maps app (Apple Maps or Google Maps) are provided by that maps app, and the App does not guarantee them. Roads to trailheads may include forest roads, narrow roads and unpaved roads, and may be subject to closures, winter closures or vehicle restrictions. Follow road signs, traffic regulations and information from road administrators.
+
+The course constant is an indicator of how physically demanding a course is, calculated from the standard course time, distance and total ascent and descent. It does not take into account the weather, snow, trail conditions, technical difficulty (rocky sections, chains, river crossings, etc.), the weight of your pack, or your own fitness and experience. Labels such as "suitable for beginners" do not guarantee that a course is safe for beginners. Make your hiking plan at your own discretion, also checking information such as trail gradings published by local governments.
 
 Specifying the starting point (walking direction) only determines the order of the route and does not guarantee that you can enter the mountains from that point or that travel in that direction is permitted. Always check entry points and whether trails are passable using the latest trail information, signs on site, and official information from local governments, mountain huts and other sources.
 
@@ -147,7 +163,7 @@ Switching display units (imperial) converts data stored in metric units when it 
 
 The cache clearing feature is intended to improve map display, but map tiles must be downloaded again immediately after clearing, so display may be temporarily slower.
 
-Wikipedia links from the mountain detail screen lead to an external website, and the App is not responsible for the accuracy or timeliness of information on linked pages.
+Wikipedia links from the mountain detail screen and links to official information from the trailhead detail screen lead to external websites, and the App is not responsible for the accuracy or timeliness of information on linked pages.
 
 When hiking, always check the latest weather information from multiple sources and bring appropriate equipment and maps.
 
@@ -193,11 +209,14 @@ The terms of use of each service apply to its use.
 - Apple StoreKit (displaying review request dialogs)
 - Apple iCloud / CloudKit (iCloud Sync; only when turned on by the user in the Pro version)
 - Wikipedia (external links from the mountain detail screen)
+- GitHub Pages (distributing trailhead, parking and bus stop data)
+- Apple Maps / Google Maps (showing directions to trailheads, parking lots and bus stops; Google Maps only if installed)
 
 ## Article 10 (Intellectual Property)
 
 Copyright and other intellectual property rights relating to the App belong to the developer.
 Hiking record data you create (including course time plans, actual times and timelapse videos) belongs to you.
+Trailhead, parking and bus stop data uses OpenStreetMap data (© OpenStreetMap contributors, ODbL 1.0), data processed from National Land Numerical Information (Bus Stop Data) (Ministry of Land, Infrastructure, Transport and Tourism), and information from the Geospatial Information Authority of Japan. The App's trailhead data is published under the ODbL.
 Ownership of copyright in text generated by AI features is subject to Apple's terms of use.
 
 ## Article 11 (Changes to and Termination of the Service)
@@ -213,4 +232,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** September 18, 2026
+**Last updated:** October 3, 2026
