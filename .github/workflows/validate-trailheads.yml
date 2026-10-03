@@ -1,0 +1,25 @@
+name: 登山口データの検証
+
+on:
+  push:
+    paths:
+      - 'trailheads/**'
+      - 'scripts/validate_trailheads.py'
+      - '.github/workflows/validate-trailheads.yml'
+  pull_request:
+    paths:
+      - 'trailheads/**'
+  schedule:
+    - cron: '0 0 1 * *'   # 毎月1日。確認日が古くなった地点を知らせる
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: データを検証する
+        run: python3 scripts/validate_trailheads.py | tee "$GITHUB_STEP_SUMMARY"
