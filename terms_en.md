@@ -243,4 +243,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 12, 2026
+**Last updated:** October 13, 2026
