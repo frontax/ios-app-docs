@@ -252,4 +252,4 @@ Timelapse videos saved to your photo library must be deleted manually in the Pho
 This Privacy Policy may be changed without notice.
 Changes take effect when they are posted on this page.
 
-**Last updated:** October 12, 2026
+**Last updated:** October 13, 2026
