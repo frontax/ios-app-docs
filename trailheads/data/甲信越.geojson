@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "甲信越",
- "generatedAt": "2026-10-01",
+ "generatedAt": "2026-10-10",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -13480,36 +13480,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     138.8533566,
-     35.7360819
-    ]
-   },
-   "properties": {
-    "id": "PK-w1558458564",
-    "kind": "parking",
-    "name": "（名称なし）駐車場",
-    "datum": "WGS84",
-    "mountainIds": "388 398 421",
-    "mountainNames": "黒川鶏冠山、大菩薩嶺、滝子山",
-    "otherMountainNames": "",
-    "lists": "甲信越百名山|日本百名山|日本二百名山|日本三百名山",
-    "routes": "",
-    "entryType": "",
-    "trailKmToSummit": "",
-    "related": "TH-n2031835752(12m)",
-    "attributes": "access=private",
-    "status": "provisional",
-    "accuracyM": 40,
-    "needsReview": "公式情報または2情報源での確認が必要、名称なし",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z way/1558458564",
-    "verifiedAt": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      138.5799694,
      35.8782462
     ]
@@ -24507,12 +24477,12 @@
     "entryType": "索道駅（ロープウェイ・ゴンドラ）",
     "trailKmToSummit": "木曽駒ヶ岳:4.25km 宝剣岳:3.1km 空木岳:11.54km 南駒ヶ岳:13.81km",
     "related": "PK-w187913581(67m) BS-kP11-22-20-bs7324(109m) BS-kP11-22-20-bs7325(109m)",
-    "attributes": "",
-    "status": "provisional",
+    "attributes": "bus=菅の台バスセンターから路線バスで約30分（中央アルプス観光）; parking=菅の台バスセンターに駐車場あり。しらび平は一般車通行不可",
+    "status": "adopted",
     "accuracyM": 15,
-    "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/14218830311 ｜ 国土地理院 地名検索「しらび平駅」（35.767673, 137.834046、JGD2011、15m差）2026-10-01確認 ｜ 地理院地図の注記「しらび平駅」（標高1,693.7m）2026-09-29確認、国土地理院 地名検索「しらび平駅」から15m 2026-10-01確認",
-    "verifiedAt": "2026-10-01"
+    "needsReview": "しらび平駅（標高1,662m）は駒ヶ岳ロープウェイの山麓駅（中央アルプス観光）、菅の台バスセンターの駐車場（有料）から路線バスに乗り換える",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/14218830311 ｜ 国土地理院 地名検索「しらび平駅」（35.767673, 137.834046、JGD2011、15m差）2026-10-01確認 ｜ 公式情報: https://www.chuo-alps.com/attractive/ ｜ 公式情報: https://www.go-nagano.net/nature-and-outdoors/id21787 ｜ 地理院地図の注記「しらび平駅」（標高1,693.7m）2026-09-29確認、国土地理院 地名検索「しらび平駅」から15m 2026-10-01確認",
+    "verifiedAt": "2026-10-07"
    }
   },
   {
@@ -24537,12 +24507,12 @@
     "entryType": "索道駅（ロープウェイ・ゴンドラ）",
     "trailKmToSummit": "木曽駒ヶ岳:1.83km 宝剣岳:0.62km 空木岳:8.83km 南駒ヶ岳:11.1km 越百山:13.98km",
     "related": "",
-    "attributes": "OSM登山ルート: 千畳敷カール遊歩道",
-    "status": "provisional",
+    "attributes": "bus=菅の台バスセンターで路線バスに乗り換え、しらび平駅で駒ヶ岳ロープウェイに乗り継ぐ（中央アルプス観光）; OSM登山ルート: 千畳敷カール遊歩道",
+    "status": "adopted",
     "accuracyM": 15,
-    "needsReview": "公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/14218830312 ｜ 国土地理院 地名検索「千畳敷駅」（35.777435, 137.813435、JGD2011、15m差）2026-10-01確認 ｜ 地理院地図の注記「千畳敷駅」（標高2,639.7m）2026-09-29確認、国土地理院 地名検索「千畳敷駅」から15m 2026-10-01確認",
-    "verifiedAt": "2026-10-01"
+    "needsReview": "千畳敷駅（標高2,612m）は日本最高所のロープウェイ駅。しらび平駅から高低差950m・約7分30秒（中央アルプス観光）、千畳敷カールを周回する遊歩道から登山道に入り、木曽駒ヶ岳・宝剣岳・三ノ沢岳などへ続く（Go NAGANO）、空木岳へは千畳敷から極楽平を経て南へ縦走するルートがある（駒ヶ根観光協会）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/14218830312 ｜ 国土地理院 地名検索「千畳敷駅」（35.777435, 137.813435、JGD2011、15m差）2026-10-01確認 ｜ 公式情報: https://www.chuo-alps.com/attractive/ ｜ 公式情報: https://www.go-nagano.net/nature-and-outdoors/id21787 ｜ 公式情報: https://www.kankou-komagane.com/alps/climbing/ ｜ 地理院地図の注記「千畳敷駅」（標高2,639.7m）2026-09-29確認、国土地理院 地名検索「千畳敷駅」から15m 2026-10-01確認",
+    "verifiedAt": "2026-10-07"
    }
   },
   {
@@ -27393,36 +27363,6 @@
     "needsReview": "名称未確認、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/2017809218（登山道と道路の接続点）",
     "verifiedAt": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     138.8533558,
-     35.7361945
-    ]
-   },
-   "properties": {
-    "id": "TH-n2031835752",
-    "kind": "trailhead",
-    "name": "大菩薩峠",
-    "datum": "WGS84",
-    "mountainIds": "388 398 421",
-    "mountainNames": "黒川鶏冠山、大菩薩嶺、滝子山",
-    "otherMountainNames": "",
-    "lists": "甲信越百名山|日本百名山|日本二百名山|日本三百名山",
-    "routes": "OSM登山道「大菩薩峠線」",
-    "entryType": "峠（道路との接続）",
-    "trailKmToSummit": "黒川鶏冠山:10.65km 大菩薩嶺:1.67km 滝子山:14.13km",
-    "related": "PK-w1558458564(12m)",
-    "attributes": "",
-    "status": "provisional",
-    "accuracyM": 30,
-    "needsReview": "林道上の地点（尾根上の峠・山小屋の可能性。登山口かどうか要確認）、林道からの入口（マイカー進入可否を要確認）、公式情報または2情報源での確認が必要",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/2031835752（登山道と道路の接続点） ｜ 国土地理院 地名検索「大菩薩峠」（35.735902, 138.853330、JGD2011、32m差）2026-09-24確認",
-    "verifiedAt": "2026-09-24"
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "中国",
- "generatedAt": "2026-10-01",
+ "generatedAt": "2026-10-10",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [

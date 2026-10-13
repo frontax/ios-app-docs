@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "東海",
- "generatedAt": "2026-10-01",
+ "generatedAt": "2026-10-10",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -25429,9 +25429,9 @@
     "kind": "trailhead",
     "name": "十里木高原登山口（越前岳）",
     "datum": "WGS84",
-    "mountainIds": "539",
+    "mountainIds": "539 10406",
     "mountainNames": "愛鷹山",
-    "otherMountainNames": "",
+    "otherMountainNames": "越前岳",
     "lists": "日本二百名山|日本三百名山",
     "routes": "",
     "entryType": "一般道（県道以上）との接続",
