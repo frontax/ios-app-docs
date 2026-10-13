@@ -18,6 +18,8 @@ The App provides the following features:
 - Recording multi-peak hikes (recording several summits in one hike)
 - Generating timelapse videos (creating, saving and sharing videos that animate your GPS track on a map)
 - Displaying the map and moving to a mountain area by mountain name search
+- Showing a course list for the mountain you choose (automatically created round-trip courses from each trailhead, your previous route, sorting by course constant, course time, distance and elevation gain, changing the trailhead you descend to, and saving an offline map around the summit when you plan)
+- Showing nearby place names (trailheads, parking lots, summits, etc.) at the start and finish of course times
 - Specifying the starting point (walking direction) of a route
 - Showing trailheads, parking lots and bus stops on the map (including restrictions and cautions, and regular updates of trailhead data)
 - Creating routes that start or finish at a trailhead, parking lot or bus stop (including joining sections not connected by trails or roads with straight lines)
@@ -29,14 +31,15 @@ The App provides the following features:
 - Recalculating course times where there is no signal (without a network connection)
 - Sharing course time plans as images
 - Automatic walking pace setting based on past hikes
-- Starting a hike by reusing the route of a past hiking record (Climb Same Route)
+- Starting a hike by reusing the route of a past hiking record ("Previous route" in the course list)
 - Sharing current location information (latitude, longitude, elevation and map link)
 - Displaying the device heading at your current location on the map (including north-up maps)
 - Managing, viewing and manually entering hiking records
 - Reordering photos in hiking records (drag and drop)
 - Automatically detecting and registering past hikes with Photo Scan
 - Hiking statistics dashboard (monthly and yearly charts, completion rates for all mountain lists, summits by prefecture, the number of mountains climbed including other mountains, personal records)
-- Using data for mountains not on the famous mountain lists (other mountains) (mountain name suggestions, Photo Scan, automatic mountain naming, search, and showing climb records)
+- Using data for mountains not on the famous mountain lists (other mountains) (mountain name suggestions, Photo Scan, automatic mountain naming, search, showing climb records, filtering on the Home and 100 Peaks screens, and Wikipedia links)
+- Opening the mountain's detail screen from the hiking record detail screen
 - Automatic generation and social sharing of highlight cards (including AI post generation, request input, choosing whether to show photos and route maps, and display of the 100 Famous Mountains completion rate)
 - Recording and transcribing voice memos
 - Creating and restoring backups of hiking records and image data
@@ -57,7 +60,8 @@ The App provides the following features:
 - Route deviation detection (after reaching the start of the route) and spoken warnings
 - Searching for nearby trails and suggesting sections to fill in when you deviate from your route
 - Automatic backup of hiking records and crash recovery
-- Step-by-step guidance with step banners
+- Notifications when recording stops during a hike, for example because the App was closed
+- Guidance through cards on the Climb screen that change with the state of your plan
 - Limited-time in-app events (such as raised free record limits and challenge badges)
 - Map cache management (checking usage and clearing all)
 - iCloud Sync (Pro; syncing hiking records and photos across devices with the same Apple ID and deleting data in iCloud)
@@ -86,10 +90,16 @@ Events may also be announced on the App Store in-app events page.
 
 The App does not guarantee your safety while hiking.
 GPS accuracy varies depending on the environment, and recorded data is for reference only.
-Elevation data is a reference value obtained from the GSI API and may differ from the actual elevation.
+Elevation data is a reference value obtained from the GSI Elevation API and GSI elevation tiles and may differ from the actual elevation.
 Weather forecasts are obtained from external services and may differ from actual weather conditions in mountain areas.
 
 Course time plans are reference values calculated from trail distance and elevation change, and the actual time required may differ depending on your fitness, the weather, trail conditions and other factors. Routes suggested by shortest-route search are also for reference only and do not guarantee that trails are passable. Regardless of your course time plan, make appropriate decisions based on your own fitness, experience and the conditions on the day.
+
+"Auto" courses in the course list are created automatically by connecting a trailhead and the summit along the shortest path in the trail data. They are not guaranteed to be standard hiking courses recommended by local governments or mountaineering organizations, nor to be passable. The trail data may include, without distinction, abandoned trails, collapsed or closed sections, sections closed in winter, and difficult routes unsuitable for ordinary hikers. Course time, distance, elevation gain and the course constant are also reference values calculated from this data. When choosing a course, always check the latest trail information, hiking maps and official information from local governments, mountain huts and others to confirm that the route suits your skills and is currently passable. If you choose a course that descends to a different trailhead with "Change Descent", transportation back to your starting point (such as a parking lot) is not taken into account.
+
+The offline map saved with "Plan with this course" covers only a limited area around the summit (about 10 km square, or an area that contains the whole course if it extends beyond that). Maps outside this area may not be shown where there is no signal, so check in advance that you have maps for the area you need, including escape routes and nearby mountain areas, and also carry a paper map.
+
+The place names shown at the start and finish of course times are the names of nearby trailheads, parking lots, summits and other points shown automatically, and do not guarantee that the point is an actual trailhead or that the parking lot is available.
 
 Trail search also treats paths mapped in OpenStreetMap as footpaths or steps (excluding sidewalks along roads and crossings) as trails. These may include paths in towns or facilities, paths on private land, and paths with restricted access, and their inclusion in a route does not guarantee that they are passable or that access is permitted. Searching for trails up to a distant section covers a wide area, so it may take time or fail depending on network conditions. In addition, trail data in offline maps downloaded before footpaths and steps were supported does not include them, so routes may not connect until you retrieve the data again with "Update trail data" in the download history. Before entering mountain areas without signal, retrieve the trail data you need and check your route.
 
@@ -109,7 +119,7 @@ The course constant is an indicator of how physically demanding a course is, cal
 
 Specifying the starting point (walking direction) only determines the order of the route and does not guarantee that you can enter the mountains from that point or that travel in that direction is permitted. Always check entry points and whether trails are passable using the latest trail information, signs on site, and official information from local governments, mountain huts and other sources.
 
-Climb Same Route reuses route data saved in a past hiking record and does not guarantee that the route is still safe to travel. Trail conditions change due to disasters, collapses, snow, construction, seasonal closures and other factors. Even when reusing a past route, always check the latest trail information and weather forecasts in advance. The time taken in a past record reflects the conditions at that time and does not guarantee the time required for your next hike.
+"Previous route" in the course list reuses route data saved in a past hiking record and does not guarantee that the route is still safe to travel. Trail conditions change due to disasters, collapses, snow, construction, seasonal closures and other factors. Even when reusing a past route, always check the latest trail information and weather forecasts in advance. The time taken in a past record reflects the conditions at that time and does not guarantee the time required for your next hike.
 
 Automatic walking pace settings are estimates based on past hikes and may differ from your actual pace depending on your physical condition, the weather, pack weight, trail conditions and other factors.
 
@@ -149,11 +159,12 @@ If you get lost, do not head toward a suggested section by crossing slopes or de
 If you select Power Saving as the GPS accuracy mode, or if the App runs in Power Saving automatically because of your device's Low Power Mode, location accuracy and the recording interval are reduced. As a result, the accuracy of recorded routes, distance, elevation and other data decreases, and route deviation alerts and sunset alerts may be delayed or may not work correctly. In sections where there is a risk of getting lost, also use alternatives such as a paper map and compass.
 
 Automatic backup reduces the risk of losing hiking records, but recovery may not be possible depending on device status, storage capacity and other factors.
+Notifications that recording has stopped may not arrive, or may be delayed, depending on notification permission, device settings, Focus modes, OS restrictions and other factors. It may also take up to about 10 minutes after the App stops for the notification to arrive. Regardless of notifications, check from time to time during your hike that recording is continuing.
 We recommend saving important records using the export or backup feature.
 
 The Lock Screen and Dynamic Island display uses iOS Live Activities and may not appear or may update late depending on the OS version, device status and system restrictions. Likewise, summits and descents recorded with the buttons on the Lock Screen or Dynamic Island may not be reflected or may be delayed depending on the status of your device or the App. Please check the record in the App afterwards.
 
-Step banner guidance explains how to operate the App and does not evaluate or guarantee the validity or safety of your hiking plan.
+Guidance through cards on the Climb screen explains how to operate the App and does not evaluate or guarantee the validity or safety of your hiking plan.
 
 If location access is not allowed, features that use location, such as GPS recording, route deviation alerts and sunset alerts, will not work.
 
@@ -163,7 +174,7 @@ Switching display units (imperial) converts data stored in metric units when it 
 
 The cache clearing feature is intended to improve map display, but map tiles must be downloaded again immediately after clearing, so display may be temporarily slower.
 
-Wikipedia links from the mountain detail screen and links to official information from the trailhead detail screen lead to external websites, and the App is not responsible for the accuracy or timeliness of information on linked pages.
+Wikipedia links from the detail screens of famous mountains and other mountains (which may show a page for a different mountain with the same name, or a disambiguation page) and links to official information from the trailhead detail screen lead to external websites, and the App is not responsible for the accuracy or timeliness of information on linked pages.
 
 When hiking, always check the latest weather information from multiple sources and bring appropriate equipment and maps.
 
@@ -200,7 +211,7 @@ Pro features may be changed without notice.
 The App uses the following external services.
 The terms of use of each service apply to its use.
 
-- GSI Tiles, Geospatial Information Authority of Japan (displaying and downloading map data)
+- GSI Tiles, Geospatial Information Authority of Japan (displaying and downloading map and elevation data)
 - GSI Elevation API (retrieving elevation profiles)
 - Open-Meteo API (retrieving weather forecast data and sunset times)
 - Overpass API / OpenStreetMap (searching trail and approach road data)
@@ -208,7 +219,7 @@ The terms of use of each service apply to its use.
 - Apple Speech Framework (transcribing voice memos)
 - Apple StoreKit (displaying review request dialogs)
 - Apple iCloud / CloudKit (iCloud Sync; only when turned on by the user in the Pro version)
-- Wikipedia (external links from the mountain detail screen)
+- Wikipedia (external links from the detail screens of famous mountains and other mountains)
 - GitHub Pages (distributing trailhead, parking and bus stop data)
 - Apple Maps / Google Maps (showing directions to trailheads, parking lots and bus stops; Google Maps only if installed)
 
@@ -232,4 +243,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 3, 2026
+**Last updated:** October 13, 2026
