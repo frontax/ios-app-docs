@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "東北",
- "generatedAt": "2026-10-10",
+ "generatedAt": "2026-10-20",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -15953,7 +15953,7 @@
     "mountainNames": "飯豊山",
     "otherMountainNames": "",
     "lists": "日本百名山|日本二百名山|日本三百名山|東北百名山",
-    "routes": "",
+    "routes": "川入（御沢）コース",
     "entryType": "一般道との接続",
     "trailKmToSummit": "飯豊山:10.24km",
     "related": "",

@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "東海",
- "generatedAt": "2026-10-10",
+ "generatedAt": "2026-10-20",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -17127,12 +17127,12 @@
     "entryType": "公式情報による登山口",
     "trailKmToSummit": "",
     "related": "",
-    "attributes": "restriction=林道東俣線は市長の許可制。登山・釣り等のレジャー目的の通行は許可されない（徒歩・軽車両・緊急車両を除く）; season=林道東俣線は冬期閉鎖（2025年は12月26日〜2026年4月25日、徒歩・自転車を含め全面通行禁止）",
+    "attributes": "restriction=林道東俣線は市長の許可制。登山・釣り等のレジャー目的の通行は許可されない（徒歩・軽車両・緊急車両を除く）; season=林道東俣線は冬期閉鎖（2026年12月26日〜2027年4月25日、徒歩・自転車を含め全面通行禁止）",
     "status": "adopted",
     "accuracyM": 100,
-    "needsReview": "静岡市南アルプスユネスコエコパークにおける林道の管理に関する条例により、林道東俣線の通行は市長の許可が必要（静岡市）、椹島方面の各登山口へは、県道60号の終点・沼平から先の林道東俣線を通る（環境省・静岡市）、静岡市が林道東俣線の通行規制情報を公開している。入山前に確認すること（静岡市）、OSMの登山道との接続は未確認",
+    "needsReview": "静岡市南アルプスユネスコエコパークにおける林道の管理に関する条例により、林道東俣線の通行は市長の許可が必要（静岡市）、椹島方面の各登山口へは、県道60号の終点・沼平から先の林道東俣線を通る（環境省・静岡市）、静岡市が林道東俣線の通行規制情報を公開している。8.3km・11.2km地点は落石の危険があり、警告灯の点滅時は通行禁止。入山前に確認すること（静岡市）、OSMの登山道との接続は未確認",
     "sources": "国土地理院 地名検索「畑薙第一ダム」（35.321679, 138.184043、JGD2011）2026-09-20確認 ｜ 公式情報: https://www.city.shizuoka.lg.jp/s8937/okushizuoka/s000031.html ｜ 公式情報: https://www.city.shizuoka.lg.jp/s5732/s001323.html ｜ 公式情報: https://www.env.go.jp/park/minamialps/access/index.html",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -25737,12 +25737,12 @@
     "entryType": "索道駅（ロープウェイ・ゴンドラ）",
     "trailKmToSummit": "三池岳:13.07km 釈迦ヶ岳:15.87km 尾高山:12.87km 雨乞岳:14.17km 御在所岳:6.06km 鎌ヶ岳:3.44km 入道ヶ岳:8.3km 宮指路岳:8.78km 仙ヶ岳:10.64km",
     "related": "PK-w162380238(92m) PK-w425039861(128m) PK-w1190517292(257m) BS-kP11-22-24-bs643(94m) BS-kP11-22-24-bs649(259m) BS-kP11-22-24-bs638(1000m)",
-    "attributes": "parking=町営の無料駐車場（割谷・蒼滝）と有料の湯の山パーキングセンター（料金は案内により異なる）; restriction=中登山道は通行止め（2025年5月25日〜、当面の間）",
+    "attributes": "parking=町営の無料駐車場（割谷・蒼滝）と有料の湯の山パーキングセンター（料金は案内により異なる）; restriction=中登山道はおばれ岩付近で崩落の危険があり、ほかの登山道の利用が求められている（菰野町）",
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、登山者用の無料駐車場（割谷・蒼滝）と有料駐車場が案内されている（御在所ロープウエイ・菰野町観光協会）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/1742841008 ｜ 国土地理院 地名検索「湯の山温泉駅」（35.016725, 136.446824、JGD2011、51m差）2026-09-20確認 ｜ 公式情報: https://www.gozaisho.co.jp/news/parking/ ｜ 公式情報: https://www.kanko-komono.com/news/1175/",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -27297,12 +27297,12 @@
     "entryType": "駐車場・バス停（林道・車道を経由して登山道へ）",
     "trailKmToSummit": "三池岳:12.71km 釈迦ヶ岳:9.5km 尾高山:12.5km 雨乞岳:7.79km 御在所岳:2.94km 鎌ヶ岳:4.0km 入道ヶ岳:8.86km 宮指路岳:9.34km 仙ヶ岳:11.19km",
     "related": "PK-n4213643454(0m) PK-w162380238(474m) BS-kP11-22-24-bs643(493m) BS-kP11-22-24-bs649(678m)",
-    "attributes": "restriction=中登山道はおばれ岩付近の崩落の危険により通行止め（2025年5月25日〜、当面の間）; parking=割谷駐車場・蒼滝公共駐車場（いずれも町営・無料）",
+    "attributes": "restriction=中登山道はおばれ岩付近で崩落の危険があり、ほかの登山道の利用が求められている（菰野町）; parking=割谷駐車場・蒼滝公共駐車場（いずれも町営・無料）",
     "status": "adopted",
     "accuracyM": 15,
     "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、中登山道のおばれ岩付近で崩落の危険があり、ほかの登山道の利用が呼びかけられている（菰野町 観光産業課）、蒼滝公共駐車場から裏登山道入口まで徒歩約25分（御在所ロープウエイ）、登山者は無料の町営駐車場（割谷・蒼滝）の利用が案内されている（菰野町観光協会）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/4213643454 ｜ OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/11054198685（登山道と道路の接続点） ｜ 公式情報: https://www2.town.komono.mie.jp/soshiki/11/1725.html ｜ 公式情報: https://www.gozaisho.co.jp/news/parking/ ｜ 公式情報: https://www.kanko-komono.com/news/1175/",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {

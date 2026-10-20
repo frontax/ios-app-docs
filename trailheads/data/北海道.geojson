@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "北海道",
- "generatedAt": "2026-10-10",
+ "generatedAt": "2026-10-20",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -11757,12 +11757,12 @@
     "entryType": "施設（山小屋・宿・キャンプ場）からの入口",
     "trailKmToSummit": "オプタテシケ山:12.21km 美瑛岳:7.0km 十勝岳:5.68km 上ホロカメットク山:7.58km 富良野岳:8.54km",
     "related": "PK-w576996448(84m) PK-n1774886019(385m) PK-n8720866944(404m) BS-n13915830701(39m) BS-n13915704601(363m)",
-    "attributes": "restriction=噴火警戒レベル3（入山規制）",
+    "attributes": "restriction=噴火警戒レベル2（火口周辺規制）。62-2火口から概ね1.5kmは警戒範囲",
     "status": "provisional",
     "accuracyM": 15,
-    "needsReview": "公式情報または2情報源での確認が必要、2026年9月12日9時30分に噴火警戒レベル3（入山規制）へ引き上げられた（気象庁）。火口から概ね3kmの範囲は立入禁止で、十勝岳への登山はできない、対象市町村は富良野市・美瑛町・上富良野町・南富良野町・新得町（気象庁）、入山前に気象庁の噴火警戒レベルと自治体の指示を確認すること",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/2109605325 ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20260912093000_108.html ｜ 公式情報: https://hokkaido.env.go.jp/emergency/emergency_00004.html",
-    "verifiedAt": "2026-09-20"
+    "needsReview": "公式情報または2情報源での確認が必要、2026年9月12日に噴火警戒レベル3（入山規制）へ引き上げられ、10月16日10時にレベル2（火口周辺規制）へ引き下げられた（気象庁）、62-2火口から概ね1.5kmの範囲は大きな噴石に警戒が必要。入山規制などの対象は美瑛町・上富良野町・新得町（気象庁・美瑛町）、入山前に気象庁の噴火警戒レベルと自治体の指示を確認すること",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/2109605325 ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20261016100000_108.html ｜ 公式情報: https://hokkaido.env.go.jp/emergency/emergency_00004.html",
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -13317,12 +13317,12 @@
     "entryType": "道路の終点付近",
     "trailKmToSummit": "駒ヶ岳:2.6km",
     "related": "PK-w1210288973(20m)",
-    "attributes": "restriction=山頂火口部から半径4kmが規制区域。赤井川登山道のみ馬ノ背まで登山可; season=令和8年（2026年）は6月1日〜10月31日; hours=9時〜15時（15時までに6合目駐車場へ下山）",
+    "attributes": "restriction=噴火警戒レベル2（火口周辺規制、2026年10月2日発表）により赤井川登山道のゲートが閉鎖され、登山できない; season=令和8年（2026年）は6月1日〜10月31日; hours=9時〜15時（15時までに6合目駐車場へ下山）",
     "status": "adopted",
     "accuracyM": 15,
-    "needsReview": "林道からの入口（マイカー進入可否を要確認）、登山できるのは赤井川登山道のみで、最終地点は馬ノ背（森町・北海道森林管理局）、北海道駒ヶ岳火山防災協議会などによる任意の規制で、期間・時間は年度ごとに変わるため最新情報を確認すること",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/2630094848（登山道と道路の接続点） ｜ 公式情報: https://www.rinya.maff.go.jp/hokkaido/apply/nyurin/kisei/000000komagatake.html ｜ 公式情報: https://www.town.hokkaido-mori.lg.jp/soshiki/bosaikotsu/3/2/2962.html",
-    "verifiedAt": "2026-09-20"
+    "needsReview": "林道からの入口（マイカー進入可否を要確認）、2026年10月2日に噴火警戒レベル2（火口周辺規制）へ引き上げられ、赤井川登山道のゲートが閉鎖された（気象庁・森町・北海道森林管理局）、レベル1のときは山頂火口部から半径4kmが規制区域で、赤井川登山道のみ馬ノ背まで登山できる（森町・北海道森林管理局）、北海道駒ヶ岳火山防災協議会などによる任意の規制で、期間・時間は年度ごとに変わるため最新情報を確認すること",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/2630094848（登山道と道路の接続点） ｜ 公式情報: https://www.rinya.maff.go.jp/hokkaido/apply/nyurin/kisei/000000komagatake.html ｜ 公式情報: https://www.town.hokkaido-mori.lg.jp/soshiki/bosaikotsu/3/2/2962.html ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20261002073000_113.html",
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -14127,12 +14127,12 @@
     "entryType": "施設（山小屋・宿・キャンプ場）からの入口",
     "trailKmToSummit": "オプタテシケ山:12.81km 美瑛岳:7.6km 十勝岳:6.28km 上ホロカメットク山:8.1km 富良野岳:9.06km",
     "related": "PK-n8720866944(103m) PK-n1774886019(118m) PK-w576996448(420m) BS-n13915704601(121m) BS-n13915830701(420m)",
-    "attributes": "restriction=噴火警戒レベル3（入山規制）",
+    "attributes": "restriction=噴火警戒レベル2（火口周辺規制）。62-2火口から概ね1.5kmは警戒範囲",
     "status": "provisional",
     "accuracyM": 15,
-    "needsReview": "公式情報または2情報源での確認が必要、2026年9月12日9時30分に噴火警戒レベル3（入山規制）へ引き上げられた（気象庁）。火口から概ね3kmの範囲は立入禁止で、十勝岳への登山はできない、対象市町村は富良野市・美瑛町・上富良野町・南富良野町・新得町（気象庁）、入山前に気象庁の噴火警戒レベルと自治体の指示を確認すること",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/5915584086 ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20260912093000_108.html ｜ 公式情報: https://hokkaido.env.go.jp/emergency/emergency_00004.html",
-    "verifiedAt": "2026-09-20"
+    "needsReview": "公式情報または2情報源での確認が必要、2026年9月12日に噴火警戒レベル3（入山規制）へ引き上げられ、10月16日10時にレベル2（火口周辺規制）へ引き下げられた（気象庁）、62-2火口から概ね1.5kmの範囲は大きな噴石に警戒が必要。入山規制などの対象は美瑛町・上富良野町・新得町（気象庁・美瑛町）、入山前に気象庁の噴火警戒レベルと自治体の指示を確認すること",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/5915584086 ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20261016100000_108.html ｜ 公式情報: https://hokkaido.env.go.jp/emergency/emergency_00004.html",
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -14550,9 +14550,9 @@
     "attributes": "",
     "status": "adopted",
     "accuracyM": 15,
-    "needsReview": "十勝岳温泉は富良野岳・上ホロカメットク山の登山口、十勝岳は2026年9月12日に噴火警戒レベル3（入山規制）へ引き上げられ、火口から概ね3kmの範囲は大きな噴石に警戒が必要（気象庁・美瑛町）。入山前に規制範囲を確認すること、国土地理院の地名とOSMの地物の位置が一致（独立した2情報源）",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/8266981427 ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20260912093000_108.html ｜ 公式情報: https://town.biei.hokkaido.jp/emergency/tokachidake.html ｜ 国土地理院 地名検索「十勝岳温泉」（43.414672, 142.639875、JGD2011、145m差）2026-09-20確認",
-    "verifiedAt": "2026-09-20"
+    "needsReview": "十勝岳温泉は富良野岳・上ホロカメットク山の登山口、十勝岳は2026年10月16日に噴火警戒レベル3から2（火口周辺規制）へ引き下げられ、62-2火口から概ね1.5kmの範囲は大きな噴石に警戒が必要（気象庁・美瑛町）。入山前に規制範囲を確認すること、国土地理院の地名とOSMの地物の位置が一致（独立した2情報源）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/8266981427 ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20261016100000_108.html ｜ 公式情報: https://town.biei.hokkaido.jp/emergency/tokachidake.html ｜ 国土地理院 地名検索「十勝岳温泉」（43.414672, 142.639875、JGD2011、145m差）2026-09-20確認",
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -15180,9 +15180,9 @@
     "attributes": "forestRoad=涸沢林道 通行可",
     "status": "adopted",
     "accuracyM": 15,
-    "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、オプタテシケ山・美瑛富士・美瑛岳へは涸沢林道を利用（北海道森林管理局。通行可）、十勝岳が2026年9月12日に噴火警戒レベル3（入山規制）となったため、周辺の登山道の規制状況を自治体で確認すること",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/9988497019 ｜ 公式情報: https://www.rinya.maff.go.jp/hokkaido/kamikawatyubu/tozanguti.html ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20260912093000_108.html",
-    "verifiedAt": "2026-09-20"
+    "needsReview": "近くの道路にゲートあり（車両通行止め・季節閉鎖の可能性）、林道からの入口（マイカー進入可否を要確認）、オプタテシケ山・美瑛富士・美瑛岳へは涸沢林道を利用（北海道森林管理局。通行可）、十勝岳は2026年10月16日に噴火警戒レベル2（火口周辺規制）へ引き下げられた。周辺の登山道の規制状況を自治体で確認すること（気象庁）",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/9988497019 ｜ 公式情報: https://www.rinya.maff.go.jp/hokkaido/kamikawatyubu/tozanguti.html ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20261016100000_108.html",
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -15447,12 +15447,12 @@
     "entryType": "公式情報による登山口",
     "trailKmToSummit": "",
     "related": "PK-w575545460(0m)",
-    "attributes": "restriction=噴火警戒レベル3（入山規制）",
+    "attributes": "restriction=噴火警戒レベル2（火口周辺規制）。62-2火口から概ね1.5kmは警戒範囲",
     "status": "provisional",
     "accuracyM": 40,
-    "needsReview": "2026年9月12日9時30分に噴火警戒レベル3（入山規制）へ引き上げられた（気象庁）。火口から概ね3kmの範囲は立入禁止で、十勝岳への登山はできない、対象市町村は富良野市・美瑛町・上富良野町・南富良野町・新得町（気象庁）、入山前に気象庁の噴火警戒レベルと自治体の指示を確認すること",
-    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）way/575545460（望岳台 駐車場） ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20260912093000_108.html ｜ 公式情報: https://hokkaido.env.go.jp/emergency/emergency_00004.html ｜ 公式情報: https://www.pref.hokkaido.lg.jp/sm/ktk/270434.html ｜ 公式情報: https://town.biei.hokkaido.jp/emergency/tokachidake.html",
-    "verifiedAt": "2026-09-20"
+    "needsReview": "2026年9月12日に噴火警戒レベル3（入山規制）へ引き上げられ、10月16日10時にレベル2（火口周辺規制）へ引き下げられた（気象庁）、62-2火口から概ね1.5kmの範囲は大きな噴石に警戒が必要。入山規制などの対象は美瑛町・上富良野町・新得町（気象庁・美瑛町）、入山前に気象庁の噴火警戒レベルと自治体の指示を確認すること",
+    "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）way/575545460（望岳台 駐車場） ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20261016100000_108.html ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/volinfo/VJ20260912093000_108.html ｜ 公式情報: https://hokkaido.env.go.jp/emergency/emergency_00004.html ｜ 公式情報: https://www.pref.hokkaido.lg.jp/sm/ktk/270434.html ｜ 公式情報: https://town.biei.hokkaido.jp/emergency/tokachidake.html",
+    "verifiedAt": "2026-10-20"
    }
   },
   {

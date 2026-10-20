@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "北陸",
- "generatedAt": "2026-10-10",
+ "generatedAt": "2026-10-20",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -4257,12 +4257,12 @@
     "entryType": "施設（山小屋・宿・キャンプ場）からの入口",
     "trailKmToSummit": "薬師岳:9.98km 赤牛岳:22.35km 黒部五郎岳:14.85km",
     "related": "PK-w788850758(162m)",
-    "attributes": "fee=林道使用料（2026年4月1日改定、1車両1回）：乗用車などの小型車2,700円・大型車6,600円・自動二輪車等600円; opening_hours=通行可能時間 6:00〜20:00（富山県公安委員会の交通規制）; season=供用期間は毎年度決定。過去は6月上旬〜11月12日（2025年度は6月4日〜11月12日）で、それ以外は通行できない",
+    "attributes": "fee=林道使用料（2026年4月1日改定、1車両1回）：乗用車などの小型車2,700円・大型車6,600円・自動二輪車等600円; opening_hours=通行可能時間 6:00〜20:00（富山県公安委員会の交通規制）; season=供用期間は毎年度決定。2026年度は6月1日に供用開始（小口川線は7月1日）。例年11月中旬に閉鎖され（2025年度は11月12日まで）、それ以外は通行できない",
     "status": "adopted",
     "accuracyM": 15,
-    "needsReview": "折立へは有料の有峰林道を通る。通行時間が6:00〜20:00に規制されている（富山県）",
+    "needsReview": "折立へは有料の有峰林道を通る。通行時間が6:00〜20:00に規制されている（富山県）、2026年10月時点で有峰林道は全線で供用中。有峰ビジターセンターの開館は6月1日〜11月12日（有峰森林文化村）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/4730366636 ｜ 公式情報: https://www.pref.toyama.jp/1603/kendodukuri/shinrinkasen/shinrin/kj00009876/kj00009876-001-01.html ｜ 公式情報: https://www.arimine.net/toll_road.html",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {

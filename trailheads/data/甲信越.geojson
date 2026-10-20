@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "name": "甲信越",
- "generatedAt": "2026-10-10",
+ "generatedAt": "2026-10-20",
  "osmData": "japan-latest.osm.pbf 2026-09-30T20:22:42Z",
  "attribution": "© OpenStreetMap contributors (ODbL 1.0) / 出典：国土地理院（地名検索）",
  "features": [
@@ -18687,12 +18687,12 @@
     "entryType": "公式情報による登山口",
     "trailKmToSummit": "",
     "related": "",
-    "attributes": "restriction=林道東俣線は市長の許可制。登山・釣り等のレジャー目的の通行は許可されない（徒歩・軽車両・緊急車両を除く）; season=林道東俣線は冬期閉鎖（2025年は12月26日〜2026年4月25日、徒歩・自転車を含め全面通行禁止）",
+    "attributes": "restriction=林道東俣線は市長の許可制。登山・釣り等のレジャー目的の通行は許可されない（徒歩・軽車両・緊急車両を除く）; season=林道東俣線は冬期閉鎖（2026年12月26日〜2027年4月25日、徒歩・自転車を含め全面通行禁止）",
     "status": "adopted",
     "accuracyM": 100,
-    "needsReview": "静岡市南アルプスユネスコエコパークにおける林道の管理に関する条例により、林道東俣線の通行は市長の許可が必要（静岡市）、椹島方面の各登山口へは、県道60号の終点・沼平から先の林道東俣線を通る（環境省・静岡市）、静岡市が林道東俣線の通行規制情報を公開している。入山前に確認すること（静岡市）、OSMの登山道との接続は未確認",
+    "needsReview": "静岡市南アルプスユネスコエコパークにおける林道の管理に関する条例により、林道東俣線の通行は市長の許可が必要（静岡市）、椹島方面の各登山口へは、県道60号の終点・沼平から先の林道東俣線を通る（環境省・静岡市）、静岡市が林道東俣線の通行規制情報を公開している。8.3km・11.2km地点は落石の危険があり、警告灯の点滅時は通行禁止。入山前に確認すること（静岡市）、OSMの登山道との接続は未確認",
     "sources": "国土地理院 地名検索「畑薙第一ダム」（35.321679, 138.184043、JGD2011）2026-09-20確認 ｜ 公式情報: https://www.city.shizuoka.lg.jp/s8937/okushizuoka/s000031.html ｜ 公式情報: https://www.city.shizuoka.lg.jp/s5732/s001323.html ｜ 公式情報: https://www.env.go.jp/park/minamialps/access/index.html",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -21810,9 +21810,9 @@
     "attributes": "parking=美ヶ原長和町駐車場 普通車60台・バス5台; season=松本市街から美ヶ原高原へ向かう道路は例年11月下旬〜4月中旬が冬期通行止め（松本市）",
     "status": "adopted",
     "accuracyM": 50,
-    "needsReview": "美ヶ原には美ヶ原高原大駐車場（道の駅、普通車800台）・長和町駐車場（60台）・美ヶ原自然保護センター前（150台）の3か所の駐車場がある（美ヶ原高原）、松本市が美ヶ原高原へのアクセスの通行規制情報を公開している（松本市）",
+    "needsReview": "美ヶ原には美ヶ原高原大駐車場（道の駅、普通車800台）・長和町駐車場（60台）・美ヶ原自然保護センター前（150台）の3か所の駐車場がある（美ヶ原高原）、松本市が美ヶ原高原へのアクセスの通行規制情報を公開している（松本市）、林道よもぎこば線（三城〜扉峠方面）は擁壁補修工事のため2026年10月19日〜12月25日に通行止めとなり、そのまま冬期通行止めに入る（松本市）",
     "sources": "OSM node/1150843773（2026-09-20時点の候補座標） ｜ 公式情報: https://www.city.matsumoto.nagano.jp/soshiki/76/146139.html ｜ 公式情報: http://www.utsukushigaharakogen.jp/",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -23132,7 +23132,7 @@
     "accuracyM": 15,
     "needsReview": "御嶽山の噴火警戒レベルは1。木曽町・王滝村・下呂市の入山規制は解除されている（気象庁）、剣ヶ峰南西の地獄谷付近では突発的な噴出に注意が必要。自治体の規制に従い、ヘルメットの携行が推奨されている（気象庁）",
     "sources": "OpenStreetMap（© OpenStreetMap contributors, ODbL 1.0）Geofabrik japan-latest.osm.pbf 2026-09-30T20:22:42Z node/1294549742（登山道と道路の接続点） ｜ 公式情報: https://www.data.jma.go.jp/vois/data/report/activity_info/312.html ｜ 公式情報: https://www.jma.go.jp/jma/press/2505/20a/20250520_ontakesan.html",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {
@@ -24413,7 +24413,7 @@
     "mountainNames": "雨飾山",
     "otherMountainNames": "",
     "lists": "日本百名山|日本二百名山|日本三百名山|甲信越百名山",
-    "routes": "",
+    "routes": "雨飾高原コース（小谷温泉）",
     "entryType": "林道との接続",
     "trailKmToSummit": "雨飾山:3.0km",
     "related": "",
@@ -32610,9 +32610,9 @@
     "attributes": "parking=美ヶ原高原大駐車場 普通車800台・バス15台; season=松本市街から美ヶ原高原へ向かう道路は例年11月下旬〜4月中旬が冬期通行止め（松本市）",
     "status": "adopted",
     "accuracyM": 50,
-    "needsReview": "道の駅美ヶ原高原（美ヶ原高原美術館）は美ヶ原の東側の入口にあたる（美ヶ原高原）",
+    "needsReview": "道の駅美ヶ原高原（美ヶ原高原美術館）は美ヶ原の東側の入口にあたる（美ヶ原高原）、林道よもぎこば線（三城〜扉峠方面）は擁壁補修工事のため2026年10月19日〜12月25日に通行止めとなり、そのまま冬期通行止めに入る（松本市）",
     "sources": "OSM way/117369478（2026-09-20時点の候補座標） ｜ 公式情報: http://www.utsukushigaharakogen.jp/ ｜ 公式情報: https://www.city.matsumoto.nagano.jp/soshiki/76/146139.html",
-    "verifiedAt": "2026-09-20"
+    "verifiedAt": "2026-10-20"
    }
   },
   {
