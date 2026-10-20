@@ -27,8 +27,9 @@ The App collects the following information:
 - Location permission status (used to show guidance to Settings when location access is not allowed)
 - iCloud account availability (used to check whether sync is available when iCloud Sync is turned on)
 - Low Power Mode status of your device (used to switch GPS accuracy to Power Saving automatically)
-- Hiking data (mountain name, date and time, elevation, distance, notes, course time plans and actual times, departure date and time, route starting point, walking pace history, time spent stopped during a hike, route sections filled in, trailheads, parking lots and bus stops chosen as the start or finish point of a route, the mountain and course you planned, etc.)
-- App settings (GPS accuracy mode, display units, iCloud Sync on/off, display of trailheads, parking and bus stops on/off, etc.)
+- Hiking data (mountain name, date and time, elevation, distance, notes, course time plans and actual times, departure date and time, route starting point, walking pace history, time spent stopped during a hike, route sections filled in, trail sections added to your route with "Add This Trail to Route", trailheads, parking lots and bus stops chosen as the start or finish point of a route, the mountain and course you planned, etc.)
+- App settings (GPS accuracy mode, display units, iCloud Sync on/off, display of trailheads, parking and bus stops on/off, display of other mountains on/off, etc.)
+- Whether you have used your first photo import (used so that the free version can register any number of records on the first import only; stored in your device's Keychain)
 
 This information is used on your device (except hiking record data and photos synced when iCloud Sync is turned on), and the App never collects information that identifies you (such as your name, email address or account information).
 
@@ -107,7 +108,8 @@ Course time information is stored only on your device and is never sent to exter
 
 The App provides a feature to search for a mountain by name on the Climb screen, the offline map screen and the Famous Mountains screen.
 All searchable data for famous mountains and for mountains not on the famous mountain lists (other mountains) (name, reading, location, elevation and coordinates) is bundled with the App, and searches are completed on your device.
-The keywords you enter are never sent to external servers, and your search history is never sent or shared outside the App.
+When searching the App's own data, the keywords you enter are never sent to external servers, and your search history is never sent or shared outside the App.
+However, "Create a course on the map" in the mountain name search on the Climb screen and the place search on the offline map screen use Apple's map search (MapKit) to find places. For this search, the keywords you enter are sent to Apple (on the Climb screen, the search runs automatically when you stop typing). The search area is fixed to all of Japan, and the App never includes your current location or hiking records in the search. Information at Apple is handled in accordance with Apple's Privacy Policy.
 Retrieving map tiles for the location of the mountain you select involves the communication described in "26. Communication with External Services" of this Policy.
 
 ## 12. Trailhead, Parking and Bus Stop Data
@@ -118,9 +120,9 @@ To keep trailhead data up to date, the App checks about once a day after launch 
 You can turn the display of trailheads, parking and bus stops on or off, check the data's update date, and update the data manually in Settings > Trailhead.
 Showing directions in a maps app (Apple Maps, or Google Maps if installed) from the detail screen of a trailhead, parking lot or bus stop happens only when you explicitly perform that action. In that case, the coordinates and name of the destination (the trailhead, parking lot or bus stop) are passed to the maps app. The App never passes your current location or hiking records to the maps app. Information in the maps app is handled in accordance with that app's privacy policy.
 
-## 13. Reusing Route Data (Previous Route)
+## 13. Reusing Route Data (Previous Course)
 
-The App provides a feature that loads the route of a past hiking record into the Climb screen as "Previous route" in the course list opened from the hiking record detail screen, so that you can start a hike on the same route again.
+The App provides a feature that loads the route of a past hiking record into the Climb screen as "Previous course" in the course list opened from the hiking record detail screen, so that you can start a hike on the same route again.
 The route data loaded (coordinates, checkpoints and course time information) is taken from existing hiking records stored on your device, and all processing is completed on your device.
 This feature never sends your past hiking records to external servers or shares them with third parties.
 New hiking records created from a reused route are handled in the same way as other hiking records (stored on your device, and synced if iCloud Sync is turned on).
@@ -128,8 +130,9 @@ New hiking records created from a reused route are handled in the same way as ot
 ## 14. Course List
 
 The App provides a feature that shows a course list for the mountain you choose, from "Search by name" on the Climb screen or from "Climb this mountain" on the detail screen of a famous mountain, another mountain or a hiking record.
-Creating courses (round-trip courses from each trailhead, and your previous route when opened from a hiking record), calculating course time, distance, elevation gain and the course constant, sorting, and determining the place names shown at the start and finish of course times (such as nearby trailheads, parking lots and summits) are performed on your device using data bundled with the App and data stored on your device.
-If trail data for the area around the mountain (about 10 km square centered on the summit) has not been saved, the App retrieves trail data for that area from the Overpass API (OpenStreetMap) to create courses. To calculate elevation gain, the App also retrieves elevation data for the route from GSI when a connection is available (otherwise it uses elevation data from saved offline maps). These requests include only locations (latitude and longitude, or ranges of them); the name of the mountain you chose, your current location and your hiking records are never sent (see "26. Communication with External Services" of this Policy).
+Creating courses (standard courses, round-trip courses from each trailhead, and your previous course when opened from a hiking record), calculating course time, distance, elevation gain and the course constant, sorting, and determining the place names shown at the start and finish of course times (such as nearby trailheads, parking lots and summits) are performed on your device using data bundled with the App and data stored on your device.
+Route lines and elevation data for standard courses are bundled with the App, and the course list shows standard courses from this data when it opens.
+If trail data for the area around the mountain (about 10 km square centered on the summit) has not been saved, the App retrieves trail data for that area (including roads and forest roads around trailheads) from the Overpass API (OpenStreetMap) to create courses (if the area is too large to retrieve at once, it is retrieved in parts). If the retrieved trails differ from a bundled standard course, the course is recreated from the retrieved trails. To calculate elevation gain, the App also retrieves elevation data for the route from GSI when a connection is available (otherwise it uses elevation data from saved offline maps). These requests include only locations (latitude and longitude, or ranges of them); the name of the mountain you chose, your current location and your hiking records are never sent (see "26. Communication with External Services" of this Policy).
 Only when you tap "Plan with this course" does the App set the route and save an offline map of about 10 km square around the summit (or an area that contains the whole course if it extends beyond that) on your device.
 The mountain, course name and course type you planned are stored only on your device as hiking plan data.
 
@@ -139,6 +142,7 @@ When the App detects that you have deviated from your planned route during a hik
 Route deviation is determined on your device after you reach the start of your route, based on the distance between your current location and the route line.
 Searching for nearby trails and calculating the section to fill in are performed on your device using trail and route data stored on your device, and your current location is not sent to external servers for this purpose.
 A section is filled in only if you accept the suggestion, and the filled-in section is stored on your device as route data of the hiking record.
+If you tap "Add This Trail to Route" shown when you deviate from your route, the App calculates the section of the trail you are on from trail data stored on your device and adds it to your route after you confirm. Asking whether to extend your route when you continue past the added section, and recalculating course times when you extend it, are also performed on your device, and your current location is not sent to external servers for this purpose.
 Heading information shown at your current location on the map is used only for display and is never sent to external servers.
 
 ## 16. Photos
@@ -217,8 +221,9 @@ None of them receive your personal information.
 - Open-Meteo API (retrieving mountain weather forecasts and sunset times)
 - Overpass API / OpenStreetMap (searching trail and approach road data)
 - GitHub Pages (checking for and downloading updates to trailhead, parking and bus stop data; see "12. Trailhead, Parking and Bus Stop Data")
+- Apple MapKit (map search for mountain and place names, and retrieving the name of the area of an offline map you download; see "11. Mountain Name Search")
 
-Requests for map tiles, elevation, weather and trails include a range of location (latitude and longitude), but no information that identifies your device or account is sent. Checking for trailhead data updates does not include any location.
+Requests for map tiles, elevation, weather and trails include a range of location (latitude and longitude), but no information that identifies your device or account is sent. Checking for trailhead data updates does not include any location. Apple's map search includes the keywords you enter, and retrieving an area name includes the coordinates of the center of the area you download.
 All communication uses HTTPS (encrypted communication).
 A timeout (10 to 65 seconds) is set, so unresponsive connections are not kept open for long.
 If you download offline maps in advance, you can use maps during your hike without these communications.
@@ -234,6 +239,7 @@ All audio is generated on your device, with no communication with external serve
 In-app purchases (buying the Pro version) are processed through Apple's payment system.
 The App never obtains or stores payment information (such as credit card numbers).
 Your purchase status is stored securely in your device's Keychain (secure storage).
+Whether you have used your first photo import is also stored in your device's Keychain, so that it cannot be used again by reinstalling the App. This information is used only on your device and is never sent to external servers.
 
 ## 29. Deleting Data
 
@@ -252,4 +258,4 @@ Timelapse videos saved to your photo library must be deleted manually in the Pho
 This Privacy Policy may be changed without notice.
 Changes take effect when they are posted on this page.
 
-**Last updated:** October 13, 2026
+**Last updated:** October 20, 2026
