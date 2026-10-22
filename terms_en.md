@@ -30,6 +30,7 @@ The App provides the following features:
 - Showing the course constant (an indicator of how physically demanding a course is)
 - Recalculating course times where there is no signal (without a network connection)
 - Sharing course time plans as images
+- Saving plans (saving up to 20 routes with their course time settings, opening them on the Climb screen, renaming and deleting them)
 - Automatic walking pace setting based on past hikes
 - Starting a hike by reusing the route of a past hiking record ("Previous course" in the course list)
 - Sharing current location information (latitude, longitude, elevation and map link)
@@ -65,7 +66,7 @@ The App provides the following features:
 - Guidance through cards on the Climb screen that change with the state of your plan
 - Limited-time in-app events (such as raised free record limits and challenge badges)
 - Map cache management (checking usage and clearing all)
-- iCloud Sync (Pro; syncing hiking records and photos across devices with the same Apple ID and deleting data in iCloud)
+- iCloud Sync (Pro; syncing hiking records, photos and saved plans across devices with the same Apple ID and deleting data in iCloud)
 - Switching the GPS accuracy mode (High Accuracy (Standard) or Power Saving, with automatic switching during Low Power Mode)
 - Switching display units (metric or imperial)
 - Support for the device's text size setting (Dynamic Type)
@@ -124,6 +125,8 @@ Specifying the starting point (walking direction) only determines the order of t
 
 "Previous course" in the course list reuses route data saved in a past hiking record and does not guarantee that the route is still safe to travel. Trail conditions change due to disasters, collapses, snow, construction, seasonal closures and other factors. Even when reusing a past route, always check the latest trail information and weather forecasts in advance. The time taken in a past record reflects the conditions at that time and does not guarantee the time required for your next hike.
 
+A saved plan restores the route and course time settings as they were when you saved them. It does not guarantee that the route is safe to travel when you open the plan, or that the plan suits the conditions on the day of your hike. Trail conditions, weather, sunrise and sunset times, and your own physical condition may change after you save a plan. Even when using a saved plan, always check the latest trail information, weather forecasts and local conditions in advance, and review the departure time and course times.
+
 Automatic walking pace settings are estimates based on past hikes and may differ from your actual pace depending on your physical condition, the weather, pack weight, trail conditions and other factors.
 
 Timelapse videos are generated from GPS track data and may differ from your actual route due to GPS accuracy.
@@ -136,7 +139,7 @@ Voice memo transcription is automatic conversion by speech recognition technolog
 
 Backup and restore helps preserve hiking records and image data, but restoration may not be possible due to backup file corruption, device status, storage capacity and other factors. You are responsible for storing backup files.
 
-iCloud Sync uses Apple's iCloud to sync hiking records and photos between devices. Sync may be delayed or fail, or data may not be reflected as intended, due to iCloud outages, network conditions, available iCloud storage, Apple ID sign-in status and other factors. Some data, such as course time plans, actual times and offline maps, is not synced. Photos may take time to sync depending on the number of photos and network conditions, and may not appear on other devices until syncing is complete. If you delete a hiking record or photo while iCloud Sync is on, it is also deleted from your other synced devices. Data deleted with "Delete iCloud Data" cannot be recovered. iCloud Sync is not a substitute for backups, so please save important records using the backup feature.
+iCloud Sync uses Apple's iCloud to sync hiking records, photos and saved plans between devices. Sync may be delayed or fail, or data may not be reflected as intended, due to iCloud outages, network conditions, available iCloud storage, Apple ID sign-in status and other factors. Some data, such as course time plans and actual times (except saved plans) and offline maps, is not synced. Photos may take time to sync depending on the number of photos and network conditions, and may not appear on other devices until syncing is complete. If you delete a hiking record, photo or saved plan while iCloud Sync is on, it is also deleted from your other synced devices. Data deleted with "Delete iCloud Data" cannot be recovered. iCloud Sync is not a substitute for backups, so please save important records using the backup feature.
 
 Downloaded offline maps are not included in device backups. If you restore your device from a backup or change devices, offline maps will not be restored. Before entering mountain areas without signal, always download the offline maps you need again and confirm that they display correctly.
 
