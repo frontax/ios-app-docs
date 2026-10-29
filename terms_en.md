@@ -18,13 +18,14 @@ The App provides the following features:
 - Recording multi-peak hikes (recording several summits in one hike)
 - Generating timelapse videos (creating, saving and sharing videos that animate your GPS track on a map)
 - Displaying the map and moving to a mountain area by mountain name search (including searching for places with Apple's map search)
-- Showing a course list for the mountain you choose (standard courses, including bundled route and elevation data, automatically created round-trip courses from each trailhead, your previous course, sorting by course constant, course time, distance and elevation gain, changing the trailhead you descend to, and saving an offline map around the summit when you plan)
+- Showing a course list for the mountain you choose (standard courses, including bundled route and elevation data, automatically created round-trip courses from each trailhead (created when you choose to for mountains with standard courses), your previous course, sorting by course constant, course time, distance and elevation gain, changing the trailhead you descend to, and saving an offline map around the summit when you plan)
 - Saving the topo map for "Create course on map" (showing the download progress and stopping it, trying again if the map could not be saved, and saving the missing area when the course you create extends beyond the saved map)
 - Showing nearby place names (trailheads, parking lots, summits, etc.) at the start and finish of course times
+- Automatically naming the mountain and course for a course created with "Create course on map"
 - Specifying the starting point (walking direction) of a route
 - Showing trailheads, parking lots and bus stops on the map (including restrictions and cautions, and regular updates of trailhead data)
 - Creating routes that start or finish at a trailhead, parking lot or bus stop (including joining sections not connected by trails or roads with straight lines)
-- Showing directions to trailheads, parking lots and bus stops in a maps app (Apple Maps or Google Maps)
+- Showing directions to trailheads, parking lots and bus stops, and to the start and finish of course times, in a maps app (Apple Maps or Google Maps)
 - Creating course time plans (setting time required and rest time for each checkpoint, specifying the departure date and time, and suggesting routes by shortest-route search)
 - Estimating arrival times at each checkpoint and the finish time based on the departure date and time
 - Recording actual course times (comparison with the plan, real-time updates of actual times)
@@ -118,7 +119,9 @@ Trailhead, parking and bus stop information is reference information created fro
 
 When creating routes that start or finish at a trailhead, parking lot or bus stop, sections that are not connected in the trail and road data are joined with straight lines to complete the route. Straight-line sections do not represent a path you can actually walk, and their distance and time are approximate. Do not try to walk a straight-line section as shown; check the actual path using signs and maps on site.
 
-Directions to trailheads, parking lots and bus stops shown in a maps app (Apple Maps or Google Maps) are provided by that maps app, and the App does not guarantee them. Roads to trailheads may include forest roads, narrow roads and unpaved roads, and may be subject to closures, winter closures or vehicle restrictions. Follow road signs, traffic regulations and information from road administrators.
+Directions to trailheads, parking lots and bus stops, and to the start and finish of course times, shown in a maps app (Apple Maps or Google Maps) are provided by that maps app, and the App does not guarantee them. The start and finish of course times are not necessarily parking lots or places reachable by car. Roads to trailheads may include forest roads, narrow roads and unpaved roads, and may be subject to closures, winter closures or vehicle restrictions. Follow road signs, traffic regulations and information from road administrators.
+
+The mountain name and course name automatically given to a course created with "Create course on map" are determined mechanically from landmarks along the route and nearby trailhead data, and may differ from the mountains and trailheads the route actually passes or from the names by which the course is commonly known.
 
 The course constant is an indicator of how physically demanding a course is, calculated from the standard course time, distance and total ascent and descent. It does not take into account the weather, snow, trail conditions, technical difficulty (rocky sections, chains, river crossings, etc.), the weight of your pack, or your own fitness and experience. Labels such as "suitable for beginners" do not guarantee that a course is safe for beginners. Make your hiking plan at your own discretion, also checking information such as trail gradings published by local governments.
 
@@ -232,7 +235,7 @@ The terms of use of each service apply to its use.
 - Wikipedia (external links from the detail screens of famous mountains and other mountains)
 - Apple MapKit (map search for mountain and place names, and retrieving the name of the area of an offline map)
 - GitHub Pages (distributing trailhead, parking and bus stop data)
-- Apple Maps / Google Maps (showing directions to trailheads, parking lots and bus stops; Google Maps only if installed)
+- Apple Maps / Google Maps (showing directions to trailheads, parking lots and bus stops, and to the start and finish of course times; Google Maps only if installed)
 
 ## Article 10 (Intellectual Property)
 
@@ -254,4 +257,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 26, 2026
+**Last updated:** October 29, 2026
