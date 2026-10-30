@@ -257,4 +257,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 29, 2026
+**Last updated:** October 30, 2026
