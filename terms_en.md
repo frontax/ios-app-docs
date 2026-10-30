@@ -18,18 +18,21 @@ The App provides the following features:
 - Recording multi-peak hikes (recording several summits in one hike)
 - Generating timelapse videos (creating, saving and sharing videos that animate your GPS track on a map)
 - Displaying the map and moving to a mountain area by mountain name search (including searching for places with Apple's map search)
-- Showing a course list for the mountain you choose (standard courses, including bundled route and elevation data, automatically created round-trip courses from each trailhead, your previous course, sorting by course constant, course time, distance and elevation gain, changing the trailhead you descend to, and saving an offline map around the summit when you plan)
+- Showing a course list for the mountain you choose (standard courses, including bundled route and elevation data, automatically created round-trip courses from each trailhead (created when you choose to for mountains with standard courses), your previous course, sorting by course constant, course time, distance and elevation gain, changing the trailhead you descend to, and saving an offline map around the summit when you plan)
+- Saving the topo map for "Create course on map" (showing the download progress and stopping it, trying again if the map could not be saved, and saving the missing area when the course you create extends beyond the saved map)
 - Showing nearby place names (trailheads, parking lots, summits, etc.) at the start and finish of course times
+- Automatically naming the mountain and course for a course created with "Create course on map"
 - Specifying the starting point (walking direction) of a route
 - Showing trailheads, parking lots and bus stops on the map (including restrictions and cautions, and regular updates of trailhead data)
 - Creating routes that start or finish at a trailhead, parking lot or bus stop (including joining sections not connected by trails or roads with straight lines)
-- Showing directions to trailheads, parking lots and bus stops in a maps app (Apple Maps or Google Maps)
+- Showing directions to trailheads, parking lots and bus stops, and to the start and finish of course times, in a maps app (Apple Maps or Google Maps)
 - Creating course time plans (setting time required and rest time for each checkpoint, specifying the departure date and time, and suggesting routes by shortest-route search)
 - Estimating arrival times at each checkpoint and the finish time based on the departure date and time
 - Recording actual course times (comparison with the plan, real-time updates of actual times)
 - Showing the course constant (an indicator of how physically demanding a course is)
 - Recalculating course times where there is no signal (without a network connection)
 - Sharing course time plans as images
+- Saving plans (saving up to 20 routes with their course time settings, opening them on the Climb screen, renaming and deleting them)
 - Automatic walking pace setting based on past hikes
 - Starting a hike by reusing the route of a past hiking record ("Previous course" in the course list)
 - Sharing current location information (latitude, longitude, elevation and map link)
@@ -65,7 +68,7 @@ The App provides the following features:
 - Guidance through cards on the Climb screen that change with the state of your plan
 - Limited-time in-app events (such as raised free record limits and challenge badges)
 - Map cache management (checking usage and clearing all)
-- iCloud Sync (Pro; syncing hiking records and photos across devices with the same Apple ID and deleting data in iCloud)
+- iCloud Sync (Pro; syncing hiking records, photos and saved plans across devices with the same Apple ID and deleting data in iCloud)
 - Switching the GPS accuracy mode (High Accuracy (Standard) or Power Saving, with automatic switching during Low Power Mode)
 - Switching display units (metric or imperial)
 - Support for the device's text size setting (Dynamic Type)
@@ -96,7 +99,7 @@ Weather forecasts are obtained from external services and may differ from actual
 
 Course time plans are reference values calculated from trail distance and elevation change, and the actual time required may differ depending on your fitness, the weather, trail conditions and other factors. Routes suggested by shortest-route search are also for reference only and do not guarantee that trails are passable. Regardless of your course time plan, make appropriate decisions based on your own fitness, experience and the conditions on the day.
 
-"Standard" courses in the course list are created by choosing trailheads and waypoints based on public information from local governments, mountain huts and others, and connecting them along the trail data. The current condition of the trails and whether they are passable have not been checked. The route may differ in part from the typical course described in public information, and may include sections walking on roads or forest roads around the trailhead. Route and elevation data for standard courses bundled with the App reflects the time it was created and may not reflect later collapses, trail relocations, closures or other changes. If there is no trail data near the summit, the course includes an approximate straight-line section to the summit. The "Standard" label does not guarantee that a course is safe or suited to your skills. When choosing a course, always check the latest trail information, hiking maps and official information from local governments, mountain huts and others to confirm that it is currently passable.
+"Standard" courses in the course list are created by choosing trailheads and waypoints based on public information from local governments, mountain huts and others, as well as publicly available model courses, and connecting them along the trail data (OpenStreetMap and footpaths on GSI maps). The current condition of the trails and whether they are passable have not been checked. The route may differ in part from the typical course described in public information, and may include sections walking on roads or forest roads around the trailhead. Route and elevation data for standard courses bundled with the App reflects the time it was created and may not reflect later collapses, trail relocations, closures or other changes. Where there is no trail data, the course may include approximate sections connected by a straight line, or approximate sections estimated from the terrain using GSI elevation data. In the App, estimated sections are treated as approximate sections in the same way as straight-line sections. They may differ greatly from the actual trail in position, distance and time, and the route deviation alert may not accurately detect when you leave the actual trail. On these sections, check the trail with signs, footprints and maps on site, and if the trail is unclear, do not push on; turn back. The "Standard" label does not guarantee that a course is safe or suited to your skills. When choosing a course, always check the latest trail information, hiking maps and official information from local governments, mountain huts and others to confirm that it is currently passable.
 
 "Auto" courses in the course list are created automatically by connecting a trailhead and the summit along the shortest path in the trail data. They are not guaranteed to be standard hiking courses recommended by local governments or mountaineering organizations, nor to be passable. The trail data may include, without distinction, abandoned trails, collapsed or closed sections, sections closed in winter, and difficult routes unsuitable for ordinary hikers. Course time, distance, elevation gain and the course constant are also reference values calculated from this data. When choosing a course, always check the latest trail information, hiking maps and official information from local governments, mountain huts and others to confirm that the route suits your skills and is currently passable. If you choose a course that descends to a different trailhead with "Change Descent", transportation back to your starting point (such as a parking lot) is not taken into account.
 
@@ -116,13 +119,17 @@ Trailhead, parking and bus stop information is reference information created fro
 
 When creating routes that start or finish at a trailhead, parking lot or bus stop, sections that are not connected in the trail and road data are joined with straight lines to complete the route. Straight-line sections do not represent a path you can actually walk, and their distance and time are approximate. Do not try to walk a straight-line section as shown; check the actual path using signs and maps on site.
 
-Directions to trailheads, parking lots and bus stops shown in a maps app (Apple Maps or Google Maps) are provided by that maps app, and the App does not guarantee them. Roads to trailheads may include forest roads, narrow roads and unpaved roads, and may be subject to closures, winter closures or vehicle restrictions. Follow road signs, traffic regulations and information from road administrators.
+Directions to trailheads, parking lots and bus stops, and to the start and finish of course times, shown in a maps app (Apple Maps or Google Maps) are provided by that maps app, and the App does not guarantee them. The start and finish of course times are not necessarily parking lots or places reachable by car. Roads to trailheads may include forest roads, narrow roads and unpaved roads, and may be subject to closures, winter closures or vehicle restrictions. Follow road signs, traffic regulations and information from road administrators.
+
+The mountain name and course name automatically given to a course created with "Create course on map" are determined mechanically from landmarks along the route and nearby trailhead data, and may differ from the mountains and trailheads the route actually passes or from the names by which the course is commonly known.
 
 The course constant is an indicator of how physically demanding a course is, calculated from the standard course time, distance and total ascent and descent. It does not take into account the weather, snow, trail conditions, technical difficulty (rocky sections, chains, river crossings, etc.), the weight of your pack, or your own fitness and experience. Labels such as "suitable for beginners" do not guarantee that a course is safe for beginners. Make your hiking plan at your own discretion, also checking information such as trail gradings published by local governments.
 
 Specifying the starting point (walking direction) only determines the order of the route and does not guarantee that you can enter the mountains from that point or that travel in that direction is permitted. Always check entry points and whether trails are passable using the latest trail information, signs on site, and official information from local governments, mountain huts and other sources.
 
 "Previous course" in the course list reuses route data saved in a past hiking record and does not guarantee that the route is still safe to travel. Trail conditions change due to disasters, collapses, snow, construction, seasonal closures and other factors. Even when reusing a past route, always check the latest trail information and weather forecasts in advance. The time taken in a past record reflects the conditions at that time and does not guarantee the time required for your next hike.
+
+A saved plan restores the route and course time settings as they were when you saved them. It does not guarantee that the route is safe to travel when you open the plan, or that the plan suits the conditions on the day of your hike. Trail conditions, weather, sunrise and sunset times, and your own physical condition may change after you save a plan. Even when using a saved plan, always check the latest trail information, weather forecasts and local conditions in advance, and review the departure time and course times.
 
 Automatic walking pace settings are estimates based on past hikes and may differ from your actual pace depending on your physical condition, the weather, pack weight, trail conditions and other factors.
 
@@ -136,7 +143,7 @@ Voice memo transcription is automatic conversion by speech recognition technolog
 
 Backup and restore helps preserve hiking records and image data, but restoration may not be possible due to backup file corruption, device status, storage capacity and other factors. You are responsible for storing backup files.
 
-iCloud Sync uses Apple's iCloud to sync hiking records and photos between devices. Sync may be delayed or fail, or data may not be reflected as intended, due to iCloud outages, network conditions, available iCloud storage, Apple ID sign-in status and other factors. Some data, such as course time plans, actual times and offline maps, is not synced. Photos may take time to sync depending on the number of photos and network conditions, and may not appear on other devices until syncing is complete. If you delete a hiking record or photo while iCloud Sync is on, it is also deleted from your other synced devices. Data deleted with "Delete iCloud Data" cannot be recovered. iCloud Sync is not a substitute for backups, so please save important records using the backup feature.
+iCloud Sync uses Apple's iCloud to sync hiking records, photos and saved plans between devices. Sync may be delayed or fail, or data may not be reflected as intended, due to iCloud outages, network conditions, available iCloud storage, Apple ID sign-in status and other factors. Some data, such as course time plans and actual times (except saved plans) and offline maps, is not synced. Photos may take time to sync depending on the number of photos and network conditions, and may not appear on other devices until syncing is complete. If you delete a hiking record, photo or saved plan while iCloud Sync is on, it is also deleted from your other synced devices. Data deleted with "Delete iCloud Data" cannot be recovered. iCloud Sync is not a substitute for backups, so please save important records using the backup feature.
 
 Downloaded offline maps are not included in device backups. If you restore your device from a backup or change devices, offline maps will not be restored. Before entering mountain areas without signal, always download the offline maps you need again and confirm that they display correctly.
 
@@ -228,7 +235,7 @@ The terms of use of each service apply to its use.
 - Wikipedia (external links from the detail screens of famous mountains and other mountains)
 - Apple MapKit (map search for mountain and place names, and retrieving the name of the area of an offline map)
 - GitHub Pages (distributing trailhead, parking and bus stop data)
-- Apple Maps / Google Maps (showing directions to trailheads, parking lots and bus stops; Google Maps only if installed)
+- Apple Maps / Google Maps (showing directions to trailheads, parking lots and bus stops, and to the start and finish of course times; Google Maps only if installed)
 
 ## Article 10 (Intellectual Property)
 
@@ -250,4 +257,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 22, 2026
+**Last updated:** October 29, 2026
