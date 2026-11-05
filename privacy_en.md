@@ -93,6 +93,7 @@ All localized display data, such as mountain and prefecture names, is included i
 The App calculates statistics from your hiking records (monthly and yearly hike counts, total ascent, distance walked, summits by prefecture, completion rates for all mountain lists, the number of mountains climbed including those not on the lists, personal bests, etc.).
 Progress information shown on highlight cards, such as your 100 Famous Mountains completion rate, is also calculated from the hiking record data on your device.
 All statistics are calculated and displayed on your device from your hiking record data and are never sent to external servers.
+Recalculating total ascent in saved records is also done on your device, and your records are not sent to external servers for this purpose.
 
 ## 10. Course Time Information
 
@@ -148,7 +149,7 @@ The mountain, course name and course type you planned are stored only on your de
 ## 16. Trail Search and Section Suggestions When You Deviate from Your Route
 
 When the App detects that you have deviated from your planned route during a hike, it searches for trails near your current location and suggests filling in the section up to that point on your route.
-Route deviation is determined on your device after you reach the start of your route, based on the distance between your current location and the route line.
+Route deviation is determined on your device after you reach the start of your route, based on the distance between your current location and the route line and your progress along the route.
 Searching for nearby trails and calculating the section to fill in are performed on your device using trail and route data stored on your device, and your current location is not sent to external servers for this purpose.
 A section is filled in only if you accept the suggestion, and the filled-in section is stored on your device as route data of the hiking record.
 If you tap "Add This Trail to Route" shown when you deviate from your route, the App calculates the section of the trail you are on from trail data stored on your device and adds it to your route after you confirm. Asking whether to extend your route when you continue past the added section, and recalculating course times when you extend it, are also performed on your device, and your current location is not sent to external servers for this purpose.
@@ -187,7 +188,7 @@ You are responsible for storing and sharing backup files.
 
 ## 21. Lock Screen and Dynamic Island Display
 
-During a hike, the App shows hiking information such as distance, elevation and elapsed time on the Lock Screen and Dynamic Island (Live Activity).
+During a hike, the App shows hiking information such as distance, elevation, elapsed time and the next point's name, distance and time on the Lock Screen and Dynamic Island (Live Activity).
 The information displayed is processed on your device and is never sent to external servers.
 When you record a summit or descent using the buttons on the Lock Screen or Dynamic Island, the record is only passed to the App on your device and is never sent to external servers.
 The display is removed automatically when the hike ends or is canceled.
@@ -268,4 +269,4 @@ Timelapse videos saved to your photo library must be deleted manually in the Pho
 This Privacy Policy may be changed without notice.
 Changes take effect when they are posted on this page.
 
-**Last updated:** October 29, 2026
+**Last updated:** November 5, 2026
