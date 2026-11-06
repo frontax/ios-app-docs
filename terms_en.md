@@ -48,6 +48,7 @@ The App provides the following features:
 - Creating and restoring backups of hiking records and image data
 - Offline maps (using GSI tiles, with download by mountain name search)
 - Showing and hiding the dashboard during a hike (swipe gesture)
+- Showing the distance and time to the next point on the dashboard and Lock Screen during a hike
 - Importing and exporting GPX files
 - Exporting and importing hiking records in CSV format
 - Mountain checklists (all 12 lists, including Japan's 100, 200 and 300 Famous Mountains and regional lists, with browsing and searching all lists at once, trailhead lists for each mountain, and Wikipedia links)
@@ -60,7 +61,7 @@ The App provides the following features:
 - Live display of hiking information on the Lock Screen and Dynamic Island
 - Recording summits and descents from the Lock Screen and Dynamic Island
 - Estimated finish time (based on walking pace excluding time spent stopped) and sunset alerts (including spoken alerts)
-- Route deviation detection (after reaching the start of the route) and spoken warnings
+- Route deviation detection (after reaching the start of the route) and spoken warnings (including a warning when you walk back along the way you came)
 - Searching for nearby trails and suggesting sections to fill in when you deviate from your route
 - Adding the trail you are on to your route with "Add This Trail to Route" when you deviate from your route, and asking whether to extend your route beyond an added section
 - Automatic backup of hiking records and crash recovery
@@ -103,6 +104,8 @@ Course time plans are reference values calculated from trail distance and elevat
 
 "Auto" courses in the course list are created automatically by connecting a trailhead and the summit along the shortest path in the trail data. They are not guaranteed to be standard hiking courses recommended by local governments or mountaineering organizations, nor to be passable. The trail data may include, without distinction, abandoned trails, collapsed or closed sections, sections closed in winter, and difficult routes unsuitable for ordinary hikers. Course time, distance, elevation gain and the course constant are also reference values calculated from this data. When choosing a course, always check the latest trail information, hiking maps and official information from local governments, mountain huts and others to confirm that the route suits your skills and is currently passable. If you choose a course that descends to a different trailhead with "Change Descent", transportation back to your starting point (such as a parking lot) is not taken into account.
 
+Trail lines shown on maps and courses (including the bundled lines of standard courses) are based on data such as OpenStreetMap and GSI maps. Some lines have been corrected using GSI maps, public GPS tracks and other sources, but even where trail data exists, a line may be offset from the actual trail or may show a different trail from the one on the ground. Distance, time and elevation gain may therefore also differ from reality. On site, do not rely on the line alone; check the trail with signs, footprints and a paper map, and do not force yourself to follow the line if it conflicts with what you see.
+
 The offline map saved with "Plan with this course" covers only a limited area around the summit (about 10 km square, or an area that contains the whole course if it extends beyond that). Maps outside this area may not be shown where there is no signal, so check in advance that you have maps for the area you need, including escape routes and nearby mountain areas, and also carry a paper map.
 
 The place names shown at the start and finish of course times are the names of nearby trailheads, parking lots, summits and other points shown automatically, and do not guarantee that the point is an actual trailhead or that the parking lot is available.
@@ -110,6 +113,8 @@ The place names shown at the start and finish of course times are the names of n
 Trail search also treats paths mapped in OpenStreetMap as footpaths or steps (excluding sidewalks along roads and crossings) as trails. These may include paths in towns or facilities, paths on private land, and paths with restricted access, and their inclusion in a route does not guarantee that they are passable or that access is permitted. Searching for trails up to a distant section covers a wide area, so it may take time or fail depending on network conditions. In addition, trail data in offline maps downloaded before footpaths and steps were supported does not include them, so routes may not connect until you retrieve the data again with "Update trail data" in the download history. Before entering mountain areas without signal, retrieve the trail data you need and check your route.
 
 Estimated arrival times at each checkpoint and finish times shown when you specify a departure date and time are estimates based on your course time plan. Actual passing times may differ due to a late start, more or less rest, the weather, trail conditions, congestion and other factors. Use estimated times only as a planning guide, and leave plenty of margin depending on the conditions on the day.
+
+The distance and time to the next point shown on the dashboard and Lock Screen during a hike are estimates calculated from the section times in your course time plan and your progress along the route, and may differ from reality because of breaks, trail conditions and other factors. GPS accuracy and offsets in the route line may also cause the next point shown, or the detection of passing a point, to differ from reality.
 
 Recalculating course times where there is no signal uses only data stored on your device. Information obtained when connected to a network is not reflected, so the results may differ from the actual time required.
 
@@ -135,7 +140,7 @@ Automatic walking pace settings are estimates based on past hikes and may differ
 
 Timelapse videos are generated from GPS track data and may differ from your actual route due to GPS accuracy.
 
-Statistics (monthly and yearly charts, total ascent, distance walked, personal records, completion rates, etc.) are reference values calculated from the GPS data in your hiking records and may differ from actual values depending on GPS accuracy and recording conditions.
+Statistics (monthly and yearly charts, total ascent, distance walked, personal records, completion rates, etc.) are reference values calculated from the GPS data in your hiking records and may differ from actual values depending on GPS accuracy and recording conditions. When an app update revises the calculation, total ascent in saved records may be recalculated and change (except for values you edited). Values on cards and videos you have already shared do not change.
 
 AI-generated text (such as highlight card posts) is generated automatically by Apple Intelligence, and its accuracy and appropriateness are not guaranteed. Review the text before sharing and share it at your own responsibility. On devices that do not support Apple Intelligence, template-based text is generated.
 
@@ -160,6 +165,9 @@ Spoken alerts may not be audible depending on your device volume, connected audi
 Regardless of whether the alert is triggered, descend with plenty of time to spare.
 
 The route deviation alert is reference information based on the distance between your GPS position and your planned route, and deviation may not be detected accurately due to GPS accuracy, terrain, signal conditions and other factors.
+Where the route line is offset from the actual trail, the alert may sound even though you are on the correct trail, or may not sound even though you have left it.
+Once the alert has sounded, it does not repeat its spoken and vibration warnings for a similar distance from the route, and only shows on screen, until you have walked on the route continuously for about 20 minutes (it sounds again if you move about 100 m further away). This also applies if you return to the route and then leave it again, so you may not notice unless you are looking at your device.
+Detecting that you are walking back along the way you came is an estimate based on your progress along the route and may not be accurate.
 Route deviation detection starts only after you reach the start of your route, so you will not be warned if you go the wrong way before reaching it. Reaching the start is determined from GPS location, so detection may start late due to GPS accuracy and other factors.
 Regardless of whether the alert is triggered, always carry alternatives such as a paper map and compass.
 
@@ -257,4 +265,4 @@ Changes take effect when they are posted on this page.
 
 These Terms are governed by the laws of Japan.
 
-**Last updated:** October 30, 2026
+**Last updated:** November 6, 2026
