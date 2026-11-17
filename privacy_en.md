@@ -310,4 +310,4 @@ Usage data that has already been sent is deleted in accordance with the data ret
 This Privacy Policy may be changed without notice.
 Changes take effect when they are posted on this page.
 
-**Last updated:** November 15, 2026
+**Last updated:** November 17, 2026
